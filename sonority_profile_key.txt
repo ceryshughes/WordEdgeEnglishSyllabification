@@ -1,0 +1,3000 @@
+CH R HH Z	(2, 5, 3, 3)	rise
+S JH K T	(3, 2, 1, 1)	fall
+W G M F	(5, 1, 4, 3)	fall
+ZH M N V	(3, 4, 4, 3)	nonmonotonic rise
+M W R N	(4, 5, 5, 4)	nonmonotonic rise
+SH NG ZH M	(3, 4, 3, 4)	nonmonotonic rise
+HH Z M JH	(3, 3, 4, 2)	other
+DH G W K	(3, 1, 5, 1)	other
+P B DH S	(1, 1, 3, 3)	nonmonotonic rise
+M TH ZH DH	(4, 3, 3, 3)	fall
+F DH SH JH	(3, 3, 3, 2)	nonmonotonic fall
+F V K SH	(3, 3, 1, 3)	nonmonotonic fall
+Y SH TH G	(5, 3, 3, 1)	fall
+T R L M	(1, 5, 5, 4)	rise
+ZH L P Y	(3, 5, 1, 5)	other
+B N DH G	(1, 4, 3, 1)	nonmonotonic rise
+DH R HH Y	(3, 5, 3, 5)	nonmonotonic rise
+P JH ZH D	(1, 2, 3, 1)	nonmonotonic rise
+JH TH DH G	(2, 3, 3, 1)	other
+D JH W Z	(1, 2, 5, 3)	rise
+W S N G	(5, 3, 4, 1)	fall
+T V N JH	(1, 3, 4, 2)	rise
+L Y NG B	(5, 5, 4, 1)	nonmonotonic fall
+S K V Y	(3, 1, 3, 5)	other
+M ZH F NG	(4, 3, 3, 4)	nonmonotonic fall
+M D HH L	(4, 1, 3, 5)	other
+JH DH HH T	(2, 3, 3, 1)	other
+TH CH W DH	(3, 2, 5, 3)	other
+L K Y M	(5, 1, 5, 4)	nonmonotonic fall
+HH S DH V	(3, 3, 3, 3)	nonmonotonic fall
+TH ZH T JH	(3, 3, 1, 2)	nonmonotonic fall
+ZH TH K N	(3, 3, 1, 4)	other
+B V ZH S	(1, 3, 3, 3)	rise
+S NG T R	(3, 4, 1, 5)	other
+K Z R W	(1, 3, 5, 5)	rise
+DH NG JH N	(3, 4, 2, 4)	other
+D B F NG	(1, 1, 3, 4)	nonmonotonic rise
+Z W DH P	(3, 5, 3, 1)	other
+JH M R W	(2, 4, 5, 5)	rise
+JH NG Y V	(2, 4, 5, 3)	rise
+JH V L Y	(2, 3, 5, 5)	rise
+Y JH NG Z	(5, 2, 4, 3)	fall
+NG R N P	(4, 5, 4, 1)	other
+JH HH B D	(2, 3, 1, 1)	other
+K CH W L	(1, 2, 5, 5)	rise
+G TH JH F	(1, 3, 2, 3)	rise
+T L HH V	(1, 5, 3, 3)	rise
+Y D F R	(5, 1, 3, 5)	nonmonotonic fall
+B R G ZH	(1, 5, 1, 3)	nonmonotonic rise
+K W M P	(1, 5, 4, 1)	nonmonotonic rise
+L T NG HH	(5, 1, 4, 3)	fall
+TH G ZH M	(3, 1, 3, 4)	other
+JH TH F P	(2, 3, 3, 1)	other
+NG JH T L	(4, 2, 1, 5)	other
+B F ZH T	(1, 3, 3, 1)	nonmonotonic rise
+M W Z HH	(4, 5, 3, 3)	other
+L ZH F CH	(5, 3, 3, 2)	fall
+K CH W S	(1, 2, 5, 3)	rise
+P B R HH	(1, 1, 5, 3)	nonmonotonic rise
+NG V TH Z	(4, 3, 3, 3)	fall
+B M HH S	(1, 4, 3, 3)	rise
+R NG CH L	(5, 4, 2, 5)	nonmonotonic fall
+B Y K G	(1, 5, 1, 1)	nonmonotonic rise
+Y TH SH CH	(5, 3, 3, 2)	fall
+B L CH SH	(1, 5, 2, 3)	rise
+M TH Y D	(4, 3, 5, 1)	other
+F Z ZH B	(3, 3, 3, 1)	nonmonotonic fall
+K F HH G	(1, 3, 3, 1)	nonmonotonic rise
+Z CH F T	(3, 2, 3, 1)	nonmonotonic fall
+D ZH V NG	(1, 3, 3, 4)	rise
+JH NG B Z	(2, 4, 1, 3)	other
+L HH CH B	(5, 3, 2, 1)	fall
+W V B P	(5, 3, 1, 1)	fall
+D NG W M	(1, 4, 5, 4)	rise
+NG TH M B	(4, 3, 4, 1)	nonmonotonic fall
+D TH B Y	(1, 3, 1, 5)	nonmonotonic rise
+V W T M	(3, 5, 1, 4)	other
+DH F M Z	(3, 3, 4, 3)	nonmonotonic rise
+N S F TH	(4, 3, 3, 3)	fall
+V P DH HH	(3, 1, 3, 3)	nonmonotonic fall
+TH W NG N	(3, 5, 4, 4)	rise
+G N D Y	(1, 4, 1, 5)	nonmonotonic rise
+Z R CH W	(3, 5, 2, 5)	other
+DH K S SH	(3, 1, 3, 3)	nonmonotonic fall
+M Z V TH	(4, 3, 3, 3)	fall
+R N ZH SH	(5, 4, 3, 3)	fall
+D DH N P	(1, 3, 4, 1)	nonmonotonic rise
+TH ZH R HH	(3, 3, 5, 3)	nonmonotonic rise
+TH P F W	(3, 1, 3, 5)	other
+P R CH NG	(1, 5, 2, 4)	rise
+K DH R V	(1, 3, 5, 3)	rise
+K ZH TH V	(1, 3, 3, 3)	rise
+L T NG CH	(5, 1, 4, 2)	fall
+P NG SH G	(1, 4, 3, 1)	nonmonotonic rise
+W L K Z	(5, 5, 1, 3)	nonmonotonic fall
+D L T W	(1, 5, 1, 5)	nonmonotonic rise
+Y P Z L	(5, 1, 3, 5)	nonmonotonic fall
+N Y TH G	(4, 5, 3, 1)	other
+Z P DH K	(3, 1, 3, 1)	nonmonotonic fall
+Z JH HH N	(3, 2, 3, 4)	other
+S F R ZH	(3, 3, 5, 3)	nonmonotonic rise
+G TH Y JH	(1, 3, 5, 2)	rise
+P Z R S	(1, 3, 5, 3)	rise
+W G CH DH	(5, 1, 2, 3)	fall
+K N W L	(1, 4, 5, 5)	rise
+P L TH F	(1, 5, 3, 3)	rise
+T TH N HH	(1, 3, 4, 3)	rise
+S P N NG	(3, 1, 4, 4)	other
+G SH N V	(1, 3, 4, 3)	rise
+JH W NG K	(2, 5, 4, 1)	other
+F W L Y	(3, 5, 5, 5)	rise
+B K TH DH	(1, 1, 3, 3)	nonmonotonic rise
+M R JH SH	(4, 5, 2, 3)	other
+ZH V L JH	(3, 3, 5, 2)	other
+T K R TH	(1, 1, 5, 3)	nonmonotonic rise
+L B SH G	(5, 1, 3, 1)	fall
+Y T N JH	(5, 1, 4, 2)	fall
+N Z CH Y	(4, 3, 2, 5)	other
+T SH Z W	(1, 3, 3, 5)	rise
+NG P R TH	(4, 1, 5, 3)	other
+G TH W CH	(1, 3, 5, 2)	rise
+TH Z D SH	(3, 3, 1, 3)	nonmonotonic fall
+ZH CH B W	(3, 2, 1, 5)	other
+Y S TH NG	(5, 3, 3, 4)	fall
+M N G CH	(4, 4, 1, 2)	nonmonotonic fall
+T B V F	(1, 1, 3, 3)	nonmonotonic rise
+DH N SH L	(3, 4, 3, 5)	nonmonotonic rise
+L W SH S	(5, 5, 3, 3)	nonmonotonic fall
+Y R S M	(5, 5, 3, 4)	nonmonotonic fall
+P NG L TH	(1, 4, 5, 3)	rise
+DH Y HH R	(3, 5, 3, 5)	nonmonotonic rise
+ZH N Y R	(3, 4, 5, 5)	rise
+N JH G F	(4, 2, 1, 3)	fall
+P W NG G	(1, 5, 4, 1)	nonmonotonic rise
+W Y NG CH	(5, 5, 4, 2)	nonmonotonic fall
+T TH CH JH	(1, 3, 2, 2)	rise
+T CH HH Z	(1, 2, 3, 3)	rise
+P SH W G	(1, 3, 5, 1)	nonmonotonic rise
+M SH ZH N	(4, 3, 3, 4)	nonmonotonic fall
+JH TH ZH N	(2, 3, 3, 4)	rise
+F S HH NG	(3, 3, 3, 4)	nonmonotonic rise
+SH DH Y W	(3, 3, 5, 5)	nonmonotonic rise
+Z V SH L	(3, 3, 3, 5)	nonmonotonic rise
+TH R DH T	(3, 5, 3, 1)	other
+W D Z T	(5, 1, 3, 1)	fall
+V CH W Y	(3, 2, 5, 5)	other
+S V P M	(3, 3, 1, 4)	other
+S HH SH L	(3, 3, 3, 5)	nonmonotonic rise
+T TH Z HH	(1, 3, 3, 3)	rise
+V K N F	(3, 1, 4, 3)	other
+N B Y P	(4, 1, 5, 1)	other
+N CH Y NG	(4, 2, 5, 4)	other
+P R K L	(1, 5, 1, 5)	nonmonotonic rise
+B S M G	(1, 3, 4, 1)	nonmonotonic rise
+JH Z K NG	(2, 3, 1, 4)	other
+ZH JH B P	(3, 2, 1, 1)	fall
+N D B S	(4, 1, 1, 3)	fall
+NG Z N SH	(4, 3, 4, 3)	nonmonotonic fall
+D Y SH F	(1, 5, 3, 3)	rise
+G B CH JH	(1, 1, 2, 2)	nonmonotonic rise
+NG P DH D	(4, 1, 3, 1)	fall
+B TH M HH	(1, 3, 4, 3)	rise
+T K F ZH	(1, 1, 3, 3)	nonmonotonic rise
+P Y F T	(1, 5, 3, 1)	nonmonotonic rise
+R P SH K	(5, 1, 3, 1)	fall
+K F T Y	(1, 3, 1, 5)	nonmonotonic rise
+W G M ZH	(5, 1, 4, 3)	fall
+S B W V	(3, 1, 5, 3)	other
+R TH L D	(5, 3, 5, 1)	nonmonotonic fall
+F Z NG R	(3, 3, 4, 5)	nonmonotonic rise
+D L N P	(1, 5, 4, 1)	nonmonotonic rise
+HH V ZH T	(3, 3, 3, 1)	nonmonotonic fall
+Y HH SH JH	(5, 3, 3, 2)	fall
+NG F D V	(4, 3, 1, 3)	fall
+V JH P F	(3, 2, 1, 3)	nonmonotonic fall
+K S SH TH	(1, 3, 3, 3)	rise
+TH K W DH	(3, 1, 5, 3)	other
+JH N Z R	(2, 4, 3, 5)	rise
+T F TH S	(1, 3, 3, 3)	rise
+ZH Z V T	(3, 3, 3, 1)	nonmonotonic fall
+G CH HH T	(1, 2, 3, 1)	nonmonotonic rise
+W B NG CH	(5, 1, 4, 2)	fall
+K P V W	(1, 1, 3, 5)	nonmonotonic rise
+G ZH M N	(1, 3, 4, 4)	rise
+K CH F ZH	(1, 2, 3, 3)	rise
+M HH CH TH	(4, 3, 2, 3)	fall
+P V ZH F	(1, 3, 3, 3)	rise
+ZH K DH P	(3, 1, 3, 1)	nonmonotonic fall
+CH B T F	(2, 1, 1, 3)	other
+P ZH HH Y	(1, 3, 3, 5)	rise
+ZH N DH R	(3, 4, 3, 5)	nonmonotonic rise
+NG W F T	(4, 5, 3, 1)	other
+B SH V DH	(1, 3, 3, 3)	rise
+L P M D	(5, 1, 4, 1)	fall
+K T W R	(1, 1, 5, 5)	nonmonotonic rise
+SH T W S	(3, 1, 5, 3)	other
+F W K NG	(3, 5, 1, 4)	other
+G L V Z	(1, 5, 3, 3)	rise
+R K D JH	(5, 1, 1, 2)	fall
+S SH L Z	(3, 3, 5, 3)	nonmonotonic rise
+NG Y P S	(4, 5, 1, 3)	other
+N D T S	(4, 1, 1, 3)	fall
+K N G Y	(1, 4, 1, 5)	nonmonotonic rise
+P L R F	(1, 5, 5, 3)	rise
+L N S P	(5, 4, 3, 1)	fall
+F K CH R	(3, 1, 2, 5)	other
+W SH P CH	(5, 3, 1, 2)	fall
+R ZH L W	(5, 3, 5, 5)	nonmonotonic fall
+L B CH Z	(5, 1, 2, 3)	fall
+R NG T DH	(5, 4, 1, 3)	fall
+JH SH G M	(2, 3, 1, 4)	other
+NG HH P W	(4, 3, 1, 5)	other
+NG Z F N	(4, 3, 3, 4)	nonmonotonic fall
+V R ZH SH	(3, 5, 3, 3)	nonmonotonic rise
+ZH T B N	(3, 1, 1, 4)	other
+V DH P HH	(3, 3, 1, 3)	nonmonotonic fall
+R CH G S	(5, 2, 1, 3)	fall
+F HH K SH	(3, 3, 1, 3)	nonmonotonic fall
+S ZH R JH	(3, 3, 5, 2)	other
+JH Y G B	(2, 5, 1, 1)	other
+ZH W F L	(3, 5, 3, 5)	nonmonotonic rise
+B Y Z CH	(1, 5, 3, 2)	rise
+V Y F Z	(3, 5, 3, 3)	nonmonotonic rise
+N T S DH	(4, 1, 3, 3)	fall
+NG S F DH	(4, 3, 3, 3)	fall
+S T V W	(3, 1, 3, 5)	other
+N F S M	(4, 3, 3, 4)	nonmonotonic fall
+G B NG JH	(1, 1, 4, 2)	nonmonotonic rise
+DH HH K F	(3, 3, 1, 3)	nonmonotonic fall
+ZH Y JH D	(3, 5, 2, 1)	other
+NG S Y L	(4, 3, 5, 5)	other
+ZH V HH N	(3, 3, 3, 4)	nonmonotonic rise
+G JH SH P	(1, 2, 3, 1)	nonmonotonic rise
+W CH HH V	(5, 2, 3, 3)	fall
+D K B SH	(1, 1, 1, 3)	nonmonotonic rise
+HH Z W ZH	(3, 3, 5, 3)	nonmonotonic rise
+JH ZH L N	(2, 3, 5, 4)	rise
+W TH NG F	(5, 3, 4, 3)	fall
+K HH T V	(1, 3, 1, 3)	nonmonotonic rise
+Y NG D L	(5, 4, 1, 5)	nonmonotonic fall
+SH TH K L	(3, 3, 1, 5)	other
+DH SH Z JH	(3, 3, 3, 2)	nonmonotonic fall
+G T NG B	(1, 1, 4, 1)	nonmonotonic rise
+JH L P R	(2, 5, 1, 5)	other
+F N JH ZH	(3, 4, 2, 3)	other
+JH T HH M	(2, 1, 3, 4)	other
+M NG D JH	(4, 4, 1, 2)	nonmonotonic fall
+M S TH JH	(4, 3, 3, 2)	fall
+HH D NG N	(3, 1, 4, 4)	other
+HH CH V Z	(3, 2, 3, 3)	nonmonotonic fall
+HH V L F	(3, 3, 5, 3)	nonmonotonic rise
+DH TH CH M	(3, 3, 2, 4)	other
+ZH V R NG	(3, 3, 5, 4)	nonmonotonic rise
+V T P L	(3, 1, 1, 5)	other
+N NG M F	(4, 4, 4, 3)	nonmonotonic fall
+R P L F	(5, 1, 5, 3)	nonmonotonic fall
+Z CH TH V	(3, 2, 3, 3)	nonmonotonic fall
+SH TH L ZH	(3, 3, 5, 3)	nonmonotonic rise
+N CH JH S	(4, 2, 2, 3)	fall
+CH D NG S	(2, 1, 4, 3)	other
+HH Z ZH G	(3, 3, 3, 1)	nonmonotonic fall
+NG JH HH R	(4, 2, 3, 5)	other
+K F CH Z	(1, 3, 2, 3)	rise
+N CH L K	(4, 2, 5, 1)	other
+Y N S SH	(5, 4, 3, 3)	fall
+HH TH W M	(3, 3, 5, 4)	nonmonotonic rise
+V K M F	(3, 1, 4, 3)	other
+TH P M W	(3, 1, 4, 5)	other
+Z HH DH N	(3, 3, 3, 4)	nonmonotonic rise
+F B JH DH	(3, 1, 2, 3)	nonmonotonic fall
+TH Z V D	(3, 3, 3, 1)	nonmonotonic fall
+Z D Y P	(3, 1, 5, 1)	other
+P B TH M	(1, 1, 3, 4)	nonmonotonic rise
+F Y W DH	(3, 5, 5, 3)	nonmonotonic rise
+DH ZH M L	(3, 3, 4, 5)	nonmonotonic rise
+JH S L SH	(2, 3, 5, 3)	rise
+Z TH JH ZH	(3, 3, 2, 3)	nonmonotonic fall
+T NG Z L	(1, 4, 3, 5)	rise
+R F ZH K	(5, 3, 3, 1)	fall
+L R W Z	(5, 5, 5, 3)	nonmonotonic fall
+ZH S M JH	(3, 3, 4, 2)	other
+N V TH Z	(4, 3, 3, 3)	fall
+HH T V G	(3, 1, 3, 1)	nonmonotonic fall
+DH Y TH V	(3, 5, 3, 3)	nonmonotonic rise
+HH B ZH D	(3, 1, 3, 1)	nonmonotonic fall
+D N NG F	(1, 4, 4, 3)	rise
+M JH Z NG	(4, 2, 3, 4)	nonmonotonic fall
+P S T ZH	(1, 3, 1, 3)	nonmonotonic rise
+B CH Y SH	(1, 2, 5, 3)	rise
+K M W CH	(1, 4, 5, 2)	rise
+S D V Z	(3, 1, 3, 3)	nonmonotonic fall
+L V D Z	(5, 3, 1, 3)	fall
+W CH S N	(5, 2, 3, 4)	fall
+JH P ZH G	(2, 1, 3, 1)	other
+B NG G R	(1, 4, 1, 5)	nonmonotonic rise
+JH F N SH	(2, 3, 4, 3)	rise
+T ZH L Y	(1, 3, 5, 5)	rise
+CH V DH R	(2, 3, 3, 5)	rise
+JH G SH K	(2, 1, 3, 1)	other
+TH Y G B	(3, 5, 1, 1)	other
+K V S R	(1, 3, 3, 5)	rise
+CH D G DH	(2, 1, 1, 3)	other
+L K W HH	(5, 1, 5, 3)	nonmonotonic fall
+TH R ZH S	(3, 5, 3, 3)	nonmonotonic rise
+P F HH B	(1, 3, 3, 1)	nonmonotonic rise
+Y TH ZH S	(5, 3, 3, 3)	fall
+L NG DH SH	(5, 4, 3, 3)	fall
+NG L SH S	(4, 5, 3, 3)	other
+W P N K	(5, 1, 4, 1)	fall
+B F CH M	(1, 3, 2, 4)	rise
+V P G K	(3, 1, 1, 1)	fall
+ZH V Y DH	(3, 3, 5, 3)	nonmonotonic rise
+TH CH T R	(3, 2, 1, 5)	other
+P M DH TH	(1, 4, 3, 3)	rise
+F DH ZH D	(3, 3, 3, 1)	nonmonotonic fall
+B P Y CH	(1, 1, 5, 2)	nonmonotonic rise
+P D B ZH	(1, 1, 1, 3)	nonmonotonic rise
+V K D Z	(3, 1, 1, 3)	nonmonotonic fall
+JH M L B	(2, 4, 5, 1)	other
+T M SH NG	(1, 4, 3, 4)	rise
+Y S D ZH	(5, 3, 1, 3)	fall
+S N M Z	(3, 4, 4, 3)	nonmonotonic rise
+ZH M W S	(3, 4, 5, 3)	nonmonotonic rise
+Z D HH DH	(3, 1, 3, 3)	nonmonotonic fall
+Y HH T S	(5, 3, 1, 3)	fall
+V NG JH N	(3, 4, 2, 4)	other
+L P G F	(5, 1, 1, 3)	fall
+SH F R W	(3, 3, 5, 5)	nonmonotonic rise
+M N L V	(4, 4, 5, 3)	other
+Z T F NG	(3, 1, 3, 4)	other
+CH DH R D	(2, 3, 5, 1)	other
+K W N T	(1, 5, 4, 1)	nonmonotonic rise
+B HH L SH	(1, 3, 5, 3)	rise
+G NG M Z	(1, 4, 4, 3)	rise
+SH N D HH	(3, 4, 1, 3)	other
+Z NG W V	(3, 4, 5, 3)	nonmonotonic rise
+SH M CH G	(3, 4, 2, 1)	other
+G N DH W	(1, 4, 3, 5)	rise
+SH G T HH	(3, 1, 1, 3)	nonmonotonic fall
+Z Y DH HH	(3, 5, 3, 3)	nonmonotonic rise
+D S T CH	(1, 3, 1, 2)	nonmonotonic rise
+K CH D N	(1, 2, 1, 4)	nonmonotonic rise
+Z T JH P	(3, 1, 2, 1)	fall
+M R SH L	(4, 5, 3, 5)	other
+CH G TH D	(2, 1, 3, 1)	other
+L HH CH DH	(5, 3, 2, 3)	fall
+NG D P CH	(4, 1, 1, 2)	fall
+HH B N Z	(3, 1, 4, 3)	other
+CH B K Y	(2, 1, 1, 5)	other
+JH B ZH G	(2, 1, 3, 1)	other
+NG W CH L	(4, 5, 2, 5)	other
+G V NG SH	(1, 3, 4, 3)	rise
+W K NG CH	(5, 1, 4, 2)	fall
+JH D P Z	(2, 1, 1, 3)	other
+S NG DH Z	(3, 4, 3, 3)	nonmonotonic rise
+W N D TH	(5, 4, 1, 3)	fall
+B T P N	(1, 1, 1, 4)	nonmonotonic rise
+K Y D N	(1, 5, 1, 4)	nonmonotonic rise
+D B DH W	(1, 1, 3, 5)	nonmonotonic rise
+S SH NG W	(3, 3, 4, 5)	nonmonotonic rise
+F R P W	(3, 5, 1, 5)	other
+N HH T SH	(4, 3, 1, 3)	fall
+W T TH G	(5, 1, 3, 1)	fall
+G T R NG	(1, 1, 5, 4)	nonmonotonic rise
+G L NG ZH	(1, 5, 4, 3)	rise
+ZH B NG K	(3, 1, 4, 1)	other
+TH R F Z	(3, 5, 3, 3)	nonmonotonic rise
+V R F L	(3, 5, 3, 5)	nonmonotonic rise
+P NG M HH	(1, 4, 4, 3)	rise
+JH D HH N	(2, 1, 3, 4)	other
+T Z P N	(1, 3, 1, 4)	nonmonotonic rise
+N D Y V	(4, 1, 5, 3)	other
+R NG W TH	(5, 4, 5, 3)	nonmonotonic fall
+DH F B CH	(3, 3, 1, 2)	nonmonotonic fall
+B SH M NG	(1, 3, 4, 4)	rise
+S CH R NG	(3, 2, 5, 4)	other
+Y S F L	(5, 3, 3, 5)	nonmonotonic fall
+D DH Y W	(1, 3, 5, 5)	rise
+L Y V P	(5, 5, 3, 1)	nonmonotonic fall
+S NG P V	(3, 4, 1, 3)	other
+N ZH CH HH	(4, 3, 2, 3)	fall
+P CH T JH	(1, 2, 1, 2)	nonmonotonic rise
+DH S HH NG	(3, 3, 3, 4)	nonmonotonic rise
+K CH B P	(1, 2, 1, 1)	nonmonotonic rise
+Y T G CH	(5, 1, 1, 2)	fall
+T V Z CH	(1, 3, 3, 2)	rise
+Z HH K W	(3, 3, 1, 5)	other
+P L JH ZH	(1, 5, 2, 3)	rise
+P Z V JH	(1, 3, 3, 2)	rise
+JH L M Y	(2, 5, 4, 5)	rise
+R JH V Z	(5, 2, 3, 3)	fall
+V DH R B	(3, 3, 5, 1)	other
+G F NG L	(1, 3, 4, 5)	rise
+T D HH B	(1, 1, 3, 1)	nonmonotonic rise
+D N F TH	(1, 4, 3, 3)	rise
+HH D V DH	(3, 1, 3, 3)	nonmonotonic fall
+JH F HH W	(2, 3, 3, 5)	rise
+CH G SH L	(2, 1, 3, 5)	other
+N D K HH	(4, 1, 1, 3)	fall
+G CH NG Y	(1, 2, 4, 5)	rise
+R SH K B	(5, 3, 1, 1)	fall
+W JH HH P	(5, 2, 3, 1)	fall
+NG G V N	(4, 1, 3, 4)	nonmonotonic fall
+ZH Z DH P	(3, 3, 3, 1)	nonmonotonic fall
+CH R Y K	(2, 5, 5, 1)	other
+R T L D	(5, 1, 5, 1)	nonmonotonic fall
+L S NG N	(5, 3, 4, 4)	fall
+B HH G Z	(1, 3, 1, 3)	nonmonotonic rise
+HH S B CH	(3, 3, 1, 2)	nonmonotonic fall
+Y S TH B	(5, 3, 3, 1)	fall
+DH T TH F	(3, 1, 3, 3)	nonmonotonic fall
+W V Z SH	(5, 3, 3, 3)	fall
+T R CH K	(1, 5, 2, 1)	nonmonotonic rise
+D K W F	(1, 1, 5, 3)	nonmonotonic rise
+NG F M SH	(4, 3, 4, 3)	nonmonotonic fall
+R P DH Z	(5, 1, 3, 3)	fall
+D P W SH	(1, 1, 5, 3)	nonmonotonic rise
+G TH S K	(1, 3, 3, 1)	nonmonotonic rise
+W V HH K	(5, 3, 3, 1)	fall
+Y D W N	(5, 1, 5, 4)	nonmonotonic fall
+NG N B SH	(4, 4, 1, 3)	nonmonotonic fall
+F D G JH	(3, 1, 1, 2)	fall
+M D Y Z	(4, 1, 5, 3)	other
+NG CH N P	(4, 2, 4, 1)	nonmonotonic fall
+B ZH CH JH	(1, 3, 2, 2)	rise
+SH V DH L	(3, 3, 3, 5)	nonmonotonic rise
+TH G S JH	(3, 1, 3, 2)	nonmonotonic fall
+JH K G Z	(2, 1, 1, 3)	other
+DH CH SH N	(3, 2, 3, 4)	other
+CH Z P F	(2, 3, 1, 3)	other
+N B R T	(4, 1, 5, 1)	other
+N DH NG SH	(4, 3, 4, 3)	nonmonotonic fall
+D L W ZH	(1, 5, 5, 3)	rise
+NG HH T P	(4, 3, 1, 1)	fall
+B HH W P	(1, 3, 5, 1)	nonmonotonic rise
+HH V SH S	(3, 3, 3, 3)	nonmonotonic fall
+M Y TH SH	(4, 5, 3, 3)	other
+R N NG Z	(5, 4, 4, 3)	fall
+S ZH P T	(3, 3, 1, 1)	nonmonotonic fall
+P F SH JH	(1, 3, 3, 2)	rise
+W TH B G	(5, 3, 1, 1)	fall
+T SH G CH	(1, 3, 1, 2)	nonmonotonic rise
+R T B G	(5, 1, 1, 1)	fall
+R L SH ZH	(5, 5, 3, 3)	nonmonotonic fall
+DH ZH S K	(3, 3, 3, 1)	nonmonotonic fall
+Z N HH R	(3, 4, 3, 5)	nonmonotonic rise
+B ZH L G	(1, 3, 5, 1)	nonmonotonic rise
+G T N JH	(1, 1, 4, 2)	nonmonotonic rise
+K HH S G	(1, 3, 3, 1)	nonmonotonic rise
+S G Y F	(3, 1, 5, 3)	other
+ZH B R JH	(3, 1, 5, 2)	other
+K P L V	(1, 1, 5, 3)	nonmonotonic rise
+TH S M Y	(3, 3, 4, 5)	nonmonotonic rise
+G W T TH	(1, 5, 1, 3)	nonmonotonic rise
+P SH R Y	(1, 3, 5, 5)	rise
+CH R ZH NG	(2, 5, 3, 4)	rise
+S Z SH Y	(3, 3, 3, 5)	nonmonotonic rise
+NG S M HH	(4, 3, 4, 3)	nonmonotonic fall
+ZH JH DH N	(3, 2, 3, 4)	other
+DH S N TH	(3, 3, 4, 3)	nonmonotonic rise
+Z G K S	(3, 1, 1, 3)	nonmonotonic fall
+JH K B NG	(2, 1, 1, 4)	other
+L JH TH S	(5, 2, 3, 3)	fall
+SH ZH P Y	(3, 3, 1, 5)	other
+T R M F	(1, 5, 4, 3)	rise
+G R F T	(1, 5, 3, 1)	nonmonotonic rise
+ZH L N SH	(3, 5, 4, 3)	nonmonotonic rise
+CH V S DH	(2, 3, 3, 3)	rise
+W L DH HH	(5, 5, 3, 3)	nonmonotonic fall
+CH SH D S	(2, 3, 1, 3)	other
+R L F P	(5, 5, 3, 1)	nonmonotonic fall
+DH W SH Y	(3, 5, 3, 5)	nonmonotonic rise
+V N SH L	(3, 4, 3, 5)	nonmonotonic rise
+S F HH Y	(3, 3, 3, 5)	nonmonotonic rise
+ZH HH V P	(3, 3, 3, 1)	nonmonotonic fall
+D ZH F Z	(1, 3, 3, 3)	rise
+T Z NG SH	(1, 3, 4, 3)	rise
+SH G F ZH	(3, 1, 3, 3)	nonmonotonic fall
+S SH G DH	(3, 3, 1, 3)	nonmonotonic fall
+NG S B DH	(4, 3, 1, 3)	fall
+B P D V	(1, 1, 1, 3)	nonmonotonic rise
+NG K DH D	(4, 1, 3, 1)	fall
+DH JH L F	(3, 2, 5, 3)	other
+HH S R NG	(3, 3, 5, 4)	nonmonotonic rise
+T JH SH K	(1, 2, 3, 1)	nonmonotonic rise
+G K T F	(1, 1, 1, 3)	nonmonotonic rise
+Z HH TH L	(3, 3, 3, 5)	nonmonotonic rise
+NG D HH JH	(4, 1, 3, 2)	fall
+NG N CH Y	(4, 4, 2, 5)	other
+D M W NG	(1, 4, 5, 4)	rise
+DH ZH G JH	(3, 3, 1, 2)	nonmonotonic fall
+F HH M R	(3, 3, 4, 5)	nonmonotonic rise
+D DH ZH Z	(1, 3, 3, 3)	rise
+HH W Z SH	(3, 5, 3, 3)	nonmonotonic rise
+DH Y CH ZH	(3, 5, 2, 3)	other
+ZH T NG Z	(3, 1, 4, 3)	other
+SH CH K N	(3, 2, 1, 4)	other
+W T Y SH	(5, 1, 5, 3)	nonmonotonic fall
+Z HH ZH Y	(3, 3, 3, 5)	nonmonotonic rise
+JH R SH S	(2, 5, 3, 3)	rise
+V CH B NG	(3, 2, 1, 4)	other
+Y P R ZH	(5, 1, 5, 3)	nonmonotonic fall
+JH T HH V	(2, 1, 3, 3)	other
+DH Z JH NG	(3, 3, 2, 4)	other
+L N Y CH	(5, 4, 5, 2)	nonmonotonic fall
+DH W Z ZH	(3, 5, 3, 3)	nonmonotonic rise
+W R TH F	(5, 5, 3, 3)	nonmonotonic fall
+G ZH N HH	(1, 3, 4, 3)	rise
+ZH F N SH	(3, 3, 4, 3)	nonmonotonic rise
+JH K Y NG	(2, 1, 5, 4)	other
+N V S W	(4, 3, 3, 5)	other
+B G K R	(1, 1, 1, 5)	nonmonotonic rise
+ZH R Y NG	(3, 5, 5, 4)	rise
+S L D K	(3, 5, 1, 1)	other
+L R G NG	(5, 5, 1, 4)	nonmonotonic fall
+CH K G F	(2, 1, 1, 3)	other
+DH W NG F	(3, 5, 4, 3)	nonmonotonic rise
+F DH W Y	(3, 3, 5, 5)	nonmonotonic rise
+N DH K F	(4, 3, 1, 3)	fall
+Y ZH Z NG	(5, 3, 3, 4)	fall
+B D K S	(1, 1, 1, 3)	nonmonotonic rise
+CH D B DH	(2, 1, 1, 3)	other
+M R CH F	(4, 5, 2, 3)	other
+W ZH L R	(5, 3, 5, 5)	nonmonotonic fall
+DH NG R TH	(3, 4, 5, 3)	nonmonotonic rise
+L TH G R	(5, 3, 1, 5)	nonmonotonic fall
+D L M DH	(1, 5, 4, 3)	rise
+K M R HH	(1, 4, 5, 3)	rise
+T Z Y SH	(1, 3, 5, 3)	rise
+ZH G NG R	(3, 1, 4, 5)	other
+K G F M	(1, 1, 3, 4)	nonmonotonic rise
+NG T SH R	(4, 1, 3, 5)	other
+D T W ZH	(1, 1, 5, 3)	nonmonotonic rise
+W N R P	(5, 4, 5, 1)	nonmonotonic fall
+Z B W R	(3, 1, 5, 5)	other
+NG S N Z	(4, 3, 4, 3)	nonmonotonic fall
+HH B ZH R	(3, 1, 3, 5)	other
+TH P ZH SH	(3, 1, 3, 3)	nonmonotonic fall
+F M V P	(3, 4, 3, 1)	other
+Z M L T	(3, 4, 5, 1)	other
+DH F ZH D	(3, 3, 3, 1)	nonmonotonic fall
+B DH ZH V	(1, 3, 3, 3)	rise
+Y SH K NG	(5, 3, 1, 4)	fall
+Z W DH R	(3, 5, 3, 5)	nonmonotonic rise
+JH K F S	(2, 1, 3, 3)	other
+JH Y F Z	(2, 5, 3, 3)	rise
+JH HH K N	(2, 3, 1, 4)	other
+ZH T F R	(3, 1, 3, 5)	other
+D ZH N R	(1, 3, 4, 5)	rise
+Z HH TH T	(3, 3, 3, 1)	nonmonotonic fall
+TH D N Y	(3, 1, 4, 5)	other
+S TH F JH	(3, 3, 3, 2)	nonmonotonic fall
+Z G Y V	(3, 1, 5, 3)	other
+F DH HH P	(3, 3, 3, 1)	nonmonotonic fall
+T Y JH B	(1, 5, 2, 1)	nonmonotonic rise
+Z TH M V	(3, 3, 4, 3)	nonmonotonic rise
+T W CH N	(1, 5, 2, 4)	rise
+SH NG TH K	(3, 4, 3, 1)	other
+SH S L Z	(3, 3, 5, 3)	nonmonotonic rise
+D P B G	(1, 1, 1, 1)	nonmonotonic fall
+Z W SH P	(3, 5, 3, 1)	other
+K G HH N	(1, 1, 3, 4)	nonmonotonic rise
+S W B G	(3, 5, 1, 1)	other
+K G HH JH	(1, 1, 3, 2)	nonmonotonic rise
+F B Y P	(3, 1, 5, 1)	other
+DH M B CH	(3, 4, 1, 2)	other
+HH CH G NG	(3, 2, 1, 4)	other
+B R DH Z	(1, 5, 3, 3)	rise
+ZH R F G	(3, 5, 3, 1)	other
+V B NG DH	(3, 1, 4, 3)	other
+ZH N T M	(3, 4, 1, 4)	other
+G K V JH	(1, 1, 3, 2)	nonmonotonic rise
+NG T SH B	(4, 1, 3, 1)	fall
+G T HH F	(1, 1, 3, 3)	nonmonotonic rise
+Y K L V	(5, 1, 5, 3)	nonmonotonic fall
+F S SH NG	(3, 3, 3, 4)	nonmonotonic rise
+Y Z P TH	(5, 3, 1, 3)	fall
+R M G TH	(5, 4, 1, 3)	fall
+HH L JH N	(3, 5, 2, 4)	other
+N P K CH	(4, 1, 1, 2)	fall
+NG R HH W	(4, 5, 3, 5)	other
+B DH D F	(1, 3, 1, 3)	nonmonotonic rise
+Z S T HH	(3, 3, 1, 3)	nonmonotonic fall
+N D JH ZH	(4, 1, 2, 3)	fall
+HH SH ZH S	(3, 3, 3, 3)	nonmonotonic fall
+R G P Y	(5, 1, 1, 5)	nonmonotonic fall
+DH JH B M	(3, 2, 1, 4)	other
+W B HH ZH	(5, 1, 3, 3)	fall
+HH D R SH	(3, 1, 5, 3)	other
+DH B M N	(3, 1, 4, 4)	other
+M NG T HH	(4, 4, 1, 3)	nonmonotonic fall
+F SH N B	(3, 3, 4, 1)	other
+DH HH T V	(3, 3, 1, 3)	nonmonotonic fall
+Y SH K DH	(5, 3, 1, 3)	fall
+S CH G TH	(3, 2, 1, 3)	nonmonotonic fall
+V G DH T	(3, 1, 3, 1)	nonmonotonic fall
+R T HH Z	(5, 1, 3, 3)	fall
+K N M B	(1, 4, 4, 1)	nonmonotonic rise
+B V JH K	(1, 3, 2, 1)	nonmonotonic rise
+T V NG Z	(1, 3, 4, 3)	rise
+K ZH L SH	(1, 3, 5, 3)	rise
+Z S SH V	(3, 3, 3, 3)	nonmonotonic fall
+SH JH R P	(3, 2, 5, 1)	other
+R SH Y K	(5, 3, 5, 1)	nonmonotonic fall
+N S K D	(4, 3, 1, 1)	fall
+Z ZH Y W	(3, 3, 5, 5)	nonmonotonic rise
+ZH P M V	(3, 1, 4, 3)	other
+W G S M	(5, 1, 3, 4)	fall
+S HH P ZH	(3, 3, 1, 3)	nonmonotonic fall
+D JH K NG	(1, 2, 1, 4)	nonmonotonic rise
+D Y M B	(1, 5, 4, 1)	nonmonotonic rise
+Z F ZH K	(3, 3, 3, 1)	nonmonotonic fall
+HH SH P D	(3, 3, 1, 1)	nonmonotonic fall
+R B TH P	(5, 1, 3, 1)	fall
+DH P Z CH	(3, 1, 3, 2)	nonmonotonic fall
+NG T ZH S	(4, 1, 3, 3)	fall
+V SH D JH	(3, 3, 1, 2)	nonmonotonic fall
+S HH P F	(3, 3, 1, 3)	nonmonotonic fall
+ZH D N G	(3, 1, 4, 1)	other
+S TH CH L	(3, 3, 2, 5)	other
+DH Z B K	(3, 3, 1, 1)	nonmonotonic fall
+HH SH DH S	(3, 3, 3, 3)	nonmonotonic fall
+B L D N	(1, 5, 1, 4)	nonmonotonic rise
+JH P S Z	(2, 1, 3, 3)	other
+ZH D NG P	(3, 1, 4, 1)	other
+HH JH R G	(3, 2, 5, 1)	other
+T G K Z	(1, 1, 1, 3)	nonmonotonic rise
+SH ZH JH G	(3, 3, 2, 1)	nonmonotonic fall
+HH V DH Z	(3, 3, 3, 3)	nonmonotonic fall
+NG S M TH	(4, 3, 4, 3)	nonmonotonic fall
+G T B TH	(1, 1, 1, 3)	nonmonotonic rise
+SH M HH Z	(3, 4, 3, 3)	nonmonotonic rise
+TH K Y B	(3, 1, 5, 1)	other
+SH W S ZH	(3, 5, 3, 3)	nonmonotonic rise
+JH NG B S	(2, 4, 1, 3)	other
+V Y F L	(3, 5, 3, 5)	nonmonotonic rise
+JH HH V ZH	(2, 3, 3, 3)	rise
+Z N JH L	(3, 4, 2, 5)	other
+M F K R	(4, 3, 1, 5)	other
+ZH P L G	(3, 1, 5, 1)	other
+R W M TH	(5, 5, 4, 3)	nonmonotonic fall
+P CH G T	(1, 2, 1, 1)	nonmonotonic rise
+F S JH P	(3, 3, 2, 1)	nonmonotonic fall
+G HH F P	(1, 3, 3, 1)	nonmonotonic rise
+G N F R	(1, 4, 3, 5)	rise
+CH ZH F V	(2, 3, 3, 3)	rise
+DH P HH K	(3, 1, 3, 1)	nonmonotonic fall
+P R NG Z	(1, 5, 4, 3)	rise
+ZH N Z V	(3, 4, 3, 3)	nonmonotonic rise
+ZH S SH W	(3, 3, 3, 5)	nonmonotonic rise
+R DH N V	(5, 3, 4, 3)	fall
+SH G TH P	(3, 1, 3, 1)	nonmonotonic fall
+P NG K B	(1, 4, 1, 1)	nonmonotonic rise
+K T S B	(1, 1, 3, 1)	nonmonotonic rise
+Y T F HH	(5, 1, 3, 3)	fall
+N Z R V	(4, 3, 5, 3)	other
+N L G NG	(4, 5, 1, 4)	other
+ZH CH L F	(3, 2, 5, 3)	other
+CH Y G JH	(2, 5, 1, 2)	other
+CH P Z W	(2, 1, 3, 5)	other
+W HH CH F	(5, 3, 2, 3)	fall
+G R DH V	(1, 5, 3, 3)	rise
+Z G L W	(3, 1, 5, 5)	other
+Z NG L DH	(3, 4, 5, 3)	nonmonotonic rise
+DH V Y N	(3, 3, 5, 4)	nonmonotonic rise
+TH F L NG	(3, 3, 5, 4)	nonmonotonic rise
+P Y W TH	(1, 5, 5, 3)	rise
+W NG S T	(5, 4, 3, 1)	fall
+D V S Z	(1, 3, 3, 3)	rise
+S W F T	(3, 5, 3, 1)	other
+Z B NG Y	(3, 1, 4, 5)	other
+CH DH Y S	(2, 3, 5, 3)	rise
+D SH CH ZH	(1, 3, 2, 3)	rise
+B DH R M	(1, 3, 5, 4)	rise
+CH P T V	(2, 1, 1, 3)	other
+NG L P R	(4, 5, 1, 5)	other
+D L S NG	(1, 5, 3, 4)	rise
+TH W JH NG	(3, 5, 2, 4)	other
+JH ZH SH F	(2, 3, 3, 3)	rise
+ZH B L S	(3, 1, 5, 3)	other
+Z ZH R P	(3, 3, 5, 1)	other
+W B ZH K	(5, 1, 3, 1)	fall
+D HH L Z	(1, 3, 5, 3)	rise
+V R ZH P	(3, 5, 3, 1)	other
+ZH W DH NG	(3, 5, 3, 4)	nonmonotonic rise
+Y NG T SH	(5, 4, 1, 3)	fall
+D R TH JH	(1, 5, 3, 2)	rise
+NG V M L	(4, 3, 4, 5)	other
+W TH JH Y	(5, 3, 2, 5)	nonmonotonic fall
+K HH R F	(1, 3, 5, 3)	rise
+M T R V	(4, 1, 5, 3)	other
+TH JH Z HH	(3, 2, 3, 3)	nonmonotonic fall
+B SH S F	(1, 3, 3, 3)	rise
+N L SH D	(4, 5, 3, 1)	other
+Z T V P	(3, 1, 3, 1)	nonmonotonic fall
+L Y F V	(5, 5, 3, 3)	nonmonotonic fall
+NG B K P	(4, 1, 1, 1)	fall
+CH G S JH	(2, 1, 3, 2)	other
+SH B S N	(3, 1, 3, 4)	other
+TH S NG CH	(3, 3, 4, 2)	other
+G HH CH V	(1, 3, 2, 3)	rise
+Y L G D	(5, 5, 1, 1)	nonmonotonic fall
+HH DH T JH	(3, 3, 1, 2)	nonmonotonic fall
+HH B T SH	(3, 1, 1, 3)	nonmonotonic fall
+ZH N R JH	(3, 4, 5, 2)	other
+SH S NG DH	(3, 3, 4, 3)	nonmonotonic rise
+Y W JH T	(5, 5, 2, 1)	nonmonotonic fall
+K TH NG D	(1, 3, 4, 1)	nonmonotonic rise
+F JH P CH	(3, 2, 1, 2)	fall
+ZH D NG T	(3, 1, 4, 1)	other
+L V SH W	(5, 3, 3, 5)	nonmonotonic fall
+NG P Y F	(4, 1, 5, 3)	other
+HH CH K P	(3, 2, 1, 1)	fall
+NG R N JH	(4, 5, 4, 2)	other
+L W Z JH	(5, 5, 3, 2)	nonmonotonic fall
+G JH SH TH	(1, 2, 3, 3)	rise
+NG HH Z Y	(4, 3, 3, 5)	other
+F N B TH	(3, 4, 1, 3)	other
+JH Z N Y	(2, 3, 4, 5)	rise
+T M P Y	(1, 4, 1, 5)	nonmonotonic rise
+W S F T	(5, 3, 3, 1)	fall
+R T CH Y	(5, 1, 2, 5)	nonmonotonic fall
+HH T L B	(3, 1, 5, 1)	other
+F K V SH	(3, 1, 3, 3)	nonmonotonic fall
+JH S W Y	(2, 3, 5, 5)	rise
+ZH P K W	(3, 1, 1, 5)	other
+V D M F	(3, 1, 4, 3)	other
+K JH B N	(1, 2, 1, 4)	nonmonotonic rise
+L HH F NG	(5, 3, 3, 4)	fall
+S SH M G	(3, 3, 4, 1)	other
+JH F M DH	(2, 3, 4, 3)	rise
+SH NG R K	(3, 4, 5, 1)	other
+TH SH F NG	(3, 3, 3, 4)	nonmonotonic rise
+R M T ZH	(5, 4, 1, 3)	fall
+S Z CH SH	(3, 3, 2, 3)	nonmonotonic fall
+CH L P B	(2, 5, 1, 1)	other
+S V ZH B	(3, 3, 3, 1)	nonmonotonic fall
+CH SH K D	(2, 3, 1, 1)	other
+CH L S W	(2, 5, 3, 5)	rise
+HH L JH NG	(3, 5, 2, 4)	other
+W L Z V	(5, 5, 3, 3)	nonmonotonic fall
+HH W DH TH	(3, 5, 3, 3)	nonmonotonic rise
+T ZH Y TH	(1, 3, 5, 3)	rise
+NG D SH R	(4, 1, 3, 5)	other
+T G NG TH	(1, 1, 4, 3)	nonmonotonic rise
+N HH TH Z	(4, 3, 3, 3)	fall
+V DH P N	(3, 3, 1, 4)	other
+DH B Y SH	(3, 1, 5, 3)	other
+B M P CH	(1, 4, 1, 2)	nonmonotonic rise
+F K TH Y	(3, 1, 3, 5)	other
+JH B Z L	(2, 1, 3, 5)	other
+N T M TH	(4, 1, 4, 3)	nonmonotonic fall
+NG JH K M	(4, 2, 1, 4)	nonmonotonic fall
+Z W JH CH	(3, 5, 2, 2)	other
+P R N M	(1, 5, 4, 4)	rise
+D JH Y M	(1, 2, 5, 4)	rise
+Y JH N P	(5, 2, 4, 1)	fall
+D Y B ZH	(1, 5, 1, 3)	nonmonotonic rise
+L ZH Y P	(5, 3, 5, 1)	nonmonotonic fall
+D G Y P	(1, 1, 5, 1)	nonmonotonic rise
+Y D F M	(5, 1, 3, 4)	fall
+V M S SH	(3, 4, 3, 3)	nonmonotonic rise
+M SH JH T	(4, 3, 2, 1)	fall
+B S SH ZH	(1, 3, 3, 3)	rise
+B G HH V	(1, 1, 3, 3)	nonmonotonic rise
+Z TH S JH	(3, 3, 3, 2)	nonmonotonic fall
+P N D JH	(1, 4, 1, 2)	nonmonotonic rise
+Y D M N	(5, 1, 4, 4)	fall
+F ZH Y N	(3, 3, 5, 4)	nonmonotonic rise
+K NG TH F	(1, 4, 3, 3)	rise
+B NG TH L	(1, 4, 3, 5)	rise
+TH NG L F	(3, 4, 5, 3)	nonmonotonic rise
+L CH D SH	(5, 2, 1, 3)	fall
+R Z N CH	(5, 3, 4, 2)	fall
+NG ZH K P	(4, 3, 1, 1)	fall
+V SH W TH	(3, 3, 5, 3)	nonmonotonic rise
+D R S Z	(1, 5, 3, 3)	rise
+TH K N T	(3, 1, 4, 1)	other
+D S Y M	(1, 3, 5, 4)	rise
+Y DH M F	(5, 3, 4, 3)	fall
+HH ZH CH V	(3, 3, 2, 3)	nonmonotonic fall
+K D V W	(1, 1, 3, 5)	nonmonotonic rise
+V D M N	(3, 1, 4, 4)	other
+B L NG Y	(1, 5, 4, 5)	rise
+SH B T Y	(3, 1, 1, 5)	other
+D Y G R	(1, 5, 1, 5)	nonmonotonic rise
+SH M S N	(3, 4, 3, 4)	nonmonotonic rise
+M W JH K	(4, 5, 2, 1)	other
+P V Z L	(1, 3, 3, 5)	rise
+V D CH N	(3, 1, 2, 4)	other
+G S ZH D	(1, 3, 3, 1)	nonmonotonic rise
+T DH B L	(1, 3, 1, 5)	nonmonotonic rise
+CH D F V	(2, 1, 3, 3)	other
+P V HH M	(1, 3, 3, 4)	rise
+M G S Z	(4, 1, 3, 3)	fall
+ZH P V F	(3, 1, 3, 3)	nonmonotonic fall
+G M JH S	(1, 4, 2, 3)	rise
+B JH Y S	(1, 2, 5, 3)	rise
+Z Y D B	(3, 5, 1, 1)	other
+Z T P D	(3, 1, 1, 1)	fall
+TH SH K B	(3, 3, 1, 1)	nonmonotonic fall
+Z T K P	(3, 1, 1, 1)	fall
+W D V K	(5, 1, 3, 1)	fall
+NG V R S	(4, 3, 5, 3)	other
+T CH W G	(1, 2, 5, 1)	nonmonotonic rise
+N SH TH D	(4, 3, 3, 1)	fall
+TH HH D CH	(3, 3, 1, 2)	nonmonotonic fall
+TH HH D SH	(3, 3, 1, 3)	nonmonotonic fall
+M CH W Y	(4, 2, 5, 5)	other
+F L TH W	(3, 5, 3, 5)	nonmonotonic rise
+S Y R CH	(3, 5, 5, 2)	other
+DH CH HH M	(3, 2, 3, 4)	other
+G DH ZH D	(1, 3, 3, 1)	nonmonotonic rise
+CH JH D F	(2, 2, 1, 3)	other
+D DH TH R	(1, 3, 3, 5)	rise
+S D G JH	(3, 1, 1, 2)	fall
+K V TH S	(1, 3, 3, 3)	rise
+P Y S TH	(1, 5, 3, 3)	rise
+S DH CH M	(3, 3, 2, 4)	other
+T Z JH V	(1, 3, 2, 3)	rise
+N T JH P	(4, 1, 2, 1)	fall
+CH W T S	(2, 5, 1, 3)	other
+HH N B Z	(3, 4, 1, 3)	other
+L NG CH N	(5, 4, 2, 4)	fall
+B T P S	(1, 1, 1, 3)	nonmonotonic rise
+K B R N	(1, 1, 5, 4)	nonmonotonic rise
+S SH N R	(3, 3, 4, 5)	nonmonotonic rise
+TH M HH ZH	(3, 4, 3, 3)	nonmonotonic rise
+M V K JH	(4, 3, 1, 2)	fall
+ZH HH G DH	(3, 3, 1, 3)	nonmonotonic fall
+SH Z S ZH	(3, 3, 3, 3)	nonmonotonic fall
+P N G L	(1, 4, 1, 5)	nonmonotonic rise
+Y ZH TH G	(5, 3, 3, 1)	fall
+T TH Z L	(1, 3, 3, 5)	rise
+TH V D B	(3, 3, 1, 1)	nonmonotonic fall
+V TH T Z	(3, 3, 1, 3)	nonmonotonic fall
+R S L G	(5, 3, 5, 1)	nonmonotonic fall
+T F G N	(1, 3, 1, 4)	nonmonotonic rise
+P TH B L	(1, 3, 1, 5)	nonmonotonic rise
+W ZH V K	(5, 3, 3, 1)	fall
+N SH NG B	(4, 3, 4, 1)	nonmonotonic fall
+NG T ZH P	(4, 1, 3, 1)	fall
+M JH N R	(4, 2, 4, 5)	other
+SH JH N HH	(3, 2, 4, 3)	other
+P D T HH	(1, 1, 1, 3)	nonmonotonic rise
+DH HH R NG	(3, 3, 5, 4)	nonmonotonic rise
+ZH D T NG	(3, 1, 1, 4)	other
+HH Z ZH F	(3, 3, 3, 3)	nonmonotonic fall
+V F NG K	(3, 3, 4, 1)	other
+DH P R T	(3, 1, 5, 1)	other
+HH S ZH P	(3, 3, 3, 1)	nonmonotonic fall
+M N DH W	(4, 4, 3, 5)	other
+D F K HH	(1, 3, 1, 3)	nonmonotonic rise
+DH SH NG CH	(3, 3, 4, 2)	other
+K V R TH	(1, 3, 5, 3)	rise
+CH L D TH	(2, 5, 1, 3)	other
+K W G ZH	(1, 5, 1, 3)	nonmonotonic rise
+ZH CH N W	(3, 2, 4, 5)	other
+V B JH W	(3, 1, 2, 5)	other
+W TH V G	(5, 3, 3, 1)	fall
+K ZH P S	(1, 3, 1, 3)	nonmonotonic rise
+Y HH R B	(5, 3, 5, 1)	nonmonotonic fall
+Y D NG N	(5, 1, 4, 4)	fall
+TH HH L N	(3, 3, 5, 4)	nonmonotonic rise
+DH JH NG TH	(3, 2, 4, 3)	other
+L K P Y	(5, 1, 1, 5)	nonmonotonic fall
+W K M S	(5, 1, 4, 3)	fall
+D M L CH	(1, 4, 5, 2)	rise
+B D TH Z	(1, 1, 3, 3)	nonmonotonic rise
+K D SH S	(1, 1, 3, 3)	nonmonotonic rise
+W K ZH SH	(5, 1, 3, 3)	fall
+T L D G	(1, 5, 1, 1)	nonmonotonic rise
+K N T JH	(1, 4, 1, 2)	nonmonotonic rise
+ZH M L HH	(3, 4, 5, 3)	nonmonotonic rise
+D HH S F	(1, 3, 3, 3)	rise
+L Y V CH	(5, 5, 3, 2)	nonmonotonic fall
+T ZH R M	(1, 3, 5, 4)	rise
+N SH P Y	(4, 3, 1, 5)	other
+D L R V	(1, 5, 5, 3)	rise
+R JH Y W	(5, 2, 5, 5)	nonmonotonic fall
+L ZH S CH	(5, 3, 3, 2)	fall
+CH DH Y K	(2, 3, 5, 1)	other
+V R CH P	(3, 5, 2, 1)	other
+D T Y S	(1, 1, 5, 3)	nonmonotonic rise
+P JH G Z	(1, 2, 1, 3)	nonmonotonic rise
+K V R P	(1, 3, 5, 1)	nonmonotonic rise
+B HH R V	(1, 3, 5, 3)	rise
+DH D S ZH	(3, 1, 3, 3)	nonmonotonic fall
+L V TH T	(5, 3, 3, 1)	fall
+S ZH W HH	(3, 3, 5, 3)	nonmonotonic rise
+NG N JH Y	(4, 4, 2, 5)	other
+L SH V G	(5, 3, 3, 1)	fall
+D T G TH	(1, 1, 1, 3)	nonmonotonic rise
+DH D JH N	(3, 1, 2, 4)	other
+Y HH ZH CH	(5, 3, 3, 2)	fall
+Z HH Y F	(3, 3, 5, 3)	nonmonotonic rise
+HH W NG N	(3, 5, 4, 4)	rise
+HH DH W P	(3, 3, 5, 1)	other
+T Z K N	(1, 3, 1, 4)	nonmonotonic rise
+M F Z JH	(4, 3, 3, 2)	fall
+NG ZH R Y	(4, 3, 5, 5)	other
+JH CH R SH	(2, 2, 5, 3)	nonmonotonic rise
+K V NG B	(1, 3, 4, 1)	nonmonotonic rise
+N Y TH ZH	(4, 5, 3, 3)	other
+NG JH ZH S	(4, 2, 3, 3)	fall
+L ZH K N	(5, 3, 1, 4)	fall
+S HH NG M	(3, 3, 4, 4)	nonmonotonic rise
+JH P D S	(2, 1, 1, 3)	other
+JH M F S	(2, 4, 3, 3)	rise
+V F SH L	(3, 3, 3, 5)	nonmonotonic rise
+S D V SH	(3, 1, 3, 3)	nonmonotonic fall
+B K L W	(1, 1, 5, 5)	nonmonotonic rise
+W NG K L	(5, 4, 1, 5)	nonmonotonic fall
+HH L M NG	(3, 5, 4, 4)	rise
+B DH Z SH	(1, 3, 3, 3)	rise
+N Z SH M	(4, 3, 3, 4)	nonmonotonic fall
+Z JH S D	(3, 2, 3, 1)	nonmonotonic fall
+CH Y B S	(2, 5, 1, 3)	other
+NG R M SH	(4, 5, 4, 3)	other
+N D TH B	(4, 1, 3, 1)	fall
+HH M JH Y	(3, 4, 2, 5)	other
+Z Y P D	(3, 5, 1, 1)	other
+S L Z ZH	(3, 5, 3, 3)	nonmonotonic rise
+M V TH D	(4, 3, 3, 1)	fall
+HH N T ZH	(3, 4, 1, 3)	other
+W P HH Z	(5, 1, 3, 3)	fall
+Y W ZH L	(5, 5, 3, 5)	nonmonotonic fall
+F JH Z L	(3, 2, 3, 5)	other
+ZH F G N	(3, 3, 1, 4)	other
+G B V D	(1, 1, 3, 1)	nonmonotonic rise
+ZH D M T	(3, 1, 4, 1)	other
+G DH B CH	(1, 3, 1, 2)	nonmonotonic rise
+N CH R G	(4, 2, 5, 1)	other
+NG L T K	(4, 5, 1, 1)	other
+R ZH P G	(5, 3, 1, 1)	fall
+P DH F ZH	(1, 3, 3, 3)	rise
+L R HH P	(5, 5, 3, 1)	nonmonotonic fall
+G DH P TH	(1, 3, 1, 3)	nonmonotonic rise
+CH JH N P	(2, 2, 4, 1)	other
+M K R HH	(4, 1, 5, 3)	other
+B CH S Z	(1, 2, 3, 3)	rise
+S SH M CH	(3, 3, 4, 2)	other
+G V Y TH	(1, 3, 5, 3)	rise
+T F P N	(1, 3, 1, 4)	nonmonotonic rise
+B SH HH ZH	(1, 3, 3, 3)	rise
+Z JH N ZH	(3, 2, 4, 3)	other
+ZH K G B	(3, 1, 1, 1)	fall
+DH Y R D	(3, 5, 5, 1)	other
+D HH G ZH	(1, 3, 1, 3)	nonmonotonic rise
+ZH D N V	(3, 1, 4, 3)	other
+JH S TH L	(2, 3, 3, 5)	rise
+DH G K ZH	(3, 1, 1, 3)	nonmonotonic fall
+S SH JH TH	(3, 3, 2, 3)	nonmonotonic fall
+M L JH N	(4, 5, 2, 4)	other
+JH R P K	(2, 5, 1, 1)	other
+NG L R W	(4, 5, 5, 5)	rise
+Z R N DH	(3, 5, 4, 3)	nonmonotonic rise
+K M F T	(1, 4, 3, 1)	nonmonotonic rise
+Y S R F	(5, 3, 5, 3)	nonmonotonic fall
+M TH W R	(4, 3, 5, 5)	other
+TH W K S	(3, 5, 1, 3)	other
+Y JH F Z	(5, 2, 3, 3)	fall
+CH T NG DH	(2, 1, 4, 3)	other
+SH W V F	(3, 5, 3, 3)	nonmonotonic rise
+P Z D CH	(1, 3, 1, 2)	nonmonotonic rise
+T B SH Z	(1, 1, 3, 3)	nonmonotonic rise
+S DH G F	(3, 3, 1, 3)	nonmonotonic fall
+ZH G JH M	(3, 1, 2, 4)	other
+Z Y S R	(3, 5, 3, 5)	nonmonotonic rise
+L ZH SH B	(5, 3, 3, 1)	fall
+P T L Z	(1, 1, 5, 3)	nonmonotonic rise
+Y TH HH Z	(5, 3, 3, 3)	fall
+R ZH F CH	(5, 3, 3, 2)	fall
+M Y T ZH	(4, 5, 1, 3)	other
+NG JH ZH K	(4, 2, 3, 1)	fall
+Z K V NG	(3, 1, 3, 4)	other
+JH SH P S	(2, 3, 1, 3)	other
+CH SH R Y	(2, 3, 5, 5)	rise
+L G K T	(5, 1, 1, 1)	fall
+TH Y R T	(3, 5, 5, 1)	other
+F DH SH ZH	(3, 3, 3, 3)	nonmonotonic fall
+R V TH M	(5, 3, 3, 4)	fall
+Z P D ZH	(3, 1, 1, 3)	nonmonotonic fall
+NG Z JH DH	(4, 3, 2, 3)	fall
+T W S M	(1, 5, 3, 4)	rise
+R T S HH	(5, 1, 3, 3)	fall
+ZH Z R HH	(3, 3, 5, 3)	nonmonotonic rise
+M JH W TH	(4, 2, 5, 3)	other
+Y W M SH	(5, 5, 4, 3)	nonmonotonic fall
+S DH HH JH	(3, 3, 3, 2)	nonmonotonic fall
+P CH R L	(1, 2, 5, 5)	rise
+DH ZH N M	(3, 3, 4, 4)	nonmonotonic rise
+V K L W	(3, 1, 5, 5)	other
+D S M DH	(1, 3, 4, 3)	rise
+T Z B SH	(1, 3, 1, 3)	nonmonotonic rise
+T L K Z	(1, 5, 1, 3)	nonmonotonic rise
+B JH TH F	(1, 2, 3, 3)	rise
+NG TH K S	(4, 3, 1, 3)	fall
+JH CH HH L	(2, 2, 3, 5)	nonmonotonic rise
+HH W P NG	(3, 5, 1, 4)	other
+V Y NG R	(3, 5, 4, 5)	rise
+S M R D	(3, 4, 5, 1)	other
+TH ZH W Z	(3, 3, 5, 3)	nonmonotonic rise
+G TH B ZH	(1, 3, 1, 3)	nonmonotonic rise
+M B SH NG	(4, 1, 3, 4)	nonmonotonic fall
+W L S Y	(5, 5, 3, 5)	nonmonotonic fall
+TH K HH T	(3, 1, 3, 1)	nonmonotonic fall
+P S D Z	(1, 3, 1, 3)	nonmonotonic rise
+N G ZH S	(4, 1, 3, 3)	fall
+D TH W S	(1, 3, 5, 3)	rise
+F R G D	(3, 5, 1, 1)	other
+S ZH D N	(3, 3, 1, 4)	other
+W NG P B	(5, 4, 1, 1)	fall
+P M HH V	(1, 4, 3, 3)	rise
+L DH SH N	(5, 3, 3, 4)	fall
+K DH G P	(1, 3, 1, 1)	nonmonotonic rise
+M R P B	(4, 5, 1, 1)	other
+TH NG SH P	(3, 4, 3, 1)	other
+Z NG B S	(3, 4, 1, 3)	other
+TH Z W N	(3, 3, 5, 4)	nonmonotonic rise
+N B Y JH	(4, 1, 5, 2)	other
+F SH K TH	(3, 3, 1, 3)	nonmonotonic fall
+V HH ZH D	(3, 3, 3, 1)	nonmonotonic fall
+Y F P CH	(5, 3, 1, 2)	fall
+NG DH HH D	(4, 3, 3, 1)	fall
+N W K V	(4, 5, 1, 3)	other
+R W D V	(5, 5, 1, 3)	nonmonotonic fall
+P K NG T	(1, 1, 4, 1)	nonmonotonic rise
+JH DH K G	(2, 3, 1, 1)	other
+Y M JH R	(5, 4, 2, 5)	nonmonotonic fall
+T S ZH D	(1, 3, 3, 1)	nonmonotonic rise
+S HH M JH	(3, 3, 4, 2)	other
+L P Y CH	(5, 1, 5, 2)	nonmonotonic fall
+K G P T	(1, 1, 1, 1)	nonmonotonic fall
+T K G TH	(1, 1, 1, 3)	nonmonotonic rise
+R HH Y F	(5, 3, 5, 3)	nonmonotonic fall
+G B V K	(1, 1, 3, 1)	nonmonotonic rise
+V Z TH ZH	(3, 3, 3, 3)	nonmonotonic fall
+S T V L	(3, 1, 3, 5)	other
+M DH T F	(4, 3, 1, 3)	fall
+TH B G D	(3, 1, 1, 1)	fall
+D CH F V	(1, 2, 3, 3)	rise
+K ZH D HH	(1, 3, 1, 3)	nonmonotonic rise
+M L W K	(4, 5, 5, 1)	other
+SH Y L TH	(3, 5, 5, 3)	nonmonotonic rise
+P CH S T	(1, 2, 3, 1)	nonmonotonic rise
+M T CH F	(4, 1, 2, 3)	fall
+HH DH NG B	(3, 3, 4, 1)	other
+V ZH Z NG	(3, 3, 3, 4)	nonmonotonic rise
+K ZH V CH	(1, 3, 3, 2)	rise
+Y JH CH R	(5, 2, 2, 5)	nonmonotonic fall
+Z N SH B	(3, 4, 3, 1)	other
+V P HH B	(3, 1, 3, 1)	nonmonotonic fall
+JH P ZH R	(2, 1, 3, 5)	other
+L JH D S	(5, 2, 1, 3)	fall
+TH ZH B W	(3, 3, 1, 5)	other
+V P SH CH	(3, 1, 3, 2)	nonmonotonic fall
+CH W NG T	(2, 5, 4, 1)	other
+V S P D	(3, 3, 1, 1)	nonmonotonic fall
+ZH N D F	(3, 4, 1, 3)	other
+K DH TH SH	(1, 3, 3, 3)	rise
+T ZH L TH	(1, 3, 5, 3)	rise
+ZH HH K S	(3, 3, 1, 3)	nonmonotonic fall
+HH Y R V	(3, 5, 5, 3)	nonmonotonic rise
+W G N JH	(5, 1, 4, 2)	fall
+N L SH G	(4, 5, 3, 1)	other
+M D L Y	(4, 1, 5, 5)	other
+SH ZH V T	(3, 3, 3, 1)	nonmonotonic fall
+W DH S TH	(5, 3, 3, 3)	fall
+ZH CH R W	(3, 2, 5, 5)	other
+S D P JH	(3, 1, 1, 2)	fall
+JH HH M F	(2, 3, 4, 3)	rise
+R V HH N	(5, 3, 3, 4)	fall
+D F ZH TH	(1, 3, 3, 3)	rise
+HH NG DH ZH	(3, 4, 3, 3)	nonmonotonic rise
+ZH V K CH	(3, 3, 1, 2)	nonmonotonic fall
+TH L M B	(3, 5, 4, 1)	other
+L CH Z HH	(5, 2, 3, 3)	fall
+G P W T	(1, 1, 5, 1)	nonmonotonic rise
+Y G V HH	(5, 1, 3, 3)	fall
+NG T ZH G	(4, 1, 3, 1)	fall
+Z P HH TH	(3, 1, 3, 3)	nonmonotonic fall
+CH M Z R	(2, 4, 3, 5)	rise
+F T N SH	(3, 1, 4, 3)	other
+W P V SH	(5, 1, 3, 3)	fall
+HH L CH NG	(3, 5, 2, 4)	other
+F D G NG	(3, 1, 1, 4)	other
+N B Z F	(4, 1, 3, 3)	fall
+F NG JH G	(3, 4, 2, 1)	other
+P S NG T	(1, 3, 4, 1)	nonmonotonic rise
+SH CH M S	(3, 2, 4, 3)	other
+HH Y V S	(3, 5, 3, 3)	nonmonotonic rise
+P S F G	(1, 3, 3, 1)	nonmonotonic rise
+DH L K B	(3, 5, 1, 1)	other
+M R NG TH	(4, 5, 4, 3)	other
+S NG DH D	(3, 4, 3, 1)	other
+L T ZH HH	(5, 1, 3, 3)	fall
+SH TH NG M	(3, 3, 4, 4)	nonmonotonic rise
+R M P Y	(5, 4, 1, 5)	nonmonotonic fall
+SH Y JH T	(3, 5, 2, 1)	other
+Y N TH T	(5, 4, 3, 1)	fall
+L D SH NG	(5, 1, 3, 4)	fall
+JH P B F	(2, 1, 1, 3)	other
+N SH CH D	(4, 3, 2, 1)	fall
+P F M D	(1, 3, 4, 1)	nonmonotonic rise
+TH P JH SH	(3, 1, 2, 3)	nonmonotonic fall
+K Z ZH P	(1, 3, 3, 1)	nonmonotonic rise
+CH K Y NG	(2, 1, 5, 4)	other
+TH JH M G	(3, 2, 4, 1)	other
+DH Z ZH S	(3, 3, 3, 3)	nonmonotonic fall
+T D SH B	(1, 1, 3, 1)	nonmonotonic rise
+V Y W G	(3, 5, 5, 1)	other
+Y K W S	(5, 1, 5, 3)	nonmonotonic fall
+HH ZH F M	(3, 3, 3, 4)	nonmonotonic rise
+S D HH CH	(3, 1, 3, 2)	nonmonotonic fall
+Z P TH G	(3, 1, 3, 1)	nonmonotonic fall
+B CH NG V	(1, 2, 4, 3)	rise
+NG JH Y B	(4, 2, 5, 1)	other
+B DH W ZH	(1, 3, 5, 3)	rise
+B W S T	(1, 5, 3, 1)	nonmonotonic rise
+G ZH Y HH	(1, 3, 5, 3)	rise
+R B P Y	(5, 1, 1, 5)	nonmonotonic fall
+HH V Y ZH	(3, 3, 5, 3)	nonmonotonic rise
+SH Y G M	(3, 5, 1, 4)	other
+SH W F M	(3, 5, 3, 4)	nonmonotonic rise
+TH B M SH	(3, 1, 4, 3)	other
+W F Z T	(5, 3, 3, 1)	fall
+D L P ZH	(1, 5, 1, 3)	nonmonotonic rise
+P G W DH	(1, 1, 5, 3)	nonmonotonic rise
+Y B ZH S	(5, 1, 3, 3)	fall
+T SH D R	(1, 3, 1, 5)	nonmonotonic rise
+F NG P B	(3, 4, 1, 1)	other
+P V B Z	(1, 3, 1, 3)	nonmonotonic rise
+NG M T CH	(4, 4, 1, 2)	nonmonotonic fall
+M N JH S	(4, 4, 2, 3)	nonmonotonic fall
+SH HH B D	(3, 3, 1, 1)	nonmonotonic fall
+N CH Y SH	(4, 2, 5, 3)	other
+Z R F D	(3, 5, 3, 1)	other
+Y DH NG HH	(5, 3, 4, 3)	fall
+M CH DH N	(4, 2, 3, 4)	nonmonotonic fall
+TH NG ZH G	(3, 4, 3, 1)	other
+W DH L TH	(5, 3, 5, 3)	nonmonotonic fall
+NG TH S P	(4, 3, 3, 1)	fall
+HH Y SH F	(3, 5, 3, 3)	nonmonotonic rise
+R M D DH	(5, 4, 1, 3)	fall
+V JH D F	(3, 2, 1, 3)	nonmonotonic fall
+M B ZH F	(4, 1, 3, 3)	fall
+B TH Y F	(1, 3, 5, 3)	rise
+T Y M Z	(1, 5, 4, 3)	rise
+NG W Z P	(4, 5, 3, 1)	other
+T W M V	(1, 5, 4, 3)	rise
+N HH ZH S	(4, 3, 3, 3)	fall
+F D T DH	(3, 1, 1, 3)	nonmonotonic fall
+ZH F DH Y	(3, 3, 3, 5)	nonmonotonic rise
+HH L B Y	(3, 5, 1, 5)	other
+G R M B	(1, 5, 4, 1)	nonmonotonic rise
+V SH R TH	(3, 3, 5, 3)	nonmonotonic rise
+R CH JH K	(5, 2, 2, 1)	fall
+TH V HH F	(3, 3, 3, 3)	nonmonotonic fall
+B P CH HH	(1, 1, 2, 3)	nonmonotonic rise
+HH T W N	(3, 1, 5, 4)	other
+K TH W JH	(1, 3, 5, 2)	rise
+V SH CH JH	(3, 3, 2, 2)	nonmonotonic fall
+TH T K S	(3, 1, 1, 3)	nonmonotonic fall
+HH JH S TH	(3, 2, 3, 3)	nonmonotonic fall
+W M TH DH	(5, 4, 3, 3)	fall
+Y HH K Z	(5, 3, 1, 3)	fall
+JH M R N	(2, 4, 5, 4)	rise
+G JH Z Y	(1, 2, 3, 5)	rise
+D N R CH	(1, 4, 5, 2)	rise
+G T TH V	(1, 1, 3, 3)	nonmonotonic rise
+V R N DH	(3, 5, 4, 3)	nonmonotonic rise
+T D L V	(1, 1, 5, 3)	nonmonotonic rise
+Z ZH S B	(3, 3, 3, 1)	nonmonotonic fall
+D W P B	(1, 5, 1, 1)	nonmonotonic rise
+L V K TH	(5, 3, 1, 3)	fall
+K JH F B	(1, 2, 3, 1)	nonmonotonic rise
+M ZH CH JH	(4, 3, 2, 2)	fall
+HH DH K CH	(3, 3, 1, 2)	nonmonotonic fall
+ZH R V Z	(3, 5, 3, 3)	nonmonotonic rise
+HH V TH SH	(3, 3, 3, 3)	nonmonotonic fall
+N Y M P	(4, 5, 4, 1)	other
+SH ZH N P	(3, 3, 4, 1)	other
+V L DH K	(3, 5, 3, 1)	other
+M SH P V	(4, 3, 1, 3)	fall
+N SH K NG	(4, 3, 1, 4)	nonmonotonic fall
+G F B T	(1, 3, 1, 1)	nonmonotonic rise
+S HH V F	(3, 3, 3, 3)	nonmonotonic fall
+L D Y CH	(5, 1, 5, 2)	nonmonotonic fall
+S Z D SH	(3, 3, 1, 3)	nonmonotonic fall
+D P DH ZH	(1, 1, 3, 3)	nonmonotonic rise
+K JH R ZH	(1, 2, 5, 3)	rise
+TH K N Y	(3, 1, 4, 5)	other
+CH Y SH M	(2, 5, 3, 4)	rise
+S D K G	(3, 1, 1, 1)	fall
+K Z F T	(1, 3, 3, 1)	nonmonotonic rise
+HH F Y R	(3, 3, 5, 5)	nonmonotonic rise
+F Z Y S	(3, 3, 5, 3)	nonmonotonic rise
+P K M L	(1, 1, 4, 5)	nonmonotonic rise
+N JH HH D	(4, 2, 3, 1)	fall
+CH L Y T	(2, 5, 5, 1)	other
+ZH N Y NG	(3, 4, 5, 4)	rise
+CH L R G	(2, 5, 5, 1)	other
+D SH B HH	(1, 3, 1, 3)	nonmonotonic rise
+TH V DH M	(3, 3, 3, 4)	nonmonotonic rise
+L G SH JH	(5, 1, 3, 2)	fall
+R G W F	(5, 1, 5, 3)	nonmonotonic fall
+Z V M ZH	(3, 3, 4, 3)	nonmonotonic rise
+M P Z L	(4, 1, 3, 5)	other
+T G R V	(1, 1, 5, 3)	nonmonotonic rise
+B D F SH	(1, 1, 3, 3)	nonmonotonic rise
+DH W Y K	(3, 5, 5, 1)	other
+TH Y L ZH	(3, 5, 5, 3)	nonmonotonic rise
+B SH K W	(1, 3, 1, 5)	nonmonotonic rise
+TH Y S ZH	(3, 5, 3, 3)	nonmonotonic rise
+Y ZH NG D	(5, 3, 4, 1)	fall
+Z NG R P	(3, 4, 5, 1)	other
+SH Y TH V	(3, 5, 3, 3)	nonmonotonic rise
+DH V T JH	(3, 3, 1, 2)	nonmonotonic fall
+B V CH L	(1, 3, 2, 5)	rise
+T ZH B G	(1, 3, 1, 1)	nonmonotonic rise
+Z D R Y	(3, 1, 5, 5)	other
+P CH T N	(1, 2, 1, 4)	nonmonotonic rise
+D W ZH TH	(1, 5, 3, 3)	rise
+DH F TH K	(3, 3, 3, 1)	nonmonotonic fall
+K NG SH Z	(1, 4, 3, 3)	rise
+N S K R	(4, 3, 1, 5)	other
+SH CH NG P	(3, 2, 4, 1)	other
+SH T L W	(3, 1, 5, 5)	other
+ZH K HH Y	(3, 1, 3, 5)	other
+S M JH ZH	(3, 4, 2, 3)	other
+JH S B Y	(2, 3, 1, 5)	other
+G D Z ZH	(1, 1, 3, 3)	nonmonotonic rise
+M P D NG	(4, 1, 1, 4)	nonmonotonic fall
+B R G Z	(1, 5, 1, 3)	nonmonotonic rise
+Y W V NG	(5, 5, 3, 4)	nonmonotonic fall
+JH W Y Z	(2, 5, 5, 3)	rise
+P N S R	(1, 4, 3, 5)	rise
+TH R L DH	(3, 5, 5, 3)	nonmonotonic rise
+NG JH G TH	(4, 2, 1, 3)	fall
+W DH T NG	(5, 3, 1, 4)	fall
+TH W M B	(3, 5, 4, 1)	other
+K M SH N	(1, 4, 3, 4)	rise
+G W R V	(1, 5, 5, 3)	rise
+V DH D R	(3, 3, 1, 5)	other
+L G K SH	(5, 1, 1, 3)	fall
+R F HH M	(5, 3, 3, 4)	fall
+Y R CH Z	(5, 5, 2, 3)	nonmonotonic fall
+W V T CH	(5, 3, 1, 2)	fall
+HH M ZH P	(3, 4, 3, 1)	other
+DH G K M	(3, 1, 1, 4)	other
+V DH K CH	(3, 3, 1, 2)	nonmonotonic fall
+TH DH JH HH	(3, 3, 2, 3)	nonmonotonic fall
+N HH K Y	(4, 3, 1, 5)	other
+DH T JH ZH	(3, 1, 2, 3)	nonmonotonic fall
+B P JH DH	(1, 1, 2, 3)	nonmonotonic rise
+T W M P	(1, 5, 4, 1)	nonmonotonic rise
+B M R HH	(1, 4, 5, 3)	rise
+P N G T	(1, 4, 1, 1)	nonmonotonic rise
+F DH HH SH	(3, 3, 3, 3)	nonmonotonic fall
+T Z F B	(1, 3, 3, 1)	nonmonotonic rise
+M F G D	(4, 3, 1, 1)	fall
+N CH Y S	(4, 2, 5, 3)	other
+B TH F NG	(1, 3, 3, 4)	rise
+B ZH TH V	(1, 3, 3, 3)	rise
+W B R K	(5, 1, 5, 1)	nonmonotonic fall
+HH K G V	(3, 1, 1, 3)	nonmonotonic fall
+F T P Z	(3, 1, 1, 3)	nonmonotonic fall
+NG F R L	(4, 3, 5, 5)	other
+S Z SH R	(3, 3, 3, 5)	nonmonotonic rise
+T V SH Z	(1, 3, 3, 3)	rise
+B HH Z R	(1, 3, 3, 5)	rise
+F CH Z S	(3, 2, 3, 3)	nonmonotonic fall
+TH S V F	(3, 3, 3, 3)	nonmonotonic fall
+HH T R SH	(3, 1, 5, 3)	other
+R CH Z G	(5, 2, 3, 1)	fall
+P B V M	(1, 1, 3, 4)	nonmonotonic rise
+S V W CH	(3, 3, 5, 2)	other
+DH TH D G	(3, 3, 1, 1)	nonmonotonic fall
+D L SH N	(1, 5, 3, 4)	rise
+B Z T P	(1, 3, 1, 1)	nonmonotonic rise
+SH D TH Z	(3, 1, 3, 3)	nonmonotonic fall
+SH N HH D	(3, 4, 3, 1)	other
+JH T M L	(2, 1, 4, 5)	other
+ZH V L F	(3, 3, 5, 3)	nonmonotonic rise
+JH CH K Z	(2, 2, 1, 3)	other
+G CH S Z	(1, 2, 3, 3)	rise
+F W NG ZH	(3, 5, 4, 3)	nonmonotonic rise
+Z G R B	(3, 1, 5, 1)	other
+G D Z HH	(1, 1, 3, 3)	nonmonotonic rise
+T F R W	(1, 3, 5, 5)	rise
+W D DH P	(5, 1, 3, 1)	fall
+S Z B T	(3, 3, 1, 1)	nonmonotonic fall
+Z SH K R	(3, 3, 1, 5)	other
+D V Z G	(1, 3, 3, 1)	nonmonotonic rise
+N W CH HH	(4, 5, 2, 3)	other
+T W D HH	(1, 5, 1, 3)	nonmonotonic rise
+CH D ZH DH	(2, 1, 3, 3)	other
+G Y Z L	(1, 5, 3, 5)	rise
+W Z V ZH	(5, 3, 3, 3)	fall
+M Y T CH	(4, 5, 1, 2)	other
+V D P NG	(3, 1, 1, 4)	other
+CH M T W	(2, 4, 1, 5)	other
+ZH NG R N	(3, 4, 5, 4)	rise
+D P T F	(1, 1, 1, 3)	nonmonotonic rise
+JH M Z B	(2, 4, 3, 1)	other
+JH T V P	(2, 1, 3, 1)	other
+T NG M HH	(1, 4, 4, 3)	rise
+CH S T HH	(2, 3, 1, 3)	other
+G S N K	(1, 3, 4, 1)	nonmonotonic rise
+Y T N G	(5, 1, 4, 1)	fall
+NG R W K	(4, 5, 5, 1)	other
+SH L F JH	(3, 5, 3, 2)	other
+NG D T TH	(4, 1, 1, 3)	fall
+T R Z CH	(1, 5, 3, 2)	rise
+HH Z N ZH	(3, 3, 4, 3)	nonmonotonic rise
+CH B M NG	(2, 1, 4, 4)	other
+SH K CH V	(3, 1, 2, 3)	nonmonotonic fall
+F T Y B	(3, 1, 5, 1)	other
+Y DH JH G	(5, 3, 2, 1)	fall
+W Y NG L	(5, 5, 4, 5)	nonmonotonic fall
+Z P CH T	(3, 1, 2, 1)	fall
+D R DH Y	(1, 5, 3, 5)	rise
+JH T B Z	(2, 1, 1, 3)	other
+JH G CH M	(2, 1, 2, 4)	other
+NG B TH CH	(4, 1, 3, 2)	fall
+SH P NG V	(3, 1, 4, 3)	other
+P D ZH R	(1, 1, 3, 5)	nonmonotonic rise
+W Y K F	(5, 5, 1, 3)	nonmonotonic fall
+CH B N L	(2, 1, 4, 5)	other
+SH DH R P	(3, 3, 5, 1)	other
+K JH S L	(1, 2, 3, 5)	rise
+HH M B Z	(3, 4, 1, 3)	other
+ZH HH JH Y	(3, 3, 2, 5)	other
+DH G S K	(3, 1, 3, 1)	nonmonotonic fall
+L Y T JH	(5, 5, 1, 2)	nonmonotonic fall
+DH HH Y L	(3, 3, 5, 5)	nonmonotonic rise
+N Y G CH	(4, 5, 1, 2)	other
+JH Y V W	(2, 5, 3, 5)	rise
+P Z NG HH	(1, 3, 4, 3)	rise
+V TH M DH	(3, 3, 4, 3)	nonmonotonic rise
+CH B D Y	(2, 1, 1, 5)	other
+M R P SH	(4, 5, 1, 3)	other
+HH G F CH	(3, 1, 3, 2)	nonmonotonic fall
+Y D S K	(5, 1, 3, 1)	fall
+W CH V R	(5, 2, 3, 5)	nonmonotonic fall
+W ZH TH D	(5, 3, 3, 1)	fall
+N TH G ZH	(4, 3, 1, 3)	fall
+Y R N F	(5, 5, 4, 3)	nonmonotonic fall
+F JH D R	(3, 2, 1, 5)	other
+T V DH TH	(1, 3, 3, 3)	rise
+R CH DH K	(5, 2, 3, 1)	fall
+V NG SH S	(3, 4, 3, 3)	nonmonotonic rise
+HH V SH CH	(3, 3, 3, 2)	nonmonotonic fall
+K G CH F	(1, 1, 2, 3)	nonmonotonic rise
+HH L F Y	(3, 5, 3, 5)	nonmonotonic rise
+V W SH N	(3, 5, 3, 4)	nonmonotonic rise
+V Y S HH	(3, 5, 3, 3)	nonmonotonic rise
+B K G P	(1, 1, 1, 1)	nonmonotonic fall
+HH SH Z Y	(3, 3, 3, 5)	nonmonotonic rise
+SH P N Z	(3, 1, 4, 3)	other
+S F V DH	(3, 3, 3, 3)	nonmonotonic fall
+K SH S TH	(1, 3, 3, 3)	rise
+ZH L DH B	(3, 5, 3, 1)	other
+S NG SH N	(3, 4, 3, 4)	nonmonotonic rise
+N R F K	(4, 5, 3, 1)	other
+R V T B	(5, 3, 1, 1)	fall
+L S DH Y	(5, 3, 3, 5)	nonmonotonic fall
+S D L V	(3, 1, 5, 3)	other
+TH B SH G	(3, 1, 3, 1)	nonmonotonic fall
+NG ZH G Y	(4, 3, 1, 5)	other
+V M N D	(3, 4, 4, 1)	other
+P G HH Z	(1, 1, 3, 3)	nonmonotonic rise
+K W ZH TH	(1, 5, 3, 3)	rise
+SH P NG JH	(3, 1, 4, 2)	other
+D Z P TH	(1, 3, 1, 3)	nonmonotonic rise
+R TH L Z	(5, 3, 5, 3)	nonmonotonic fall
+NG F Z HH	(4, 3, 3, 3)	fall
+L N CH DH	(5, 4, 2, 3)	fall
+NG HH R SH	(4, 3, 5, 3)	other
+N D DH TH	(4, 1, 3, 3)	fall
+TH P ZH F	(3, 1, 3, 3)	nonmonotonic fall
+G Y R T	(1, 5, 5, 1)	nonmonotonic rise
+NG B R K	(4, 1, 5, 1)	other
+L F Y HH	(5, 3, 5, 3)	nonmonotonic fall
+D V K R	(1, 3, 1, 5)	nonmonotonic rise
+Y Z W NG	(5, 3, 5, 4)	nonmonotonic fall
+SH TH M G	(3, 3, 4, 1)	other
+TH NG G N	(3, 4, 1, 4)	other
+HH S NG CH	(3, 3, 4, 2)	other
+M Z TH L	(4, 3, 3, 5)	other
+V SH F D	(3, 3, 3, 1)	nonmonotonic fall
+TH ZH CH Y	(3, 3, 2, 5)	other
+K D Y JH	(1, 1, 5, 2)	nonmonotonic rise
+M P ZH W	(4, 1, 3, 5)	other
+SH ZH JH R	(3, 3, 2, 5)	other
+HH N M P	(3, 4, 4, 1)	other
+DH T ZH F	(3, 1, 3, 3)	nonmonotonic fall
+CH TH Y SH	(2, 3, 5, 3)	rise
+SH F Z G	(3, 3, 3, 1)	nonmonotonic fall
+D V B F	(1, 3, 1, 3)	nonmonotonic rise
+B JH L F	(1, 2, 5, 3)	rise
+G SH W S	(1, 3, 5, 3)	rise
+L NG D JH	(5, 4, 1, 2)	fall
+G JH P S	(1, 2, 1, 3)	nonmonotonic rise
+SH CH P S	(3, 2, 1, 3)	nonmonotonic fall
+SH Z K HH	(3, 3, 1, 3)	nonmonotonic fall
+V TH F N	(3, 3, 3, 4)	nonmonotonic rise
+DH HH M Y	(3, 3, 4, 5)	nonmonotonic rise
+D F V K	(1, 3, 3, 1)	nonmonotonic rise
+W SH R L	(5, 3, 5, 5)	nonmonotonic fall
+P V K M	(1, 3, 1, 4)	nonmonotonic rise
+F S N Y	(3, 3, 4, 5)	nonmonotonic rise
+P R Z V	(1, 5, 3, 3)	rise
+T CH SH G	(1, 2, 3, 1)	nonmonotonic rise
+DH F R T	(3, 3, 5, 1)	other
+Z TH L HH	(3, 3, 5, 3)	nonmonotonic rise
+JH K TH M	(2, 1, 3, 4)	other
+CH DH W Y	(2, 3, 5, 5)	rise
+NG DH S Z	(4, 3, 3, 3)	fall
+JH ZH W HH	(2, 3, 5, 3)	rise
+L D NG Z	(5, 1, 4, 3)	fall
+Y R G D	(5, 5, 1, 1)	nonmonotonic fall
+CH N M T	(2, 4, 4, 1)	other
+D DH SH P	(1, 3, 3, 1)	nonmonotonic rise
+T M B CH	(1, 4, 1, 2)	nonmonotonic rise
+M W CH NG	(4, 5, 2, 4)	other
+TH L P S	(3, 5, 1, 3)	other
+D CH K Z	(1, 2, 1, 3)	nonmonotonic rise
+G TH NG K	(1, 3, 4, 1)	nonmonotonic rise
+F JH CH NG	(3, 2, 2, 4)	other
+JH S K Z	(2, 3, 1, 3)	other
+M CH K Z	(4, 2, 1, 3)	fall
+P D S L	(1, 1, 3, 5)	nonmonotonic rise
+HH Y N R	(3, 5, 4, 5)	rise
+DH HH R N	(3, 3, 5, 4)	nonmonotonic rise
+HH CH W G	(3, 2, 5, 1)	other
+ZH TH CH R	(3, 3, 2, 5)	other
+R JH Y N	(5, 2, 5, 4)	nonmonotonic fall
+DH CH Y G	(3, 2, 5, 1)	other
+Z F B G	(3, 3, 1, 1)	nonmonotonic fall
+JH W T ZH	(2, 5, 1, 3)	other
+G N M NG	(1, 4, 4, 4)	rise
+T P JH F	(1, 1, 2, 3)	nonmonotonic rise
+SH F JH DH	(3, 3, 2, 3)	nonmonotonic fall
+M SH Y N	(4, 3, 5, 4)	other
+HH F DH N	(3, 3, 3, 4)	nonmonotonic rise
+Z TH Y ZH	(3, 3, 5, 3)	nonmonotonic rise
+M CH N ZH	(4, 2, 4, 3)	nonmonotonic fall
+CH B M G	(2, 1, 4, 1)	other
+HH L TH R	(3, 5, 3, 5)	nonmonotonic rise
+ZH NG W V	(3, 4, 5, 3)	nonmonotonic rise
+T R TH W	(1, 5, 3, 5)	rise
+ZH G M TH	(3, 1, 4, 3)	other
+DH G F B	(3, 1, 3, 1)	nonmonotonic fall
+G DH S TH	(1, 3, 3, 3)	rise
+Y TH P D	(5, 3, 1, 1)	fall
+Z P R Y	(3, 1, 5, 5)	other
+DH R L CH	(3, 5, 5, 2)	other
+L P SH N	(5, 1, 3, 4)	fall
+W TH T SH	(5, 3, 1, 3)	fall
+HH SH Z B	(3, 3, 3, 1)	nonmonotonic fall
+P T B M	(1, 1, 1, 4)	nonmonotonic rise
+NG M CH HH	(4, 4, 2, 3)	nonmonotonic fall
+B SH S N	(1, 3, 3, 4)	rise
+R CH Z M	(5, 2, 3, 4)	fall
+D TH Y HH	(1, 3, 5, 3)	rise
+R T CH S	(5, 1, 2, 3)	fall
+P NG K W	(1, 4, 1, 5)	nonmonotonic rise
+ZH Z S K	(3, 3, 3, 1)	nonmonotonic fall
+T V D JH	(1, 3, 1, 2)	nonmonotonic rise
+K NG S L	(1, 4, 3, 5)	rise
+D DH HH T	(1, 3, 3, 1)	nonmonotonic rise
+S T L W	(3, 1, 5, 5)	other
+F G JH HH	(3, 1, 2, 3)	nonmonotonic fall
+DH S T W	(3, 3, 1, 5)	other
+CH B V T	(2, 1, 3, 1)	other
+Y DH Z CH	(5, 3, 3, 2)	fall
+W DH HH Y	(5, 3, 3, 5)	nonmonotonic fall
+F SH S JH	(3, 3, 3, 2)	nonmonotonic fall
+P D CH G	(1, 1, 2, 1)	nonmonotonic rise
+NG M K P	(4, 4, 1, 1)	nonmonotonic fall
+TH M N SH	(3, 4, 4, 3)	nonmonotonic rise
+W M G Y	(5, 4, 1, 5)	nonmonotonic fall
+W NG V Y	(5, 4, 3, 5)	nonmonotonic fall
+S Z G CH	(3, 3, 1, 2)	nonmonotonic fall
+P W DH N	(1, 5, 3, 4)	rise
+NG N D CH	(4, 4, 1, 2)	nonmonotonic fall
+JH M N W	(2, 4, 4, 5)	rise
+D DH W JH	(1, 3, 5, 2)	rise
+W F G DH	(5, 3, 1, 3)	fall
+Z N R Y	(3, 4, 5, 5)	rise
+M Z Y DH	(4, 3, 5, 3)	other
+CH G DH HH	(2, 1, 3, 3)	other
+N D F Z	(4, 1, 3, 3)	fall
+T CH N DH	(1, 2, 4, 3)	rise
+T S W G	(1, 3, 5, 1)	nonmonotonic rise
+P W V S	(1, 5, 3, 3)	rise
+Z K D B	(3, 1, 1, 1)	fall
+DH L HH V	(3, 5, 3, 3)	nonmonotonic rise
+L DH R W	(5, 3, 5, 5)	nonmonotonic fall
+R P K T	(5, 1, 1, 1)	fall
+CH DH TH F	(2, 3, 3, 3)	rise
+S N B V	(3, 4, 1, 3)	other
+SH S ZH Y	(3, 3, 3, 5)	nonmonotonic rise
+SH DH TH D	(3, 3, 3, 1)	nonmonotonic fall
+Z L NG DH	(3, 5, 4, 3)	nonmonotonic rise
+W DH L JH	(5, 3, 5, 2)	nonmonotonic fall
+ZH Y Z F	(3, 5, 3, 3)	nonmonotonic rise
+Y SH L D	(5, 3, 5, 1)	nonmonotonic fall
+NG CH ZH K	(4, 2, 3, 1)	fall
+Z TH K HH	(3, 3, 1, 3)	nonmonotonic fall
+L HH D M	(5, 3, 1, 4)	fall
+Z T B K	(3, 1, 1, 1)	fall
+Z W G NG	(3, 5, 1, 4)	other
+R TH SH M	(5, 3, 3, 4)	fall
+HH TH Y M	(3, 3, 5, 4)	nonmonotonic rise
+R JH S V	(5, 2, 3, 3)	fall
+M L W F	(4, 5, 5, 3)	other
+M L Y TH	(4, 5, 5, 3)	other
+P W DH L	(1, 5, 3, 5)	rise
+P R HH M	(1, 5, 3, 4)	rise
+JH B G P	(2, 1, 1, 1)	fall
+P K F Y	(1, 1, 3, 5)	nonmonotonic rise
+CH JH B Z	(2, 2, 1, 3)	other
+CH Y T D	(2, 5, 1, 1)	other
+Z ZH D F	(3, 3, 1, 3)	nonmonotonic fall
+D P ZH Y	(1, 1, 3, 5)	nonmonotonic rise
+TH D R Y	(3, 1, 5, 5)	other
+R JH M CH	(5, 2, 4, 2)	fall
+ZH R B NG	(3, 5, 1, 4)	other
+R SH G JH	(5, 3, 1, 2)	fall
+S CH B N	(3, 2, 1, 4)	other
+SH TH DH L	(3, 3, 3, 5)	nonmonotonic rise
+F CH T JH	(3, 2, 1, 2)	fall
+HH G V T	(3, 1, 3, 1)	nonmonotonic fall
+F W N SH	(3, 5, 4, 3)	nonmonotonic rise
+F N TH SH	(3, 4, 3, 3)	nonmonotonic rise
+D F K NG	(1, 3, 1, 4)	nonmonotonic rise
+R K S W	(5, 1, 3, 5)	nonmonotonic fall
+D W Z F	(1, 5, 3, 3)	rise
+M HH ZH G	(4, 3, 3, 1)	fall
+K G B L	(1, 1, 1, 5)	nonmonotonic rise
+T R D CH	(1, 5, 1, 2)	nonmonotonic rise
+W DH M P	(5, 3, 4, 1)	fall
+G D Y S	(1, 1, 5, 3)	nonmonotonic rise
+D ZH DH R	(1, 3, 3, 5)	rise
+SH D R M	(3, 1, 5, 4)	other
+D TH HH K	(1, 3, 3, 1)	nonmonotonic rise
+S HH P B	(3, 3, 1, 1)	nonmonotonic fall
+ZH TH V L	(3, 3, 3, 5)	nonmonotonic rise
+SH T W Z	(3, 1, 5, 3)	other
+CH R T K	(2, 5, 1, 1)	other
+SH B Y Z	(3, 1, 5, 3)	other
+P D CH F	(1, 1, 2, 3)	nonmonotonic rise
+P CH HH W	(1, 2, 3, 5)	rise
+S N V Z	(3, 4, 3, 3)	nonmonotonic rise
+G SH DH Z	(1, 3, 3, 3)	rise
+HH N D Y	(3, 4, 1, 5)	other
+ZH Z W SH	(3, 3, 5, 3)	nonmonotonic rise
+HH SH B G	(3, 3, 1, 1)	nonmonotonic fall
+TH Z W P	(3, 3, 5, 1)	other
+S CH NG V	(3, 2, 4, 3)	other
+M T V L	(4, 1, 3, 5)	other
+R T CH L	(5, 1, 2, 5)	nonmonotonic fall
+R D CH S	(5, 1, 2, 3)	fall
+K B V G	(1, 1, 3, 1)	nonmonotonic rise
+ZH V CH G	(3, 3, 2, 1)	nonmonotonic fall
+V G DH ZH	(3, 1, 3, 3)	nonmonotonic fall
+T CH JH F	(1, 2, 2, 3)	rise
+T D L Z	(1, 1, 5, 3)	nonmonotonic rise
+Z S L DH	(3, 3, 5, 3)	nonmonotonic rise
+F L V B	(3, 5, 3, 1)	other
+S M L DH	(3, 4, 5, 3)	nonmonotonic rise
+R L CH G	(5, 5, 2, 1)	nonmonotonic fall
+NG DH D S	(4, 3, 1, 3)	fall
+P F K Y	(1, 3, 1, 5)	nonmonotonic rise
+N CH HH Y	(4, 2, 3, 5)	other
+JH TH F D	(2, 3, 3, 1)	other
+CH Y N D	(2, 5, 4, 1)	other
+HH CH D R	(3, 2, 1, 5)	other
+Y D G ZH	(5, 1, 1, 3)	fall
+B F P T	(1, 3, 1, 1)	nonmonotonic rise
+NG G Z CH	(4, 1, 3, 2)	fall
+CH Z TH R	(2, 3, 3, 5)	rise
+D R P Y	(1, 5, 1, 5)	nonmonotonic rise
+DH M K NG	(3, 4, 1, 4)	other
+N NG M R	(4, 4, 4, 5)	nonmonotonic rise
+M G ZH SH	(4, 1, 3, 3)	fall
+L CH HH G	(5, 2, 3, 1)	fall
+K CH G JH	(1, 2, 1, 2)	nonmonotonic rise
+TH K SH N	(3, 1, 3, 4)	other
+V HH S ZH	(3, 3, 3, 3)	nonmonotonic fall
+SH HH F P	(3, 3, 3, 1)	nonmonotonic fall
+W JH NG ZH	(5, 2, 4, 3)	fall
+DH F Z V	(3, 3, 3, 3)	nonmonotonic fall
+NG L Y DH	(4, 5, 5, 3)	other
+Y ZH P D	(5, 3, 1, 1)	fall
+HH NG ZH DH	(3, 4, 3, 3)	nonmonotonic rise
+TH S F DH	(3, 3, 3, 3)	nonmonotonic fall
+DH V Y D	(3, 3, 5, 1)	other
+B JH D ZH	(1, 2, 1, 3)	nonmonotonic rise
+HH F P ZH	(3, 3, 1, 3)	nonmonotonic fall
+SH V G P	(3, 3, 1, 1)	nonmonotonic fall
+V NG TH JH	(3, 4, 3, 2)	other
+S DH CH P	(3, 3, 2, 1)	nonmonotonic fall
+P K V M	(1, 1, 3, 4)	nonmonotonic rise
+V ZH TH JH	(3, 3, 3, 2)	nonmonotonic fall
+SH D P W	(3, 1, 1, 5)	other
+G DH B W	(1, 3, 1, 5)	nonmonotonic rise
+SH ZH Z D	(3, 3, 3, 1)	nonmonotonic fall
+ZH NG V CH	(3, 4, 3, 2)	other
+W K S R	(5, 1, 3, 5)	nonmonotonic fall
+B T R V	(1, 1, 5, 3)	nonmonotonic rise
+V W K P	(3, 5, 1, 1)	other
+W V S SH	(5, 3, 3, 3)	fall
+N Z L CH	(4, 3, 5, 2)	other
+P V N ZH	(1, 3, 4, 3)	rise
+G HH JH R	(1, 3, 2, 5)	rise
+L Y CH ZH	(5, 5, 2, 3)	nonmonotonic fall
+JH NG T M	(2, 4, 1, 4)	other
+S P K L	(3, 1, 1, 5)	other
+T SH G DH	(1, 3, 1, 3)	nonmonotonic rise
+D N V G	(1, 4, 3, 1)	nonmonotonic rise
+W G K JH	(5, 1, 1, 2)	fall
+P JH N B	(1, 2, 4, 1)	nonmonotonic rise
+TH P JH L	(3, 1, 2, 5)	other
+ZH D CH L	(3, 1, 2, 5)	other
+Z JH SH CH	(3, 2, 3, 2)	nonmonotonic fall
+B L ZH F	(1, 5, 3, 3)	rise
+G K V W	(1, 1, 3, 5)	nonmonotonic rise
+N D Y T	(4, 1, 5, 1)	other
+S M Z W	(3, 4, 3, 5)	nonmonotonic rise
+P N SH W	(1, 4, 3, 5)	rise
+G R SH K	(1, 5, 3, 1)	nonmonotonic rise
+D N JH P	(1, 4, 2, 1)	nonmonotonic rise
+D JH NG M	(1, 2, 4, 4)	rise
+B ZH F HH	(1, 3, 3, 3)	rise
+L P R W	(5, 1, 5, 5)	nonmonotonic fall
+F CH S M	(3, 2, 3, 4)	other
+Y V Z P	(5, 3, 3, 1)	fall
+T SH R HH	(1, 3, 5, 3)	rise
+NG T D TH	(4, 1, 1, 3)	fall
+D F ZH HH	(1, 3, 3, 3)	rise
+K Z SH N	(1, 3, 3, 4)	rise
+N Y CH DH	(4, 5, 2, 3)	other
+ZH V G L	(3, 3, 1, 5)	other
+F G NG M	(3, 1, 4, 4)	other
+TH G ZH R	(3, 1, 3, 5)	other
+SH ZH HH F	(3, 3, 3, 3)	nonmonotonic fall
+W SH G NG	(5, 3, 1, 4)	fall
+W TH SH M	(5, 3, 3, 4)	fall
+HH R S Y	(3, 5, 3, 5)	nonmonotonic rise
+L SH CH P	(5, 3, 2, 1)	fall
+N K HH V	(4, 1, 3, 3)	fall
+JH B TH T	(2, 1, 3, 1)	other
+M T TH DH	(4, 1, 3, 3)	fall
+NG DH W ZH	(4, 3, 5, 3)	other
+ZH JH CH N	(3, 2, 2, 4)	other
+T L JH NG	(1, 5, 2, 4)	rise
+P Y ZH W	(1, 5, 3, 5)	rise
+G S DH JH	(1, 3, 3, 2)	rise
+P JH T B	(1, 2, 1, 1)	nonmonotonic rise
+SH G R W	(3, 1, 5, 5)	other
+T K SH G	(1, 1, 3, 1)	nonmonotonic rise
+V N L S	(3, 4, 5, 3)	nonmonotonic rise
+G TH ZH V	(1, 3, 3, 3)	rise
+P S T N	(1, 3, 1, 4)	nonmonotonic rise
+ZH S M R	(3, 3, 4, 5)	nonmonotonic rise
+S HH DH TH	(3, 3, 3, 3)	nonmonotonic fall
+S T TH P	(3, 1, 3, 1)	nonmonotonic fall
+L P F M	(5, 1, 3, 4)	fall
+R Y S G	(5, 5, 3, 1)	nonmonotonic fall
+W K G TH	(5, 1, 1, 3)	fall
+F Z DH G	(3, 3, 3, 1)	nonmonotonic fall
+JH N V D	(2, 4, 3, 1)	other
+N Y V ZH	(4, 5, 3, 3)	other
+K Y JH HH	(1, 5, 2, 3)	rise
+Z T W ZH	(3, 1, 5, 3)	other
+TH CH D N	(3, 2, 1, 4)	other
+TH SH HH K	(3, 3, 3, 1)	nonmonotonic fall
+V W Z DH	(3, 5, 3, 3)	nonmonotonic rise
+JH N CH M	(2, 4, 2, 4)	nonmonotonic rise
+NG Z W F	(4, 3, 5, 3)	other
+DH K CH P	(3, 1, 2, 1)	fall
+W HH R T	(5, 3, 5, 1)	nonmonotonic fall
+Z F M JH	(3, 3, 4, 2)	other
+P V ZH T	(1, 3, 3, 1)	nonmonotonic rise
+G W R M	(1, 5, 5, 4)	rise
+M T ZH SH	(4, 1, 3, 3)	fall
+Z ZH SH DH	(3, 3, 3, 3)	nonmonotonic fall
+K G M T	(1, 1, 4, 1)	nonmonotonic rise
+ZH CH S D	(3, 2, 3, 1)	nonmonotonic fall
+NG T DH Y	(4, 1, 3, 5)	other
+V D JH N	(3, 1, 2, 4)	other
+S DH P D	(3, 3, 1, 1)	nonmonotonic fall
+NG S W G	(4, 3, 5, 1)	other
+HH K Z NG	(3, 1, 3, 4)	other
+P K B L	(1, 1, 1, 5)	nonmonotonic rise
+L CH F K	(5, 2, 3, 1)	fall
+NG R S HH	(4, 5, 3, 3)	other
+K N CH L	(1, 4, 2, 5)	rise
+W N F B	(5, 4, 3, 1)	fall
+D ZH W CH	(1, 3, 5, 2)	rise
+K F G W	(1, 3, 1, 5)	nonmonotonic rise
+P M W F	(1, 4, 5, 3)	rise
+L SH Y W	(5, 3, 5, 5)	nonmonotonic fall
+S G JH T	(3, 1, 2, 1)	fall
+V P T G	(3, 1, 1, 1)	fall
+S Z TH T	(3, 3, 3, 1)	nonmonotonic fall
+Z S V ZH	(3, 3, 3, 3)	nonmonotonic fall
+F CH M W	(3, 2, 4, 5)	other
+Z F HH M	(3, 3, 3, 4)	nonmonotonic rise
+CH HH R V	(2, 3, 5, 3)	rise
+P F HH T	(1, 3, 3, 1)	nonmonotonic rise
+L K JH TH	(5, 1, 2, 3)	fall
+S L Y R	(3, 5, 5, 5)	rise
+CH F V TH	(2, 3, 3, 3)	rise
+NG S SH V	(4, 3, 3, 3)	fall
+ZH SH R HH	(3, 3, 5, 3)	nonmonotonic rise
+N JH P T	(4, 2, 1, 1)	fall
+HH B F JH	(3, 1, 3, 2)	nonmonotonic fall
+V TH B F	(3, 3, 1, 3)	nonmonotonic fall
+JH HH F D	(2, 3, 3, 1)	other
+L F TH JH	(5, 3, 3, 2)	fall
+M CH Y B	(4, 2, 5, 1)	other
+Y Z T DH	(5, 3, 1, 3)	fall
+NG K DH HH	(4, 1, 3, 3)	fall
+JH G NG F	(2, 1, 4, 3)	other
+T DH JH R	(1, 3, 2, 5)	rise
+L R ZH TH	(5, 5, 3, 3)	nonmonotonic fall
+T D CH G	(1, 1, 2, 1)	nonmonotonic rise
+HH D TH S	(3, 1, 3, 3)	nonmonotonic fall
+K DH T V	(1, 3, 1, 3)	nonmonotonic rise
+Y B D N	(5, 1, 1, 4)	fall
+D DH JH F	(1, 3, 2, 3)	rise
+M P DH D	(4, 1, 3, 1)	fall
+Y F K NG	(5, 3, 1, 4)	fall
+JH F T W	(2, 3, 1, 5)	other
+D CH K DH	(1, 2, 1, 3)	nonmonotonic rise
+DH HH T F	(3, 3, 1, 3)	nonmonotonic fall
+D M G ZH	(1, 4, 1, 3)	nonmonotonic rise
+DH HH SH G	(3, 3, 3, 1)	nonmonotonic fall
+W G N D	(5, 1, 4, 1)	fall
+JH CH M B	(2, 2, 4, 1)	other
+T F S N	(1, 3, 3, 4)	rise
+HH V NG T	(3, 3, 4, 1)	other
+F L P TH	(3, 5, 1, 3)	other
+HH TH Z G	(3, 3, 3, 1)	nonmonotonic fall
+ZH S NG Z	(3, 3, 4, 3)	nonmonotonic rise
+ZH HH L K	(3, 3, 5, 1)	other
+T N F V	(1, 4, 3, 3)	rise
+V Y ZH CH	(3, 5, 3, 2)	other
+M F N R	(4, 3, 4, 5)	other
+G JH NG TH	(1, 2, 4, 3)	rise
+F G CH S	(3, 1, 2, 3)	nonmonotonic fall
+M K DH G	(4, 1, 3, 1)	fall
+R HH K SH	(5, 3, 1, 3)	fall
+T S L CH	(1, 3, 5, 2)	rise
+F B W DH	(3, 1, 5, 3)	other
+ZH M D L	(3, 4, 1, 5)	other
+DH G CH L	(3, 1, 2, 5)	other
+F D L Z	(3, 1, 5, 3)	other
+R M CH B	(5, 4, 2, 1)	fall
+CH S DH HH	(2, 3, 3, 3)	rise
+L B S G	(5, 1, 3, 1)	fall
+CH Y DH M	(2, 5, 3, 4)	rise
+JH F Z M	(2, 3, 3, 4)	rise
+N HH Y JH	(4, 3, 5, 2)	other
+W SH G ZH	(5, 3, 1, 3)	fall
+HH L Y P	(3, 5, 5, 1)	other
+T SH Y W	(1, 3, 5, 5)	rise
+G CH M JH	(1, 2, 4, 2)	rise
+CH N DH W	(2, 4, 3, 5)	rise
+S P F M	(3, 1, 3, 4)	other
+ZH T SH V	(3, 1, 3, 3)	nonmonotonic fall
+Z SH D F	(3, 3, 1, 3)	nonmonotonic fall
+K T ZH B	(1, 1, 3, 1)	nonmonotonic rise
+L N Z F	(5, 4, 3, 3)	fall
+HH T R Y	(3, 1, 5, 5)	other
+K CH ZH HH	(1, 2, 3, 3)	rise
+P Y F V	(1, 5, 3, 3)	rise
+Z DH JH CH	(3, 3, 2, 2)	nonmonotonic fall
+M B S L	(4, 1, 3, 5)	other
+L R M HH	(5, 5, 4, 3)	nonmonotonic fall
+TH SH HH ZH	(3, 3, 3, 3)	nonmonotonic fall
+HH M Z R	(3, 4, 3, 5)	nonmonotonic rise
+L Y K T	(5, 5, 1, 1)	nonmonotonic fall
+R HH V DH	(5, 3, 3, 3)	fall
+ZH CH G Z	(3, 2, 1, 3)	nonmonotonic fall
+D P S DH	(1, 1, 3, 3)	nonmonotonic rise
+F K V N	(3, 1, 3, 4)	other
+B R HH Y	(1, 5, 3, 5)	rise
+TH S K CH	(3, 3, 1, 2)	nonmonotonic fall
+W L TH N	(5, 5, 3, 4)	nonmonotonic fall
+P DH ZH G	(1, 3, 3, 1)	nonmonotonic rise
+K T V TH	(1, 1, 3, 3)	nonmonotonic rise
+K D B N	(1, 1, 1, 4)	nonmonotonic rise
+T D JH K	(1, 1, 2, 1)	nonmonotonic rise
+TH V R DH	(3, 3, 5, 3)	nonmonotonic rise
+L P N W	(5, 1, 4, 5)	nonmonotonic fall
+DH HH W V	(3, 3, 5, 3)	nonmonotonic rise
+SH S NG T	(3, 3, 4, 1)	other
+CH B P N	(2, 1, 1, 4)	other
+B SH K Z	(1, 3, 1, 3)	nonmonotonic rise
+K ZH T SH	(1, 3, 1, 3)	nonmonotonic rise
+CH Y G F	(2, 5, 1, 3)	other
+B Y SH F	(1, 5, 3, 3)	rise
+M JH Z Y	(4, 2, 3, 5)	other
+JH V W HH	(2, 3, 5, 3)	rise
+DH NG V SH	(3, 4, 3, 3)	nonmonotonic rise
+HH B TH JH	(3, 1, 3, 2)	nonmonotonic fall
+CH W R M	(2, 5, 5, 4)	rise
+F W B N	(3, 5, 1, 4)	other
+ZH DH NG V	(3, 3, 4, 3)	nonmonotonic rise
+K F B D	(1, 3, 1, 1)	nonmonotonic rise
+DH F N HH	(3, 3, 4, 3)	nonmonotonic rise
+T W F Z	(1, 5, 3, 3)	rise
+Y JH S M	(5, 2, 3, 4)	fall
+TH W F P	(3, 5, 3, 1)	other
+N V R M	(4, 3, 5, 4)	other
+W NG T R	(5, 4, 1, 5)	nonmonotonic fall
+JH DH TH L	(2, 3, 3, 5)	rise
+DH B V JH	(3, 1, 3, 2)	nonmonotonic fall
+L NG Y W	(5, 4, 5, 5)	nonmonotonic fall
+V DH B Z	(3, 3, 1, 3)	nonmonotonic fall
+K P M JH	(1, 1, 4, 2)	nonmonotonic rise
+SH HH G JH	(3, 3, 1, 2)	nonmonotonic fall
+NG P W V	(4, 1, 5, 3)	other
+B T W M	(1, 1, 5, 4)	nonmonotonic rise
+NG N Z JH	(4, 4, 3, 2)	nonmonotonic fall
+L T R Z	(5, 1, 5, 3)	nonmonotonic fall
+R NG TH G	(5, 4, 3, 1)	fall
+SH N TH CH	(3, 4, 3, 2)	other
+K Z ZH B	(1, 3, 3, 1)	nonmonotonic rise
+Y SH TH W	(5, 3, 3, 5)	nonmonotonic fall
+K G CH P	(1, 1, 2, 1)	nonmonotonic rise
+D ZH T TH	(1, 3, 1, 3)	nonmonotonic rise
+DH NG P G	(3, 4, 1, 1)	other
+M DH ZH SH	(4, 3, 3, 3)	fall
+NG V TH SH	(4, 3, 3, 3)	fall
+Y M HH W	(5, 4, 3, 5)	nonmonotonic fall
+L R DH HH	(5, 5, 3, 3)	nonmonotonic fall
+W NG TH N	(5, 4, 3, 4)	fall
+Y NG DH B	(5, 4, 3, 1)	fall
+M HH P L	(4, 3, 1, 5)	other
+DH D R SH	(3, 1, 5, 3)	other
+HH NG S CH	(3, 4, 3, 2)	other
+Y G T HH	(5, 1, 1, 3)	fall
+HH G CH Y	(3, 1, 2, 5)	other
+N L S K	(4, 5, 3, 1)	other
+F W N HH	(3, 5, 4, 3)	nonmonotonic rise
+ZH W M Z	(3, 5, 4, 3)	nonmonotonic rise
+ZH NG DH S	(3, 4, 3, 3)	nonmonotonic rise
+TH R NG DH	(3, 5, 4, 3)	nonmonotonic rise
+G CH TH P	(1, 2, 3, 1)	nonmonotonic rise
+SH B DH N	(3, 1, 3, 4)	other
+ZH T N K	(3, 1, 4, 1)	other
+B Z S DH	(1, 3, 3, 3)	rise
+Y TH JH NG	(5, 3, 2, 4)	fall
+V G P T	(3, 1, 1, 1)	fall
+DH N P F	(3, 4, 1, 3)	other
+G R S B	(1, 5, 3, 1)	nonmonotonic rise
+T V DH W	(1, 3, 3, 5)	rise
+CH SH Z R	(2, 3, 3, 5)	rise
+Y F T L	(5, 3, 1, 5)	nonmonotonic fall
+F JH ZH S	(3, 2, 3, 3)	nonmonotonic fall
+Z B K DH	(3, 1, 1, 3)	nonmonotonic fall
+Y ZH D G	(5, 3, 1, 1)	fall
+P NG CH DH	(1, 4, 2, 3)	rise
+P HH S SH	(1, 3, 3, 3)	rise
+D Z NG DH	(1, 3, 4, 3)	rise
+T TH JH G	(1, 3, 2, 1)	nonmonotonic rise
+DH W G K	(3, 5, 1, 1)	other
+S D G DH	(3, 1, 1, 3)	nonmonotonic fall
+G SH F K	(1, 3, 3, 1)	nonmonotonic rise
+F ZH G Y	(3, 3, 1, 5)	other
+DH V SH CH	(3, 3, 3, 2)	nonmonotonic fall
+CH Y S V	(2, 5, 3, 3)	rise
+T NG B JH	(1, 4, 1, 2)	nonmonotonic rise
+V CH B JH	(3, 2, 1, 2)	fall
+D Z TH JH	(1, 3, 3, 2)	rise
+TH Z P D	(3, 3, 1, 1)	nonmonotonic fall
+N K CH S	(4, 1, 2, 3)	fall
+N DH W HH	(4, 3, 5, 3)	other
+P W L T	(1, 5, 5, 1)	nonmonotonic rise
+HH T CH M	(3, 1, 2, 4)	other
+L HH T NG	(5, 3, 1, 4)	fall
+G W M HH	(1, 5, 4, 3)	rise
+K SH S F	(1, 3, 3, 3)	rise
+NG B P W	(4, 1, 1, 5)	other
+Z DH M P	(3, 3, 4, 1)	other
+G L JH D	(1, 5, 2, 1)	nonmonotonic rise
+P CH L V	(1, 2, 5, 3)	rise
+V S P JH	(3, 3, 1, 2)	nonmonotonic fall
+D SH ZH T	(1, 3, 3, 1)	nonmonotonic rise
+ZH K V TH	(3, 1, 3, 3)	nonmonotonic fall
+NG L DH TH	(4, 5, 3, 3)	other
+D P SH NG	(1, 1, 3, 4)	nonmonotonic rise
+B Z ZH CH	(1, 3, 3, 2)	rise
+ZH L P NG	(3, 5, 1, 4)	other
+M TH JH G	(4, 3, 2, 1)	fall
+V R ZH G	(3, 5, 3, 1)	other
+R Z B G	(5, 3, 1, 1)	fall
+G B NG F	(1, 1, 4, 3)	nonmonotonic rise
+F K TH T	(3, 1, 3, 1)	nonmonotonic fall
+DH NG R K	(3, 4, 5, 1)	other
+JH B W G	(2, 1, 5, 1)	other
+M V K Z	(4, 3, 1, 3)	fall
+TH K M S	(3, 1, 4, 3)	other
+Y N D W	(5, 4, 1, 5)	nonmonotonic fall
+R NG W DH	(5, 4, 5, 3)	nonmonotonic fall
+D ZH HH K	(1, 3, 3, 1)	nonmonotonic rise
+G ZH B F	(1, 3, 1, 3)	nonmonotonic rise
+K W S CH	(1, 5, 3, 2)	rise
+TH F CH K	(3, 3, 2, 1)	nonmonotonic fall
+HH S ZH V	(3, 3, 3, 3)	nonmonotonic fall
+SH L JH S	(3, 5, 2, 3)	other
+NG Z TH P	(4, 3, 3, 1)	fall
+V T G P	(3, 1, 1, 1)	fall
+L W M V	(5, 5, 4, 3)	nonmonotonic fall
+Z L CH B	(3, 5, 2, 1)	other
+M TH CH Z	(4, 3, 2, 3)	fall
+D Z SH DH	(1, 3, 3, 3)	rise
+W TH K F	(5, 3, 1, 3)	fall
+DH P N ZH	(3, 1, 4, 3)	other
+B V TH DH	(1, 3, 3, 3)	rise
+P NG B S	(1, 4, 1, 3)	nonmonotonic rise
+HH M ZH T	(3, 4, 3, 1)	other
+HH Y T V	(3, 5, 1, 3)	other
+TH T M HH	(3, 1, 4, 3)	other
+HH SH ZH B	(3, 3, 3, 1)	nonmonotonic fall
+L CH S NG	(5, 2, 3, 4)	fall
+CH Y N TH	(2, 5, 4, 3)	rise
+CH B G R	(2, 1, 1, 5)	other
+HH R F V	(3, 5, 3, 3)	nonmonotonic rise
+N ZH W SH	(4, 3, 5, 3)	other
+L SH R S	(5, 3, 5, 3)	nonmonotonic fall
+NG W B DH	(4, 5, 1, 3)	other
+V P L Y	(3, 1, 5, 5)	other
+S M NG JH	(3, 4, 4, 2)	other
+D HH V R	(1, 3, 3, 5)	rise
+K V TH NG	(1, 3, 3, 4)	rise
+SH F N L	(3, 3, 4, 5)	nonmonotonic rise
+NG CH Z M	(4, 2, 3, 4)	nonmonotonic fall
+W NG L R	(5, 4, 5, 5)	nonmonotonic fall
+V JH P D	(3, 2, 1, 1)	fall
+P S JH L	(1, 3, 2, 5)	rise
+CH Y F N	(2, 5, 3, 4)	rise
+K Z Y B	(1, 3, 5, 1)	nonmonotonic rise
+L N ZH P	(5, 4, 3, 1)	fall
+HH Y Z F	(3, 5, 3, 3)	nonmonotonic rise
+HH G TH S	(3, 1, 3, 3)	nonmonotonic fall
+F W T Y	(3, 5, 1, 5)	other
+TH CH NG K	(3, 2, 4, 1)	other
+Z NG P B	(3, 4, 1, 1)	other
+HH S P TH	(3, 3, 1, 3)	nonmonotonic fall
+P DH ZH HH	(1, 3, 3, 3)	rise
+B Z Y T	(1, 3, 5, 1)	nonmonotonic rise
+P Z JH SH	(1, 3, 2, 3)	rise
+T SH V W	(1, 3, 3, 5)	rise
+S M G T	(3, 4, 1, 1)	other
+F S K W	(3, 3, 1, 5)	other
+B K DH Y	(1, 1, 3, 5)	nonmonotonic rise
+R T JH B	(5, 1, 2, 1)	fall
+N R D K	(4, 5, 1, 1)	other
+S D Y R	(3, 1, 5, 5)	other
+M Y NG P	(4, 5, 4, 1)	other
+N F ZH K	(4, 3, 3, 1)	fall
+M B L NG	(4, 1, 5, 4)	other
+G Y B K	(1, 5, 1, 1)	nonmonotonic rise
+S Z T K	(3, 3, 1, 1)	nonmonotonic fall
+TH DH G R	(3, 3, 1, 5)	other
+F DH K HH	(3, 3, 1, 3)	nonmonotonic fall
+NG N L F	(4, 4, 5, 3)	other
+CH Y ZH R	(2, 5, 3, 5)	rise
+P T D M	(1, 1, 1, 4)	nonmonotonic rise
+R JH K NG	(5, 2, 1, 4)	fall
+NG JH G DH	(4, 2, 1, 3)	fall
+TH JH NG V	(3, 2, 4, 3)	other
+CH R Y SH	(2, 5, 5, 3)	rise
+V D JH R	(3, 1, 2, 5)	other
+M ZH JH V	(4, 3, 2, 3)	fall
+W JH Y S	(5, 2, 5, 3)	nonmonotonic fall
+G K M V	(1, 1, 4, 3)	nonmonotonic rise
+B HH K CH	(1, 3, 1, 2)	nonmonotonic rise
+Z M D Y	(3, 4, 1, 5)	other
+V R B Z	(3, 5, 1, 3)	other
+P N CH Z	(1, 4, 2, 3)	rise
+F W NG D	(3, 5, 4, 1)	other
+R CH HH D	(5, 2, 3, 1)	fall
+DH D B SH	(3, 1, 1, 3)	nonmonotonic fall
+CH N S G	(2, 4, 3, 1)	other
+G W T S	(1, 5, 1, 3)	nonmonotonic rise
+CH F NG SH	(2, 3, 4, 3)	rise
+TH B HH P	(3, 1, 3, 1)	nonmonotonic fall
+HH R NG P	(3, 5, 4, 1)	other
+B NG TH JH	(1, 4, 3, 2)	rise
+DH N D W	(3, 4, 1, 5)	other
+V Y L JH	(3, 5, 5, 2)	other
+NG HH M CH	(4, 3, 4, 2)	nonmonotonic fall
+W L R M	(5, 5, 5, 4)	nonmonotonic fall
+TH Z W NG	(3, 3, 5, 4)	nonmonotonic rise
+SH HH L S	(3, 3, 5, 3)	nonmonotonic rise
+NG G L W	(4, 1, 5, 5)	other
+N HH Y DH	(4, 3, 5, 3)	other
+Y G F K	(5, 1, 3, 1)	fall
+DH W G Y	(3, 5, 1, 5)	other
+B S T HH	(1, 3, 1, 3)	nonmonotonic rise
+NG G S N	(4, 1, 3, 4)	nonmonotonic fall
+N D CH B	(4, 1, 2, 1)	fall
+P T L CH	(1, 1, 5, 2)	nonmonotonic rise
+S JH DH CH	(3, 2, 3, 2)	nonmonotonic fall
+Y HH L V	(5, 3, 5, 3)	nonmonotonic fall
+G M Y P	(1, 4, 5, 1)	nonmonotonic rise
+Z S TH SH	(3, 3, 3, 3)	nonmonotonic fall
+L T V CH	(5, 1, 3, 2)	fall
+R SH G K	(5, 3, 1, 1)	fall
+JH CH L G	(2, 2, 5, 1)	other
+ZH DH SH Z	(3, 3, 3, 3)	nonmonotonic fall
+JH P T Z	(2, 1, 1, 3)	other
+W HH B V	(5, 3, 1, 3)	fall
+Z NG B DH	(3, 4, 1, 3)	other
+W HH P V	(5, 3, 1, 3)	fall
+V N CH M	(3, 4, 2, 4)	other
+B L K S	(1, 5, 1, 3)	nonmonotonic rise
+DH SH K V	(3, 3, 1, 3)	nonmonotonic fall
+M Z S P	(4, 3, 3, 1)	fall
+B NG T V	(1, 4, 1, 3)	nonmonotonic rise
+HH G K T	(3, 1, 1, 1)	fall
+Y ZH B SH	(5, 3, 1, 3)	fall
+V L JH DH	(3, 5, 2, 3)	other
+G B V Y	(1, 1, 3, 5)	nonmonotonic rise
+R L NG Y	(5, 5, 4, 5)	nonmonotonic fall
+HH V Y G	(3, 3, 5, 1)	other
+S W DH JH	(3, 5, 3, 2)	other
+TH Y W R	(3, 5, 5, 5)	rise
+P ZH CH S	(1, 3, 2, 3)	rise
+T R N S	(1, 5, 4, 3)	rise
+JH S CH TH	(2, 3, 2, 3)	nonmonotonic rise
+CH JH SH Y	(2, 2, 3, 5)	nonmonotonic rise
+R CH N L	(5, 2, 4, 5)	nonmonotonic fall
+R NG G D	(5, 4, 1, 1)	fall
+CH F DH Y	(2, 3, 3, 5)	rise
+DH ZH R S	(3, 3, 5, 3)	nonmonotonic rise
+HH N T JH	(3, 4, 1, 2)	other
+D CH W T	(1, 2, 5, 1)	nonmonotonic rise
+M K W S	(4, 1, 5, 3)	other
+CH NG Z S	(2, 4, 3, 3)	rise
+Y ZH F L	(5, 3, 3, 5)	nonmonotonic fall
+S CH TH R	(3, 2, 3, 5)	other
+SH JH R CH	(3, 2, 5, 2)	other
+R NG G V	(5, 4, 1, 3)	fall
+SH G W ZH	(3, 1, 5, 3)	other
+DH Z CH HH	(3, 3, 2, 3)	nonmonotonic fall
+TH G Z HH	(3, 1, 3, 3)	nonmonotonic fall
+DH NG S R	(3, 4, 3, 5)	nonmonotonic rise
+Z L N M	(3, 5, 4, 4)	rise
+Z ZH G R	(3, 3, 1, 5)	other
+HH CH Z TH	(3, 2, 3, 3)	nonmonotonic fall
+HH V W CH	(3, 3, 5, 2)	other
+NG SH P R	(4, 3, 1, 5)	other
+SH HH Z B	(3, 3, 3, 1)	nonmonotonic fall
+R D B ZH	(5, 1, 1, 3)	fall
+JH M Y CH	(2, 4, 5, 2)	nonmonotonic rise
+SH D L V	(3, 1, 5, 3)	other
+CH L G S	(2, 5, 1, 3)	other
+D ZH HH Z	(1, 3, 3, 3)	rise
+T W NG ZH	(1, 5, 4, 3)	rise
+T N DH F	(1, 4, 3, 3)	rise
+K JH M F	(1, 2, 4, 3)	rise
+TH M P T	(3, 4, 1, 1)	other
+V M N G	(3, 4, 4, 1)	other
+TH SH HH NG	(3, 3, 3, 4)	nonmonotonic rise
+B K R V	(1, 1, 5, 3)	nonmonotonic rise
+DH R HH TH	(3, 5, 3, 3)	nonmonotonic rise
+Y M S JH	(5, 4, 3, 2)	fall
+R DH S TH	(5, 3, 3, 3)	fall
+HH M B ZH	(3, 4, 1, 3)	other
+JH B NG L	(2, 1, 4, 5)	other
+P TH Z M	(1, 3, 3, 4)	rise
+G W K Z	(1, 5, 1, 3)	nonmonotonic rise
+Z D S T	(3, 1, 3, 1)	nonmonotonic fall
+K V DH S	(1, 3, 3, 3)	rise
+K T HH Z	(1, 1, 3, 3)	nonmonotonic rise
+DH M V TH	(3, 4, 3, 3)	nonmonotonic rise
+R Y D P	(5, 5, 1, 1)	nonmonotonic fall
+D TH G JH	(1, 3, 1, 2)	nonmonotonic rise
+ZH M D G	(3, 4, 1, 1)	other
+ZH F M D	(3, 3, 4, 1)	other
+V ZH W JH	(3, 3, 5, 2)	other
+TH W G V	(3, 5, 1, 3)	other
+W M F B	(5, 4, 3, 1)	fall
+CH DH F V	(2, 3, 3, 3)	rise
+S D G Y	(3, 1, 1, 5)	other
+D W DH Y	(1, 5, 3, 5)	rise
+G L W SH	(1, 5, 5, 3)	rise
+HH Y ZH G	(3, 5, 3, 1)	other
+T K W V	(1, 1, 5, 3)	nonmonotonic rise
+DH HH Y G	(3, 3, 5, 1)	other
+Y M HH JH	(5, 4, 3, 2)	fall
+S B N Z	(3, 1, 4, 3)	other
+V Z CH F	(3, 3, 2, 3)	nonmonotonic fall
+TH G P W	(3, 1, 1, 5)	other
+NG JH L M	(4, 2, 5, 4)	other
+F TH W Y	(3, 3, 5, 5)	nonmonotonic rise
+NG D B G	(4, 1, 1, 1)	fall
+L Z S D	(5, 3, 3, 1)	fall
+NG N K G	(4, 4, 1, 1)	nonmonotonic fall
+K JH W ZH	(1, 2, 5, 3)	rise
+T TH L F	(1, 3, 5, 3)	rise
+Z L W S	(3, 5, 5, 3)	nonmonotonic rise
+D CH Y M	(1, 2, 5, 4)	rise
+B L P TH	(1, 5, 1, 3)	nonmonotonic rise
+V S JH T	(3, 3, 2, 1)	nonmonotonic fall
+Z F M B	(3, 3, 4, 1)	other
+NG P S M	(4, 1, 3, 4)	nonmonotonic fall
+CH Z NG ZH	(2, 3, 4, 3)	rise
+SH R V Z	(3, 5, 3, 3)	nonmonotonic rise
+S ZH L K	(3, 3, 5, 1)	other
+P NG F K	(1, 4, 3, 1)	nonmonotonic rise
+DH TH R P	(3, 3, 5, 1)	other
+N R L T	(4, 5, 5, 1)	other
+B D P CH	(1, 1, 1, 2)	nonmonotonic rise
+B R JH N	(1, 5, 2, 4)	rise
+D CH DH B	(1, 2, 3, 1)	nonmonotonic rise
+L TH S B	(5, 3, 3, 1)	fall
+HH M TH F	(3, 4, 3, 3)	nonmonotonic rise
+NG L ZH N	(4, 5, 3, 4)	other
+JH P R NG	(2, 1, 5, 4)	other
+HH N SH D	(3, 4, 3, 1)	other
+NG HH M B	(4, 3, 4, 1)	nonmonotonic fall
+HH Y M SH	(3, 5, 4, 3)	nonmonotonic rise
+K Z DH L	(1, 3, 3, 5)	rise
+NG SH ZH W	(4, 3, 3, 5)	other
+HH F NG R	(3, 3, 4, 5)	nonmonotonic rise
+F Y P R	(3, 5, 1, 5)	other
+CH DH NG ZH	(2, 3, 4, 3)	rise
+T D ZH B	(1, 1, 3, 1)	nonmonotonic rise
+TH F N G	(3, 3, 4, 1)	other
+DH NG G N	(3, 4, 1, 4)	other
+M R V W	(4, 5, 3, 5)	other
+T N D DH	(1, 4, 1, 3)	nonmonotonic rise
+SH TH B Z	(3, 3, 1, 3)	nonmonotonic fall
+Y CH R N	(5, 2, 5, 4)	nonmonotonic fall
+NG T ZH B	(4, 1, 3, 1)	fall
+R K SH CH	(5, 1, 3, 2)	fall
+NG L DH N	(4, 5, 3, 4)	other
+NG TH N CH	(4, 3, 4, 2)	nonmonotonic fall
+W M TH R	(5, 4, 3, 5)	nonmonotonic fall
+ZH W L DH	(3, 5, 5, 3)	nonmonotonic rise
+TH W Z B	(3, 5, 3, 1)	other
+P F G Z	(1, 3, 1, 3)	nonmonotonic rise
+Y G T TH	(5, 1, 1, 3)	fall
+S Z NG L	(3, 3, 4, 5)	nonmonotonic rise
+JH M HH V	(2, 4, 3, 3)	rise
+V HH B S	(3, 3, 1, 3)	nonmonotonic fall
+Z S W R	(3, 3, 5, 5)	nonmonotonic rise
+L K M JH	(5, 1, 4, 2)	fall
+Y W N NG	(5, 5, 4, 4)	nonmonotonic fall
+CH Z JH F	(2, 3, 2, 3)	nonmonotonic rise
+CH W T P	(2, 5, 1, 1)	other
+SH W B DH	(3, 5, 1, 3)	other
+D P HH G	(1, 1, 3, 1)	nonmonotonic rise
+S HH TH N	(3, 3, 3, 4)	nonmonotonic rise
+CH P NG TH	(2, 1, 4, 3)	other
+Y V D B	(5, 3, 1, 1)	fall
+G V ZH DH	(1, 3, 3, 3)	rise
+W T CH NG	(5, 1, 2, 4)	fall
+B R TH Y	(1, 5, 3, 5)	rise
+F D V Y	(3, 1, 3, 5)	other
+W TH F NG	(5, 3, 3, 4)	fall
+ZH TH L W	(3, 3, 5, 5)	nonmonotonic rise
+W D HH F	(5, 1, 3, 3)	fall
+M D T B	(4, 1, 1, 1)	fall
+R HH T Y	(5, 3, 1, 5)	nonmonotonic fall
+T JH N P	(1, 2, 4, 1)	nonmonotonic rise
+G D N R	(1, 1, 4, 5)	nonmonotonic rise
+Z N G T	(3, 4, 1, 1)	other
+CH D V T	(2, 1, 3, 1)	other
+CH W Z L	(2, 5, 3, 5)	rise
+W D TH T	(5, 1, 3, 1)	fall
+ZH S CH L	(3, 3, 2, 5)	other
+T L V N	(1, 5, 3, 4)	rise
+W P TH JH	(5, 1, 3, 2)	fall
+L W P JH	(5, 5, 1, 2)	nonmonotonic fall
+L JH N Y	(5, 2, 4, 5)	nonmonotonic fall
+DH G W HH	(3, 1, 5, 3)	other
+S W JH R	(3, 5, 2, 5)	other
+CH S R W	(2, 3, 5, 5)	rise
+HH Y SH T	(3, 5, 3, 1)	other
+Z HH S CH	(3, 3, 3, 2)	nonmonotonic fall
+Y L R TH	(5, 5, 5, 3)	nonmonotonic fall
+Y D M HH	(5, 1, 4, 3)	fall
+ZH Y P M	(3, 5, 1, 4)	other
+V M F SH	(3, 4, 3, 3)	nonmonotonic rise
+S G F ZH	(3, 1, 3, 3)	nonmonotonic fall
+K F M Y	(1, 3, 4, 5)	rise
+JH B Y N	(2, 1, 5, 4)	other
+NG B W G	(4, 1, 5, 1)	other
+K F R JH	(1, 3, 5, 2)	rise
+JH HH NG DH	(2, 3, 4, 3)	rise
+D V ZH R	(1, 3, 3, 5)	rise
+W DH NG F	(5, 3, 4, 3)	fall
+V W M TH	(3, 5, 4, 3)	nonmonotonic rise
+CH Z B K	(2, 3, 1, 1)	other
+T R Z F	(1, 5, 3, 3)	rise
+M T W V	(4, 1, 5, 3)	other
+NG W ZH R	(4, 5, 3, 5)	other
+K B V Y	(1, 1, 3, 5)	nonmonotonic rise
+G TH D CH	(1, 3, 1, 2)	nonmonotonic rise
+DH P T V	(3, 1, 1, 3)	nonmonotonic fall
+F Z M HH	(3, 3, 4, 3)	nonmonotonic rise
+JH M HH DH	(2, 4, 3, 3)	rise
+ZH B CH JH	(3, 1, 2, 2)	fall
+L Y DH CH	(5, 5, 3, 2)	nonmonotonic fall
+S M NG W	(3, 4, 4, 5)	rise
+Y M T DH	(5, 4, 1, 3)	fall
+L T V HH	(5, 1, 3, 3)	fall
+HH ZH V DH	(3, 3, 3, 3)	nonmonotonic fall
+K JH Y HH	(1, 2, 5, 3)	rise
+T CH JH S	(1, 2, 2, 3)	rise
+L SH M F	(5, 3, 4, 3)	fall
+L JH F ZH	(5, 2, 3, 3)	fall
+S D Y K	(3, 1, 5, 1)	other
+F T CH JH	(3, 1, 2, 2)	fall
+SH R HH JH	(3, 5, 3, 2)	other
+DH F Z N	(3, 3, 3, 4)	nonmonotonic rise
+F V DH NG	(3, 3, 3, 4)	nonmonotonic rise
+ZH B DH JH	(3, 1, 3, 2)	nonmonotonic fall
+JH D HH SH	(2, 1, 3, 3)	other
+V D NG SH	(3, 1, 4, 3)	other
+TH R P M	(3, 5, 1, 4)	other
+TH N Y B	(3, 4, 5, 1)	other
+JH SH T L	(2, 3, 1, 5)	other
+W JH ZH NG	(5, 2, 3, 4)	fall
+SH JH G N	(3, 2, 1, 4)	other
+W F D K	(5, 3, 1, 1)	fall
+DH M SH B	(3, 4, 3, 1)	other
+S F HH L	(3, 3, 3, 5)	nonmonotonic rise
+CH F B R	(2, 3, 1, 5)	other
+NG SH K P	(4, 3, 1, 1)	fall
+P NG HH R	(1, 4, 3, 5)	rise
+M W SH CH	(4, 5, 3, 2)	other
+R ZH CH NG	(5, 3, 2, 4)	fall
+HH Y TH V	(3, 5, 3, 3)	nonmonotonic rise
+ZH Z B R	(3, 3, 1, 5)	other
+S JH L N	(3, 2, 5, 4)	other
+D T M SH	(1, 1, 4, 3)	nonmonotonic rise
+K W NG DH	(1, 5, 4, 3)	rise
+Y CH NG TH	(5, 2, 4, 3)	fall
+R ZH B CH	(5, 3, 1, 2)	fall
+ZH M DH F	(3, 4, 3, 3)	nonmonotonic rise
+F Y G W	(3, 5, 1, 5)	other
+W B DH F	(5, 1, 3, 3)	fall
+TH N M NG	(3, 4, 4, 4)	rise
+HH SH CH NG	(3, 3, 2, 4)	other
+D W HH L	(1, 5, 3, 5)	rise
+ZH D NG W	(3, 1, 4, 5)	other
+V Z ZH G	(3, 3, 3, 1)	nonmonotonic fall
+B D SH S	(1, 1, 3, 3)	nonmonotonic rise
+DH S G L	(3, 3, 1, 5)	other
+NG G SH D	(4, 1, 3, 1)	fall
+K F CH L	(1, 3, 2, 5)	rise
+R ZH K T	(5, 3, 1, 1)	fall
+G F M CH	(1, 3, 4, 2)	rise
+CH D JH NG	(2, 1, 2, 4)	other
+DH G SH CH	(3, 1, 3, 2)	nonmonotonic fall
+ZH CH M F	(3, 2, 4, 3)	other
+SH JH DH S	(3, 2, 3, 3)	nonmonotonic fall
+D NG G Y	(1, 4, 1, 5)	nonmonotonic rise
+TH R F M	(3, 5, 3, 4)	nonmonotonic rise
+Z TH K G	(3, 3, 1, 1)	nonmonotonic fall
+L T Y ZH	(5, 1, 5, 3)	nonmonotonic fall
+G Y N DH	(1, 5, 4, 3)	rise
+TH D S NG	(3, 1, 3, 4)	other
+R NG F HH	(5, 4, 3, 3)	fall
+HH B W T	(3, 1, 5, 1)	other
+Y B DH R	(5, 1, 3, 5)	nonmonotonic fall
+V L SH NG	(3, 5, 3, 4)	nonmonotonic rise
+D CH TH Z	(1, 2, 3, 3)	rise
+ZH SH DH M	(3, 3, 3, 4)	nonmonotonic rise
+D NG F B	(1, 4, 3, 1)	nonmonotonic rise
+SH T S G	(3, 1, 3, 1)	nonmonotonic fall
+V B SH F	(3, 1, 3, 3)	nonmonotonic fall
+L TH M P	(5, 3, 4, 1)	fall
+L B F Y	(5, 1, 3, 5)	nonmonotonic fall
+T HH NG L	(1, 3, 4, 5)	rise
+R W NG N	(5, 5, 4, 4)	nonmonotonic fall
+Z B ZH CH	(3, 1, 3, 2)	nonmonotonic fall
+M NG ZH SH	(4, 4, 3, 3)	nonmonotonic fall
+W CH SH G	(5, 2, 3, 1)	fall
+R L V Y	(5, 5, 3, 5)	nonmonotonic fall
+L G B HH	(5, 1, 1, 3)	fall
+ZH V G W	(3, 3, 1, 5)	other
+TH B M S	(3, 1, 4, 3)	other
+B G SH Y	(1, 1, 3, 5)	nonmonotonic rise
+V Y B G	(3, 5, 1, 1)	other
+V JH D B	(3, 2, 1, 1)	fall
+P ZH L V	(1, 3, 5, 3)	rise
+CH NG D B	(2, 4, 1, 1)	other
+SH T ZH F	(3, 1, 3, 3)	nonmonotonic fall
+R L M D	(5, 5, 4, 1)	nonmonotonic fall
+Y NG G F	(5, 4, 1, 3)	fall
+DH ZH T W	(3, 3, 1, 5)	other
+G K TH CH	(1, 1, 3, 2)	nonmonotonic rise
+P Y DH R	(1, 5, 3, 5)	rise
+N HH TH S	(4, 3, 3, 3)	fall
+NG T DH M	(4, 1, 3, 4)	nonmonotonic fall
+V W Y R	(3, 5, 5, 5)	rise
+V L CH B	(3, 5, 2, 1)	other
+P JH S M	(1, 2, 3, 4)	rise
+D SH P DH	(1, 3, 1, 3)	nonmonotonic rise
+R L P S	(5, 5, 1, 3)	nonmonotonic fall
+M V ZH P	(4, 3, 3, 1)	fall
+TH P DH Z	(3, 1, 3, 3)	nonmonotonic fall
+DH K G L	(3, 1, 1, 5)	other
+S R Y G	(3, 5, 5, 1)	other
+JH NG Z F	(2, 4, 3, 3)	rise
+F W P SH	(3, 5, 1, 3)	other
+D CH N DH	(1, 2, 4, 3)	rise
+B CH TH V	(1, 2, 3, 3)	rise
+T F L K	(1, 3, 5, 1)	nonmonotonic rise
+V NG R HH	(3, 4, 5, 3)	nonmonotonic rise
+W NG DH K	(5, 4, 3, 1)	fall
+K F M L	(1, 3, 4, 5)	rise
+N R DH D	(4, 5, 3, 1)	other
+T ZH R W	(1, 3, 5, 5)	rise
+TH V NG B	(3, 3, 4, 1)	other
+B V HH TH	(1, 3, 3, 3)	rise
+DH F S P	(3, 3, 3, 1)	nonmonotonic fall
+HH DH D B	(3, 3, 1, 1)	nonmonotonic fall
+R HH F P	(5, 3, 3, 1)	fall
+K G Z T	(1, 1, 3, 1)	nonmonotonic rise
+R DH TH NG	(5, 3, 3, 4)	fall
+Y N NG P	(5, 4, 4, 1)	fall
+ZH R CH HH	(3, 5, 2, 3)	other
+Y TH JH F	(5, 3, 2, 3)	fall
+F R M P	(3, 5, 4, 1)	other
+M Z NG TH	(4, 3, 4, 3)	nonmonotonic fall
+F V Z S	(3, 3, 3, 3)	nonmonotonic fall
+T DH TH CH	(1, 3, 3, 2)	rise
+P CH NG L	(1, 2, 4, 5)	rise
+Y SH S W	(5, 3, 3, 5)	nonmonotonic fall
+ZH SH Y R	(3, 3, 5, 5)	nonmonotonic rise
+Y R HH P	(5, 5, 3, 1)	nonmonotonic fall
+TH W R Z	(3, 5, 5, 3)	nonmonotonic rise
+K DH P TH	(1, 3, 1, 3)	nonmonotonic rise
+N M D ZH	(4, 4, 1, 3)	nonmonotonic fall
+L Y DH NG	(5, 5, 3, 4)	nonmonotonic fall
+L G JH DH	(5, 1, 2, 3)	fall
+T W HH K	(1, 5, 3, 1)	nonmonotonic rise
+NG R S DH	(4, 5, 3, 3)	other
+DH K R SH	(3, 1, 5, 3)	other
+S DH HH N	(3, 3, 3, 4)	nonmonotonic rise
+P SH DH HH	(1, 3, 3, 3)	rise
+D ZH M G	(1, 3, 4, 1)	nonmonotonic rise
+HH S N B	(3, 3, 4, 1)	other
+W Y L NG	(5, 5, 5, 4)	nonmonotonic fall
+CH DH SH N	(2, 3, 3, 4)	rise
+CH TH JH K	(2, 3, 2, 1)	other
+JH Z ZH DH	(2, 3, 3, 3)	rise
+T HH F DH	(1, 3, 3, 3)	rise
+L B HH TH	(5, 1, 3, 3)	fall
+DH Y W Z	(3, 5, 5, 3)	nonmonotonic rise
+ZH Y R SH	(3, 5, 5, 3)	nonmonotonic rise
+JH V G R	(2, 3, 1, 5)	other
+Y DH N K	(5, 3, 4, 1)	fall
+SH W R DH	(3, 5, 5, 3)	nonmonotonic rise
+K B DH G	(1, 1, 3, 1)	nonmonotonic rise
+N P ZH K	(4, 1, 3, 1)	fall
+F Z R CH	(3, 3, 5, 2)	other
+M G S K	(4, 1, 3, 1)	fall
+T HH D Z	(1, 3, 1, 3)	nonmonotonic rise
+Y L NG K	(5, 5, 4, 1)	nonmonotonic fall
+P R W K	(1, 5, 5, 1)	nonmonotonic rise
+ZH V Y G	(3, 3, 5, 1)	other
+W DH T K	(5, 3, 1, 1)	fall
+Z DH TH L	(3, 3, 3, 5)	nonmonotonic rise
+D S ZH G	(1, 3, 3, 1)	nonmonotonic rise
+CH W HH Z	(2, 5, 3, 3)	rise
+CH ZH P K	(2, 3, 1, 1)	other
+K D P TH	(1, 1, 1, 3)	nonmonotonic rise
+P D V S	(1, 1, 3, 3)	nonmonotonic rise
+W R Y HH	(5, 5, 5, 3)	nonmonotonic fall
+DH S K W	(3, 3, 1, 5)	other
+K R N TH	(1, 5, 4, 3)	rise
+HH Z P JH	(3, 3, 1, 2)	nonmonotonic fall
+JH F Y P	(2, 3, 5, 1)	other
+F L NG P	(3, 5, 4, 1)	other
+T ZH JH CH	(1, 3, 2, 2)	rise
+W JH CH B	(5, 2, 2, 1)	fall
+V S NG M	(3, 3, 4, 4)	nonmonotonic rise
+TH R W NG	(3, 5, 5, 4)	rise
+M CH V L	(4, 2, 3, 5)	other
+ZH P D B	(3, 1, 1, 1)	fall
+D F ZH S	(1, 3, 3, 3)	rise
+B V NG TH	(1, 3, 4, 3)	rise
+NG HH DH S	(4, 3, 3, 3)	fall
+TH CH V SH	(3, 2, 3, 3)	nonmonotonic fall
+T V M B	(1, 3, 4, 1)	nonmonotonic rise
+JH N SH P	(2, 4, 3, 1)	other
+NG T M HH	(4, 1, 4, 3)	nonmonotonic fall
+ZH W DH S	(3, 5, 3, 3)	nonmonotonic rise
+HH CH S B	(3, 2, 3, 1)	nonmonotonic fall
+L T K D	(5, 1, 1, 1)	fall
+D R M N	(1, 5, 4, 4)	rise
+CH D N S	(2, 1, 4, 3)	other
+Y Z ZH DH	(5, 3, 3, 3)	fall
+N L V DH	(4, 5, 3, 3)	other
+R F Z DH	(5, 3, 3, 3)	fall
+Y Z W ZH	(5, 3, 5, 3)	nonmonotonic fall
+B G Y Z	(1, 1, 5, 3)	nonmonotonic rise
+SH G N L	(3, 1, 4, 5)	other
+ZH DH TH NG	(3, 3, 3, 4)	nonmonotonic rise
+NG B R L	(4, 1, 5, 5)	other
+K SH M JH	(1, 3, 4, 2)	rise
+NG M F TH	(4, 4, 3, 3)	nonmonotonic fall
+K V W TH	(1, 3, 5, 3)	rise
+CH K R DH	(2, 1, 5, 3)	other
+N R Y DH	(4, 5, 5, 3)	other
+T HH CH TH	(1, 3, 2, 3)	rise
+S L DH K	(3, 5, 3, 1)	other
+JH NG HH R	(2, 4, 3, 5)	rise
+P Y CH HH	(1, 5, 2, 3)	rise
+B T SH CH	(1, 1, 3, 2)	nonmonotonic rise
+L NG P S	(5, 4, 1, 3)	fall
+B ZH Y M	(1, 3, 5, 4)	rise
+ZH NG TH F	(3, 4, 3, 3)	nonmonotonic rise
+JH K D SH	(2, 1, 1, 3)	other
+K SH D T	(1, 3, 1, 1)	nonmonotonic rise
+P TH S JH	(1, 3, 3, 2)	rise
+TH G CH P	(3, 1, 2, 1)	fall
+N Y D M	(4, 5, 1, 4)	other
+TH HH R D	(3, 3, 5, 1)	other
+P T K ZH	(1, 1, 1, 3)	nonmonotonic rise
+TH JH W K	(3, 2, 5, 1)	other
+V DH N K	(3, 3, 4, 1)	other
+Y DH W R	(5, 3, 5, 5)	nonmonotonic fall
+NG B S Z	(4, 1, 3, 3)	fall
+SH G M D	(3, 1, 4, 1)	other
+HH DH Y M	(3, 3, 5, 4)	nonmonotonic rise
+T ZH D HH	(1, 3, 1, 3)	nonmonotonic rise
+ZH B Z HH	(3, 1, 3, 3)	nonmonotonic fall
+F L ZH K	(3, 5, 3, 1)	other
+DH D NG V	(3, 1, 4, 3)	other
+NG K TH JH	(4, 1, 3, 2)	fall
+V G Z Y	(3, 1, 3, 5)	other
+SH B F NG	(3, 1, 3, 4)	other
+T NG S ZH	(1, 4, 3, 3)	rise
+DH B G NG	(3, 1, 1, 4)	other
+NG ZH TH JH	(4, 3, 3, 2)	fall
+DH R Y ZH	(3, 5, 5, 3)	nonmonotonic rise
+V ZH K SH	(3, 3, 1, 3)	nonmonotonic fall
+F ZH TH R	(3, 3, 3, 5)	nonmonotonic rise
+P ZH N CH	(1, 3, 4, 2)	rise
+B G Y W	(1, 1, 5, 5)	nonmonotonic rise
+ZH N SH M	(3, 4, 3, 4)	nonmonotonic rise
+JH Z G W	(2, 3, 1, 5)	other
+JH P W HH	(2, 1, 5, 3)	other
+K NG JH P	(1, 4, 2, 1)	nonmonotonic rise
+G N NG L	(1, 4, 4, 5)	rise
+F P Y T	(3, 1, 5, 1)	other
+HH W M N	(3, 5, 4, 4)	rise
+TH W N L	(3, 5, 4, 5)	rise
+L B ZH F	(5, 1, 3, 3)	fall
+N DH S G	(4, 3, 3, 1)	fall
+S Y P K	(3, 5, 1, 1)	other
+CH Z S M	(2, 3, 3, 4)	rise
+NG W Y HH	(4, 5, 5, 3)	other
+TH L F SH	(3, 5, 3, 3)	nonmonotonic rise
+W T DH JH	(5, 1, 3, 2)	fall
+Z W S NG	(3, 5, 3, 4)	nonmonotonic rise
+ZH JH HH L	(3, 2, 3, 5)	other
+NG N T S	(4, 4, 1, 3)	nonmonotonic fall
+V TH CH F	(3, 3, 2, 3)	nonmonotonic fall
+F SH S K	(3, 3, 3, 1)	nonmonotonic fall
+P R V Z	(1, 5, 3, 3)	rise
+ZH M S T	(3, 4, 3, 1)	other
+L HH K JH	(5, 3, 1, 2)	fall
+NG Y B R	(4, 5, 1, 5)	other
+N CH DH F	(4, 2, 3, 3)	fall
+TH B NG CH	(3, 1, 4, 2)	other
+T M R W	(1, 4, 5, 5)	rise
+TH B R K	(3, 1, 5, 1)	other
+T S ZH JH	(1, 3, 3, 2)	rise
+ZH D S K	(3, 1, 3, 1)	nonmonotonic fall
+N D W NG	(4, 1, 5, 4)	other
+P B DH JH	(1, 1, 3, 2)	nonmonotonic rise
+W CH P V	(5, 2, 1, 3)	fall
+HH W K S	(3, 5, 1, 3)	other
+R G B M	(5, 1, 1, 4)	fall
+D W S F	(1, 5, 3, 3)	rise
+CH TH K JH	(2, 3, 1, 2)	other
+HH L N M	(3, 5, 4, 4)	rise
+NG K V HH	(4, 1, 3, 3)	fall
+HH G NG W	(3, 1, 4, 5)	other
+W ZH R N	(5, 3, 5, 4)	nonmonotonic fall
+N R L NG	(4, 5, 5, 4)	nonmonotonic rise
+ZH B G TH	(3, 1, 1, 3)	nonmonotonic fall
+TH ZH SH Y	(3, 3, 3, 5)	nonmonotonic rise
+V Z D K	(3, 3, 1, 1)	nonmonotonic fall
+DH SH P T	(3, 3, 1, 1)	nonmonotonic fall
+M JH ZH NG	(4, 2, 3, 4)	nonmonotonic fall
+R G NG L	(5, 1, 4, 5)	nonmonotonic fall
+R HH TH M	(5, 3, 3, 4)	fall
+D W Y TH	(1, 5, 5, 3)	rise
+CH P K L	(2, 1, 1, 5)	other
+HH T Y F	(3, 1, 5, 3)	other
+HH Z TH R	(3, 3, 3, 5)	nonmonotonic rise
+HH B CH N	(3, 1, 2, 4)	other
+R V N K	(5, 3, 4, 1)	fall
+T P JH ZH	(1, 1, 2, 3)	nonmonotonic rise
+HH G T F	(3, 1, 1, 3)	nonmonotonic fall
+NG D ZH TH	(4, 1, 3, 3)	fall
+F NG T SH	(3, 4, 1, 3)	other
+JH R Y CH	(2, 5, 5, 2)	nonmonotonic rise
+CH Y NG R	(2, 5, 4, 5)	rise
+K P B JH	(1, 1, 1, 2)	nonmonotonic rise
+CH B D SH	(2, 1, 1, 3)	other
+K V JH G	(1, 3, 2, 1)	nonmonotonic rise
+HH B L ZH	(3, 1, 5, 3)	other
+B S N DH	(1, 3, 4, 3)	rise
+N W F K	(4, 5, 3, 1)	other
+SH TH K P	(3, 3, 1, 1)	nonmonotonic fall
+ZH TH G S	(3, 3, 1, 3)	nonmonotonic fall
+NG HH JH T	(4, 3, 2, 1)	fall
+V B G ZH	(3, 1, 1, 3)	nonmonotonic fall
+N G NG M	(4, 1, 4, 4)	nonmonotonic fall
+NG T DH F	(4, 1, 3, 3)	fall
+L S P D	(5, 3, 1, 1)	fall
+TH V Z N	(3, 3, 3, 4)	nonmonotonic rise
+G F TH CH	(1, 3, 3, 2)	rise
+B D SH M	(1, 1, 3, 4)	nonmonotonic rise
+S B M R	(3, 1, 4, 5)	other
+CH L K NG	(2, 5, 1, 4)	other
+NG Y HH P	(4, 5, 3, 1)	other
+F R HH NG	(3, 5, 3, 4)	nonmonotonic rise
+T Y JH W	(1, 5, 2, 5)	rise
+TH P M JH	(3, 1, 4, 2)	other
+N W DH V	(4, 5, 3, 3)	other
+DH JH W TH	(3, 2, 5, 3)	other
+V T W K	(3, 1, 5, 1)	other
+K SH T F	(1, 3, 1, 3)	nonmonotonic rise
+SH G M DH	(3, 1, 4, 3)	other
+CH M W D	(2, 4, 5, 1)	other
+ZH T DH JH	(3, 1, 3, 2)	nonmonotonic fall
+Y L S G	(5, 5, 3, 1)	nonmonotonic fall
+SH L Y DH	(3, 5, 5, 3)	nonmonotonic rise
+JH M N TH	(2, 4, 4, 3)	rise
+M T F Y	(4, 1, 3, 5)	other
+L JH SH P	(5, 2, 3, 1)	fall
+T F DH R	(1, 3, 3, 5)	rise
+L HH M S	(5, 3, 4, 3)	fall
+CH T K ZH	(2, 1, 1, 3)	other
+S NG Z P	(3, 4, 3, 1)	other
+S TH Y CH	(3, 3, 5, 2)	other
+CH B R NG	(2, 1, 5, 4)	other
+Y NG TH N	(5, 4, 3, 4)	fall
+NG HH S CH	(4, 3, 3, 2)	fall
+NG F JH CH	(4, 3, 2, 2)	fall
+SH W DH ZH	(3, 5, 3, 3)	nonmonotonic rise
+D W B NG	(1, 5, 1, 4)	nonmonotonic rise
+B D W DH	(1, 1, 5, 3)	nonmonotonic rise
+W K B NG	(5, 1, 1, 4)	fall
+T L S R	(1, 5, 3, 5)	rise
+CH F DH P	(2, 3, 3, 1)	other
+Z SH CH JH	(3, 3, 2, 2)	nonmonotonic fall
+N K ZH Y	(4, 1, 3, 5)	other
+Y Z F ZH	(5, 3, 3, 3)	fall
+TH Y D CH	(3, 5, 1, 2)	other
+T ZH Z K	(1, 3, 3, 1)	nonmonotonic rise
+R ZH F TH	(5, 3, 3, 3)	fall
+M F JH NG	(4, 3, 2, 4)	nonmonotonic fall
+W V ZH B	(5, 3, 3, 1)	fall
+N L CH ZH	(4, 5, 2, 3)	other
+B NG TH D	(1, 4, 3, 1)	nonmonotonic rise
+Z R K D	(3, 5, 1, 1)	other
+TH F L S	(3, 3, 5, 3)	nonmonotonic rise
+CH NG V SH	(2, 4, 3, 3)	rise
+R S HH V	(5, 3, 3, 3)	fall
+P CH HH N	(1, 2, 3, 4)	rise
+NG N M K	(4, 4, 4, 1)	nonmonotonic fall
+Z N S CH	(3, 4, 3, 2)	other
+DH B Z ZH	(3, 1, 3, 3)	nonmonotonic fall
+W T L G	(5, 1, 5, 1)	nonmonotonic fall
+Z T V Y	(3, 1, 3, 5)	other
+B CH P G	(1, 2, 1, 1)	nonmonotonic rise
+TH T B Z	(3, 1, 1, 3)	nonmonotonic fall
+F T K HH	(3, 1, 1, 3)	nonmonotonic fall
+JH NG L T	(2, 4, 5, 1)	other
+Z CH TH ZH	(3, 2, 3, 3)	nonmonotonic fall
+ZH TH B CH	(3, 3, 1, 2)	nonmonotonic fall
+V Z K R	(3, 3, 1, 5)	other
+S V B T	(3, 3, 1, 1)	nonmonotonic fall
+DH NG F HH	(3, 4, 3, 3)	nonmonotonic rise
+M S B P	(4, 3, 1, 1)	fall
+L D Y R	(5, 1, 5, 5)	nonmonotonic fall
+HH Z V G	(3, 3, 3, 1)	nonmonotonic fall
+V B G JH	(3, 1, 1, 2)	fall
+SH F DH N	(3, 3, 3, 4)	nonmonotonic rise
+SH Z NG D	(3, 3, 4, 1)	other
+W L DH G	(5, 5, 3, 1)	nonmonotonic fall
+ZH HH Z L	(3, 3, 3, 5)	nonmonotonic rise
+Z ZH SH Y	(3, 3, 3, 5)	nonmonotonic rise
+CH D TH SH	(2, 1, 3, 3)	other
+W JH G S	(5, 2, 1, 3)	fall
+CH Z DH L	(2, 3, 3, 5)	rise
+K NG M TH	(1, 4, 4, 3)	rise
+D TH W ZH	(1, 3, 5, 3)	rise
+V P JH B	(3, 1, 2, 1)	fall
+W HH R NG	(5, 3, 5, 4)	nonmonotonic fall
+DH NG V T	(3, 4, 3, 1)	other
+DH M W P	(3, 4, 5, 1)	other
+G SH NG R	(1, 3, 4, 5)	rise
+L TH K M	(5, 3, 1, 4)	fall
+V S T DH	(3, 3, 1, 3)	nonmonotonic fall
+S L ZH HH	(3, 5, 3, 3)	nonmonotonic rise
+HH SH NG V	(3, 3, 4, 3)	nonmonotonic rise
+M R P TH	(4, 5, 1, 3)	other
+B DH D W	(1, 3, 1, 5)	nonmonotonic rise
+P L DH T	(1, 5, 3, 1)	nonmonotonic rise
+P NG SH D	(1, 4, 3, 1)	nonmonotonic rise
+T ZH CH NG	(1, 3, 2, 4)	rise
+DH K D F	(3, 1, 1, 3)	nonmonotonic fall
+D F NG HH	(1, 3, 4, 3)	rise
+D R SH W	(1, 5, 3, 5)	rise
+TH L V B	(3, 5, 3, 1)	other
+B HH L V	(1, 3, 5, 3)	rise
+W N G DH	(5, 4, 1, 3)	fall
+K R F CH	(1, 5, 3, 2)	rise
+T F ZH B	(1, 3, 3, 1)	nonmonotonic rise
+Y HH K L	(5, 3, 1, 5)	nonmonotonic fall
+D TH ZH B	(1, 3, 3, 1)	nonmonotonic rise
+P M S HH	(1, 4, 3, 3)	rise
+CH R JH B	(2, 5, 2, 1)	other
+W SH M G	(5, 3, 4, 1)	fall
+TH V R K	(3, 3, 5, 1)	other
+S HH CH NG	(3, 3, 2, 4)	other
+HH Z P N	(3, 3, 1, 4)	other
+TH G T SH	(3, 1, 1, 3)	nonmonotonic fall
+JH CH DH L	(2, 2, 3, 5)	nonmonotonic rise
+TH Y B N	(3, 5, 1, 4)	other
+ZH D M JH	(3, 1, 4, 2)	other
+N K R W	(4, 1, 5, 5)	other
+M W DH G	(4, 5, 3, 1)	other
+NG G HH R	(4, 1, 3, 5)	other
+T Z NG N	(1, 3, 4, 4)	rise
+Y R N G	(5, 5, 4, 1)	nonmonotonic fall
+F G P N	(3, 1, 1, 4)	other
+NG L B N	(4, 5, 1, 4)	other
+V CH N T	(3, 2, 4, 1)	other
+B Y G L	(1, 5, 1, 5)	nonmonotonic rise
+HH S G N	(3, 3, 1, 4)	other
+JH D T Y	(2, 1, 1, 5)	other
+V M B NG	(3, 4, 1, 4)	other
+N CH HH L	(4, 2, 3, 5)	other
+Y NG SH HH	(5, 4, 3, 3)	fall
+Y P F DH	(5, 1, 3, 3)	fall
+D Y M L	(1, 5, 4, 5)	rise
+NG Y P N	(4, 5, 1, 4)	other
+P T Z HH	(1, 1, 3, 3)	nonmonotonic rise
+B M Z JH	(1, 4, 3, 2)	rise
+G DH Z S	(1, 3, 3, 3)	rise
+L DH G S	(5, 3, 1, 3)	fall
+K W DH F	(1, 5, 3, 3)	rise
+HH M Z P	(3, 4, 3, 1)	other
+M K HH CH	(4, 1, 3, 2)	fall
+Y Z L CH	(5, 3, 5, 2)	nonmonotonic fall
+L R K TH	(5, 5, 1, 3)	nonmonotonic fall
+T W CH SH	(1, 5, 2, 3)	rise
+HH TH R DH	(3, 3, 5, 3)	nonmonotonic rise
+P N Z R	(1, 4, 3, 5)	rise
+DH L F K	(3, 5, 3, 1)	other
+Y F M TH	(5, 3, 4, 3)	fall
+W F P TH	(5, 3, 1, 3)	fall
+W NG DH HH	(5, 4, 3, 3)	fall
+CH B NG ZH	(2, 1, 4, 3)	other
+N S G K	(4, 3, 1, 1)	fall
+NG ZH L R	(4, 3, 5, 5)	other
+JH L SH N	(2, 5, 3, 4)	rise
+F N S L	(3, 4, 3, 5)	nonmonotonic rise
+M NG Y P	(4, 4, 5, 1)	other
+SH CH F W	(3, 2, 3, 5)	other
+P SH N L	(1, 3, 4, 5)	rise
+B Z V S	(1, 3, 3, 3)	rise
+T TH P S	(1, 3, 1, 3)	nonmonotonic rise
+W HH D B	(5, 3, 1, 1)	fall
+M JH Z N	(4, 2, 3, 4)	nonmonotonic fall
+NG HH Y DH	(4, 3, 5, 3)	other
+W HH S T	(5, 3, 3, 1)	fall
+D M F B	(1, 4, 3, 1)	nonmonotonic rise
+R HH ZH L	(5, 3, 3, 5)	nonmonotonic fall
+D T N HH	(1, 1, 4, 3)	nonmonotonic rise
+HH JH N F	(3, 2, 4, 3)	other
+DH R T M	(3, 5, 1, 4)	other
+SH G TH NG	(3, 1, 3, 4)	other
+Y TH M K	(5, 3, 4, 1)	fall
+M T Z NG	(4, 1, 3, 4)	nonmonotonic fall
+SH DH HH NG	(3, 3, 3, 4)	nonmonotonic rise
+W G B V	(5, 1, 1, 3)	fall
+L T W CH	(5, 1, 5, 2)	nonmonotonic fall
+W NG SH D	(5, 4, 3, 1)	fall
+L G V Y	(5, 1, 3, 5)	nonmonotonic fall
+N Y DH TH	(4, 5, 3, 3)	other
+K NG G V	(1, 4, 1, 3)	nonmonotonic rise
+N Z R T	(4, 3, 5, 1)	other
+S Y ZH Z	(3, 5, 3, 3)	nonmonotonic rise
+P R W F	(1, 5, 5, 3)	rise
+N Y ZH M	(4, 5, 3, 4)	other
+W G TH L	(5, 1, 3, 5)	nonmonotonic fall
+P S B N	(1, 3, 1, 4)	nonmonotonic rise
+T P Z NG	(1, 1, 3, 4)	nonmonotonic rise
+P G DH JH	(1, 1, 3, 2)	nonmonotonic rise
+R G NG TH	(5, 1, 4, 3)	fall
+N W ZH SH	(4, 5, 3, 3)	other
+B M SH JH	(1, 4, 3, 2)	rise
+R G DH NG	(5, 1, 3, 4)	fall
+Y B TH ZH	(5, 1, 3, 3)	fall
+G S W TH	(1, 3, 5, 3)	rise
+S L P ZH	(3, 5, 1, 3)	other
+M V NG T	(4, 3, 4, 1)	nonmonotonic fall
+ZH CH M S	(3, 2, 4, 3)	other
+SH S V N	(3, 3, 3, 4)	nonmonotonic rise
+R L NG CH	(5, 5, 4, 2)	nonmonotonic fall
+D R JH CH	(1, 5, 2, 2)	rise
+SH Z L V	(3, 3, 5, 3)	nonmonotonic rise
+F Z DH K	(3, 3, 3, 1)	nonmonotonic fall
+SH CH DH M	(3, 2, 3, 4)	other
+W NG B P	(5, 4, 1, 1)	fall
+V SH F HH	(3, 3, 3, 3)	nonmonotonic fall
+N T Z M	(4, 1, 3, 4)	nonmonotonic fall
+G K V ZH	(1, 1, 3, 3)	nonmonotonic rise
+CH V ZH P	(2, 3, 3, 1)	other
+G SH L K	(1, 3, 5, 1)	nonmonotonic rise
+D R L G	(1, 5, 5, 1)	nonmonotonic rise
+K CH P TH	(1, 2, 1, 3)	nonmonotonic rise
+Z SH JH HH	(3, 3, 2, 3)	nonmonotonic fall
+F S N P	(3, 3, 4, 1)	other
+SH DH F P	(3, 3, 3, 1)	nonmonotonic fall
+S R K V	(3, 5, 1, 3)	other
+P R HH V	(1, 5, 3, 3)	rise
+SH S ZH W	(3, 3, 3, 5)	nonmonotonic rise
+G R Z D	(1, 5, 3, 1)	nonmonotonic rise
+W S SH P	(5, 3, 3, 1)	fall
+NG D ZH Z	(4, 1, 3, 3)	fall
+T M G JH	(1, 4, 1, 2)	nonmonotonic rise
+DH Z B R	(3, 3, 1, 5)	other
+T W D F	(1, 5, 1, 3)	nonmonotonic rise
+ZH V JH G	(3, 3, 2, 1)	nonmonotonic fall
+P V Z W	(1, 3, 3, 5)	rise
+W TH M F	(5, 3, 4, 3)	fall
+S DH ZH M	(3, 3, 3, 4)	nonmonotonic rise
+V D NG R	(3, 1, 4, 5)	other
+Z L K DH	(3, 5, 1, 3)	other
+T TH ZH SH	(1, 3, 3, 3)	rise
+HH V JH L	(3, 3, 2, 5)	other
+D Z G JH	(1, 3, 1, 2)	nonmonotonic rise
+R Y W T	(5, 5, 5, 1)	nonmonotonic fall
+F V JH G	(3, 3, 2, 1)	nonmonotonic fall
+K Y HH F	(1, 5, 3, 3)	rise
+K SH R N	(1, 3, 5, 4)	rise
+SH B W TH	(3, 1, 5, 3)	other
+NG V Z JH	(4, 3, 3, 2)	fall
+K R Y NG	(1, 5, 5, 4)	rise
+D L B M	(1, 5, 1, 4)	nonmonotonic rise
+G F V HH	(1, 3, 3, 3)	rise
+F M TH Z	(3, 4, 3, 3)	nonmonotonic rise
+JH L G NG	(2, 5, 1, 4)	other
+L NG N JH	(5, 4, 4, 2)	fall
+Z P W T	(3, 1, 5, 1)	other
+S P JH NG	(3, 1, 2, 4)	other
+M L K DH	(4, 5, 1, 3)	other
+Z W SH JH	(3, 5, 3, 2)	other
+ZH S N M	(3, 3, 4, 4)	nonmonotonic rise
+CH Y M D	(2, 5, 4, 1)	other
+S TH B F	(3, 3, 1, 3)	nonmonotonic fall
+S P R Y	(3, 1, 5, 5)	other
+NG TH Z T	(4, 3, 3, 1)	fall
+W K M P	(5, 1, 4, 1)	fall
+HH W S F	(3, 5, 3, 3)	nonmonotonic rise
+SH V T B	(3, 3, 1, 1)	nonmonotonic fall
+G Z ZH DH	(1, 3, 3, 3)	rise
+S K F DH	(3, 1, 3, 3)	nonmonotonic fall
+ZH T S M	(3, 1, 3, 4)	other
+ZH F TH L	(3, 3, 3, 5)	nonmonotonic rise
+ZH CH DH M	(3, 2, 3, 4)	other
+R G ZH CH	(5, 1, 3, 2)	fall
+L B S SH	(5, 1, 3, 3)	fall
+T V G SH	(1, 3, 1, 3)	nonmonotonic rise
+P ZH K DH	(1, 3, 1, 3)	nonmonotonic rise
+ZH F TH P	(3, 3, 3, 1)	nonmonotonic fall
+JH S T K	(2, 3, 1, 1)	other
+S N V W	(3, 4, 3, 5)	nonmonotonic rise
+S R SH ZH	(3, 5, 3, 3)	nonmonotonic rise
+DH ZH T D	(3, 3, 1, 1)	nonmonotonic fall
+JH G K DH	(2, 1, 1, 3)	other
+S CH NG K	(3, 2, 4, 1)	other
+NG SH F T	(4, 3, 3, 1)	fall
+JH T N NG	(2, 1, 4, 4)	other
+DH P HH W	(3, 1, 3, 5)	other
+D B G Z	(1, 1, 1, 3)	nonmonotonic rise
+R N L D	(5, 4, 5, 1)	nonmonotonic fall
+R Z SH JH	(5, 3, 3, 2)	fall
+K JH R B	(1, 2, 5, 1)	nonmonotonic rise
+T DH JH CH	(1, 3, 2, 2)	rise
+M F Y G	(4, 3, 5, 1)	other
+NG S P TH	(4, 3, 1, 3)	fall
+JH W NG N	(2, 5, 4, 4)	rise
+V TH Y L	(3, 3, 5, 5)	nonmonotonic rise
+T CH JH TH	(1, 2, 2, 3)	rise
+S R Y N	(3, 5, 5, 4)	rise
+SH W DH M	(3, 5, 3, 4)	nonmonotonic rise
+D DH P S	(1, 3, 1, 3)	nonmonotonic rise
+V S D Y	(3, 3, 1, 5)	other
+DH SH NG V	(3, 3, 4, 3)	nonmonotonic rise
+W G S D	(5, 1, 3, 1)	fall
+NG Z CH TH	(4, 3, 2, 3)	fall
+F JH B DH	(3, 2, 1, 3)	nonmonotonic fall
+R B ZH T	(5, 1, 3, 1)	fall
+P Z M F	(1, 3, 4, 3)	rise
+D V F N	(1, 3, 3, 4)	rise
+ZH K TH P	(3, 1, 3, 1)	nonmonotonic fall
+NG T TH W	(4, 1, 3, 5)	other
+JH DH D P	(2, 3, 1, 1)	other
+D TH L M	(1, 3, 5, 4)	rise
+CH K B N	(2, 1, 1, 4)	other
+R JH F T	(5, 2, 3, 1)	fall
+R G TH F	(5, 1, 3, 3)	fall
+B Z L V	(1, 3, 5, 3)	rise
+CH S D Z	(2, 3, 1, 3)	other
+D DH T G	(1, 3, 1, 1)	nonmonotonic rise
+S Z N TH	(3, 3, 4, 3)	nonmonotonic rise
+CH Y DH B	(2, 5, 3, 1)	other
+S P F W	(3, 1, 3, 5)	other
+DH Y B M	(3, 5, 1, 4)	other
+T K N W	(1, 1, 4, 5)	nonmonotonic rise
+Z ZH K S	(3, 3, 1, 3)	nonmonotonic fall
+G R ZH N	(1, 5, 3, 4)	rise
+P NG V R	(1, 4, 3, 5)	rise
+L R ZH S	(5, 5, 3, 3)	nonmonotonic fall
+W HH DH S	(5, 3, 3, 3)	fall
+R G HH Z	(5, 1, 3, 3)	fall
+R L TH D	(5, 5, 3, 1)	nonmonotonic fall
+G JH R D	(1, 2, 5, 1)	nonmonotonic rise
+HH L T ZH	(3, 5, 1, 3)	other
+V JH F N	(3, 2, 3, 4)	other
+T DH SH W	(1, 3, 3, 5)	rise
+JH D R L	(2, 1, 5, 5)	other
+TH P R M	(3, 1, 5, 4)	other
+SH S JH HH	(3, 3, 2, 3)	nonmonotonic fall
+M D F Z	(4, 1, 3, 3)	fall
+V P G L	(3, 1, 1, 5)	other
+HH SH D G	(3, 3, 1, 1)	nonmonotonic fall
+W B N V	(5, 1, 4, 3)	fall
+ZH F L D	(3, 3, 5, 1)	other
+HH NG Y T	(3, 4, 5, 1)	other
+M S CH Y	(4, 3, 2, 5)	other
+K W G Y	(1, 5, 1, 5)	nonmonotonic rise
+T ZH HH R	(1, 3, 3, 5)	rise
+NG S HH F	(4, 3, 3, 3)	fall
+Z JH DH F	(3, 2, 3, 3)	nonmonotonic fall
+S CH NG T	(3, 2, 4, 1)	other
+ZH R G P	(3, 5, 1, 1)	other
+V HH JH R	(3, 3, 2, 5)	other
+DH SH L CH	(3, 3, 5, 2)	other
+SH W P N	(3, 5, 1, 4)	other
+TH F SH NG	(3, 3, 3, 4)	nonmonotonic rise
+N B Y K	(4, 1, 5, 1)	other
+D Z CH V	(1, 3, 2, 3)	rise
+K DH B NG	(1, 3, 1, 4)	nonmonotonic rise
+K F R ZH	(1, 3, 5, 3)	rise
+HH S Y V	(3, 3, 5, 3)	nonmonotonic rise
+L N ZH F	(5, 4, 3, 3)	fall
+DH SH Z M	(3, 3, 3, 4)	nonmonotonic rise
+CH DH Y R	(2, 3, 5, 5)	rise
+HH K B S	(3, 1, 1, 3)	nonmonotonic fall
+NG S P DH	(4, 3, 1, 3)	fall
+TH D JH F	(3, 1, 2, 3)	nonmonotonic fall
+V ZH M JH	(3, 3, 4, 2)	other
+HH P DH Y	(3, 1, 3, 5)	other
+B ZH HH V	(1, 3, 3, 3)	rise
+B N P TH	(1, 4, 1, 3)	nonmonotonic rise
+DH F SH Y	(3, 3, 3, 5)	nonmonotonic rise
+HH W B L	(3, 5, 1, 5)	other
+TH ZH F SH	(3, 3, 3, 3)	nonmonotonic fall
+F W S DH	(3, 5, 3, 3)	nonmonotonic rise
+SH N M B	(3, 4, 4, 1)	other
+M N F G	(4, 4, 3, 1)	nonmonotonic fall
+P V S CH	(1, 3, 3, 2)	rise
+Z L K F	(3, 5, 1, 3)	other
+ZH T M CH	(3, 1, 4, 2)	other
+G P V SH	(1, 1, 3, 3)	nonmonotonic rise
+W JH DH B	(5, 2, 3, 1)	fall
+B JH TH L	(1, 2, 3, 5)	rise
+W HH L B	(5, 3, 5, 1)	nonmonotonic fall
+NG T F V	(4, 1, 3, 3)	fall
+SH W S M	(3, 5, 3, 4)	nonmonotonic rise
+NG S L V	(4, 3, 5, 3)	other
+Z M K W	(3, 4, 1, 5)	other
+R T M SH	(5, 1, 4, 3)	fall
+D ZH HH S	(1, 3, 3, 3)	rise
+Z HH K NG	(3, 3, 1, 4)	other
+G N S TH	(1, 4, 3, 3)	rise
+P TH G R	(1, 3, 1, 5)	nonmonotonic rise
+CH Z V L	(2, 3, 3, 5)	rise
+JH G SH CH	(2, 1, 3, 2)	other
+L G D HH	(5, 1, 1, 3)	fall
+W SH D M	(5, 3, 1, 4)	fall
+R K P DH	(5, 1, 1, 3)	fall
+ZH Y R S	(3, 5, 5, 3)	nonmonotonic rise
+M L DH Y	(4, 5, 3, 5)	other
+JH D N F	(2, 1, 4, 3)	other
+JH TH Z L	(2, 3, 3, 5)	rise
+Z ZH JH CH	(3, 3, 2, 2)	nonmonotonic fall
+L HH G V	(5, 3, 1, 3)	fall
+M F T NG	(4, 3, 1, 4)	nonmonotonic fall
+N JH D W	(4, 2, 1, 5)	other
+G W N M	(1, 5, 4, 4)	rise
+NG M SH DH	(4, 4, 3, 3)	nonmonotonic fall
+SH JH CH B	(3, 2, 2, 1)	fall
+TH L SH K	(3, 5, 3, 1)	other
+S F W T	(3, 3, 5, 1)	other
+TH Z R G	(3, 3, 5, 1)	other
+Y R P W	(5, 5, 1, 5)	nonmonotonic fall
+V P CH B	(3, 1, 2, 1)	fall
+G P HH V	(1, 1, 3, 3)	nonmonotonic rise
+P K R T	(1, 1, 5, 1)	nonmonotonic rise
+L F D JH	(5, 3, 1, 2)	fall
+N NG V F	(4, 4, 3, 3)	nonmonotonic fall
+D HH F P	(1, 3, 3, 1)	nonmonotonic rise
+N G JH F	(4, 1, 2, 3)	fall
+B M DH NG	(1, 4, 3, 4)	rise
+DH W CH S	(3, 5, 2, 3)	other
+S F Z SH	(3, 3, 3, 3)	nonmonotonic fall
+CH B ZH T	(2, 1, 3, 1)	other
+S L D DH	(3, 5, 1, 3)	other
+P F B T	(1, 3, 1, 1)	nonmonotonic rise
+CH JH P F	(2, 2, 1, 3)	other
+TH ZH T SH	(3, 3, 1, 3)	nonmonotonic fall
+HH S B D	(3, 3, 1, 1)	nonmonotonic fall
+F Z SH L	(3, 3, 3, 5)	nonmonotonic rise
+N W T F	(4, 5, 1, 3)	other
+ZH HH T R	(3, 3, 1, 5)	other
+SH T L B	(3, 1, 5, 1)	other
+R D JH B	(5, 1, 2, 1)	fall
+K TH SH L	(1, 3, 3, 5)	rise
+F B ZH M	(3, 1, 3, 4)	other
+R HH JH G	(5, 3, 2, 1)	fall
+D W JH F	(1, 5, 2, 3)	rise
+K TH D M	(1, 3, 1, 4)	nonmonotonic rise
+V CH Y ZH	(3, 2, 5, 3)	other
+TH W R CH	(3, 5, 5, 2)	other
+R M B P	(5, 4, 1, 1)	fall
+B L TH T	(1, 5, 3, 1)	nonmonotonic rise
+D ZH N F	(1, 3, 4, 3)	rise
+K JH N SH	(1, 2, 4, 3)	rise
+V Y F M	(3, 5, 3, 4)	nonmonotonic rise
+JH HH R M	(2, 3, 5, 4)	rise
+JH R D CH	(2, 5, 1, 2)	other
+P SH Z K	(1, 3, 3, 1)	nonmonotonic rise
+JH ZH Z TH	(2, 3, 3, 3)	rise
+N SH R DH	(4, 3, 5, 3)	other
+HH B M DH	(3, 1, 4, 3)	other
+D CH G Z	(1, 2, 1, 3)	nonmonotonic rise
+NG V N DH	(4, 3, 4, 3)	nonmonotonic fall
+JH K S Y	(2, 1, 3, 5)	other
+JH HH B S	(2, 3, 1, 3)	other
+B Y NG N	(1, 5, 4, 4)	rise
+M W G D	(4, 5, 1, 1)	other
+G W F SH	(1, 5, 3, 3)	rise
+DH CH JH M	(3, 2, 2, 4)	other
+P D L G	(1, 1, 5, 1)	nonmonotonic rise
+W CH S TH	(5, 2, 3, 3)	fall
+N Z T NG	(4, 3, 1, 4)	nonmonotonic fall
+JH W D B	(2, 5, 1, 1)	other
+K Z Y DH	(1, 3, 5, 3)	rise
+NG JH TH SH	(4, 2, 3, 3)	fall
+N D S TH	(4, 1, 3, 3)	fall
+B CH W L	(1, 2, 5, 5)	rise
+L D Z W	(5, 1, 3, 5)	nonmonotonic fall
+Z DH W V	(3, 3, 5, 3)	nonmonotonic rise
+B K W S	(1, 1, 5, 3)	nonmonotonic rise
+P DH Z M	(1, 3, 3, 4)	rise
+P F SH DH	(1, 3, 3, 3)	rise
+T CH TH D	(1, 2, 3, 1)	nonmonotonic rise
+R JH T M	(5, 2, 1, 4)	fall
+T Y L DH	(1, 5, 5, 3)	rise
+K HH W NG	(1, 3, 5, 4)	rise
+Y DH M ZH	(5, 3, 4, 3)	fall
+SH ZH Y B	(3, 3, 5, 1)	other
+N ZH M B	(4, 3, 4, 1)	nonmonotonic fall
+S Y N D	(3, 5, 4, 1)	other
+N F K Y	(4, 3, 1, 5)	other
+N V T G	(4, 3, 1, 1)	fall
+Y G Z HH	(5, 1, 3, 3)	fall
+V R P Y	(3, 5, 1, 5)	other
+Z R NG JH	(3, 5, 4, 2)	other
+K NG DH P	(1, 4, 3, 1)	nonmonotonic rise
+K JH T CH	(1, 2, 1, 2)	nonmonotonic rise
