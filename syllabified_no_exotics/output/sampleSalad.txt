@@ -1,1429 +1,1429 @@
-+ EH1 JH AA1 K AO2 S + 
-+ SH AO1 G IH2 K EY1 + 
-+ OW0 D EH0 + T UW1 + 
-+ R P AW0 Z T OW1 + 
-+ EY1 T IH0 R F F + 
-+ DH ER1 B OW1 V OW2 + 
-+ L AO0 T UW2 L SH + 
-+ AA1 + Z IY2 V EH0 + 
-+ V AA0 SH EH1 B AY1 + 
-+ ZH UW2 F IH0 V ER1 + 
-+ EY1 NG + F R AW0 + 
-+ AH0 P UW2 L T AE1 + 
-+ DH EH0 F AE2 Z V + 
-+ F AA2 D IY1 Z AW2 + 
-+ G OW1 G OW2 B IH1 + 
-+ TH UW1 + AE1 G UH2 + 
-+ S N F EY0 T EY1 + 
-+ AA0 K N EH2 Z AY0 + 
-+ N AW2 Z AY1 Z ER0 + 
-+ HH ER1 F OW0 K EY0 + 
-+ EY1 B AY1 V AO1 V + 
-+ HH AH0 N JH AA1 B + 
-+ ZH AH0 SH K ER2 F + 
-+ AY1 Z EH1 F S EY1 + 
-+ DH EY1 S R G IH0 + 
-+ B UW1 B IY2 G Z + 
-+ IY1 R G + AA2 R + 
-+ EY0 Z ER0 M P ER0 + 
-+ S AA0 F AH0 SH AO0 + 
-+ Y UW1 S EY2 D AW0 + 
-+ DH + S HH UH2 R + 
-+ IH2 B AE0 P F UH0 + 
-+ UW0 T EH2 M T AO1 + 
-+ SH ER0 R Z AO2 G + 
-+ EY2 T AW1 L TH AW1 + 
-+ AH1 G AA2 F AE0 TH + 
-+ ZH AO2 + G EY1 DH + 
-+ L EY2 P AH0 TH UW1 + 
-+ AO0 P S + AH0 G + 
-+ N AA2 B AO1 SH UW2 + 
-+ N W IY1 CH Y OW2 + 
-+ DH IH2 M F L IH1 + 
-+ EH2 P AY2 P T AH0 + 
-+ AA2 ZH AO1 B UW1 NG + 
-+ D AW1 SH AH1 + ER0 + 
-+ SH L SH AA1 B UH0 + 
-+ OW0 T UW1 P AO2 V + 
-+ EH0 P L + Y IH2 + 
-+ AY2 L G EH0 D V + 
-+ IH0 S + AO1 K EH2 + 
-+ R EH0 K S T AH0 + 
-+ AO1 R G IY1 JH EY0 + 
-+ G EH0 T AE2 SH OW1 + 
-+ Z Y AH0 R SH AA1 + 
-+ N AO2 TH R TH AH1 + 
-+ P OW0 T AA0 P OW0 + 
-+ R D IY1 L V Z + 
-+ B AY2 G AO0 Z AY0 + 
-+ EY1 JH IH1 P OW1 B + 
-+ AO1 F EH1 R T L + 
-+ AY2 B EH2 P UW1 N + 
-+ AE2 TH R B IH1 S + 
-+ OY1 + EY0 D Y AH0 + 
-+ Z V R CH IH2 K + 
-+ R AA0 R TH AE0 D + 
-+ AH2 S OW1 G D EY1 + 
-+ ZH OW0 K R EY0 K + 
-+ T AE0 L K AA1 G + 
-+ AW1 M F AH0 TH EH0 + 
-+ UW0 K S AO0 L SH + 
-+ AA2 V OY2 T AO0 V + 
-+ UW1 Z UW0 K AA0 V + 
-+ AO2 R N S AO0 D + 
-+ AE2 JH AY2 T AH1 Z + 
-+ OW1 CH OW1 SH UW0 TH + 
-+ AY0 Z AE1 V IY1 Z + 
-+ IH0 TH AE2 + UW2 B + 
-+ JH AA2 + AY2 V UW2 + 
-+ AO0 K AA0 V D AH2 + 
-+ ER0 B D AH2 Z ER0 + 
-+ OW1 Z AO2 + EH2 SH + 
-+ L K IH1 SH ER2 T + 
-+ OW1 V AA2 G UW0 TH + 
-+ D UW0 L B D UW0 + 
-+ K AY1 T UW1 R D + 
-+ V UW2 B OW2 S EY0 + 
-+ R AY1 F AO0 K AA2 + 
-+ G + P W AH0 L + 
-+ AO1 SH EY0 K AA1 D + 
-+ AH2 D AH2 V OW2 V + 
-+ P + IH2 F R SH + 
-+ ZH ER1 S OW0 S AA2 + 
-+ HH EH1 TH S W OY0 + 
-+ ZH ER1 SH Y IH0 DH + 
-+ V + F S EY1 K + 
-+ Z UW2 JH IH0 T OW1 + 
-+ IH1 K AW2 K N IY2 + 
-+ IY0 G IH0 B AW0 T + 
-+ V R EY2 + Y AW1 + 
-+ UW1 D W UW1 V AH0 + 
-+ B EY1 Z OW2 D AE1 + 
-+ AA1 S N OY0 D AE1 + 
-+ UW2 + ZH AY2 T OY2 + 
-+ R UW2 G Z EH1 D + 
-+ EY1 P ER2 + P S + 
-+ HH IH0 + IH0 SH AO1 + 
-+ AA0 TH ER0 T ER1 JH + 
-+ M AH1 Z OW0 K AY2 + 
-+ AH0 M Z IH2 S T + 
-+ IH1 + JH AE0 SH OW1 + 
-+ B ER1 T EY0 D OW2 + 
-+ EY2 R M + Y AA1 + 
-+ AA0 M S UW0 D EH1 + 
-+ P + D R B AH2 + 
-+ W AE1 F IY2 L JH + 
-+ L P UH0 + TH AE1 + 
-+ EY1 L + Z V Z + 
-+ AW1 K AW1 Z EY0 K + 
-+ TH AH1 V UW2 K L + 
-+ AW0 + AA1 D Z ER1 + 
-+ HH ER0 K AW0 Z L + 
-+ UW1 JH AY0 + AO0 TH + 
-+ Y AA0 T IH2 T IY2 + 
-+ R IY0 G ER1 G AA2 + 
-+ DH EH1 + M R UW2 + 
-+ UH2 T ER2 SH + IY2 + 
-+ EH1 P IY2 K N UW2 + 
-+ G IY2 CH T IY2 P + 
-+ SH M AY2 + EH0 S + 
-+ L AA0 R P S UH0 + 
-+ UH2 D AW1 TH + OW1 + 
-+ N EH2 P R CH AW1 + 
-+ SH EH0 S L T IY0 + 
-+ EH0 D V AO2 SH UH1 + 
-+ IH1 DH D OY2 + D + 
-+ IH1 P + AW2 + IH1 + 
-+ M EY0 Z UH2 T OY0 + 
-+ N IH2 P UW1 NG Z + 
-+ AY1 K EH1 K AH0 R + 
-+ W EH2 S EY0 T AY0 + 
-+ OY2 Z AW1 L S UW1 + 
-+ N AA0 B L UW2 F + 
-+ AO0 TH AY1 F R EY1 + 
-+ T AH0 T IY2 SH IY1 + 
-+ W OW0 Z AA1 T EY1 + 
-+ AW0 S ER1 P OW2 NG + 
-+ ZH + HH IH1 G IY1 + 
-+ V AH2 CH AA1 P AO2 + 
-+ AE2 NG TH ER1 CH AO1 + 
-+ P + S K S AA0 + 
-+ AO2 F + D AE0 T + 
-+ D AW2 S EH2 + IH1 + 
-+ K IY1 M L SH AY1 + 
-+ N F AA2 JH AH0 M + 
-+ TH AA2 JH ER0 + IH2 + 
-+ F EH2 B AO0 S OY2 + 
-+ R G R AH1 B IY0 + 
-+ Y AH2 K IH2 TH IY1 + 
-+ Z UH1 K OW2 B AW0 + 
-+ N EY0 S EH2 + ER0 + 
-+ S OY2 T AH2 B OW0 + 
-+ EY2 P T EH1 S ER1 + 
-+ S ER2 P AH0 P T + 
-+ ZH AH0 K AH2 N D + 
-+ G + IY2 TH OW2 K + 
-+ AA0 R S R UW0 L + 
-+ R EH0 G L D AE1 + 
-+ ZH IH0 V AO1 M B + 
-+ F ER1 TH EY1 + EH2 + 
-+ P UW2 P IY1 V L + 
-+ AH2 M D AE2 P AY1 + 
-+ OW2 T UW2 + R K + 
-+ K EY2 + AY1 + EY0 + 
-+ R V EH1 G AW2 K + 
-+ P W AH2 N CH ER0 + 
-+ AH2 NG Z L IH0 F + 
-+ AE2 L B D AA0 NG + 
-+ Z UH2 K AH0 JH OY1 + 
-+ V UH1 + OW1 K AE2 + 
-+ AH1 SH OY1 + W IY2 + 
-+ UH2 D AE2 R T EY2 + 
-+ AW0 Z L AO2 B EH0 + 
-+ CH AH2 S UW1 SH EY0 + 
-+ AY2 P ER1 + S P + 
-+ UH1 L B EH1 G AH1 + 
-+ SH OY1 N T V D + 
-+ OW2 P EH2 JH EY1 B + 
-+ P W AY2 K AH0 R + 
-+ AY2 SH OW1 + DH AE1 + 
-+ M + UW0 M + AW2 + 
-+ T OW1 T AW2 D AY2 + 
-+ UH2 T EY2 G OY0 L + 
-+ L AH0 + EH2 B OW0 + 
-+ AY1 T EY2 F AO2 G + 
-+ AE1 + ZH AO1 B IY2 + 
-+ B AY2 G UH0 L P + 
-+ EH1 JH + ER1 G IY1 + 
-+ ER1 T EH1 R T EY2 + 
-+ ZH AO1 S AY0 L T + 
-+ ER1 G EH2 R JH OW0 + 
-+ R + M EY2 L M + 
-+ EY1 F AH0 SH + AW1 + 
-+ OW2 NG G EH2 B ER1 + 
-+ AE2 V ER0 D AW0 L + 
-+ AA1 L Z AO1 T IY1 + 
-+ P S OW1 S IH1 F + 
-+ V AY2 T UW2 D OW0 + 
-+ K UW1 K + UW2 Z + 
-+ OY2 Z OW0 T W OY1 + 
-+ B EY1 G EH1 G AE2 + 
-+ Y UH2 K AE2 K OY0 + 
-+ F ER2 K AW2 S EH2 + 
-+ AE0 + Y AE2 SH UH0 + 
-+ Y UW2 S UW0 S AO2 + 
-+ AO1 P AA1 Z OW1 M + 
-+ IH0 P UW1 B OW1 S + 
-+ S AE2 S EH0 K ER0 + 
-+ D AA2 T EH2 G EY0 + 
-+ HH AA2 K AA2 V IH1 + 
-+ R AY1 R B Z V + 
-+ TH EY0 K UW0 D IH0 + 
-+ DH OW1 + IH1 + IH1 + 
-+ ER1 Z AY0 + N AE2 + 
-+ V AE1 P IY1 N G + 
-+ T Y AE0 SH OW2 NG + 
-+ IH2 B OW0 N S IY1 + 
-+ AY1 S ER2 F W AW0 + 
-+ OY2 D + R B UW2 + 
-+ AO0 P F AH0 T AH0 + 
-+ AY1 B IY1 P R AA2 + 
-+ AE2 Z B Z AE2 Z + 
-+ SH + ZH IH1 + EY2 + 
-+ OW2 M P EY1 G AY0 + 
-+ S N EH1 F R AO2 + 
-+ AO2 S UH1 CH IY1 TH + 
-+ IH0 + AW1 SH L AH1 + 
-+ S EH2 M D + N + 
-+ M L UW1 + SH AY0 + 
-+ IH0 R M R AA0 G + 
-+ IH0 T IH1 K V AA1 + 
-+ AH2 T L OW2 M T + 
-+ AW2 TH R AA0 G Z + 
-+ DH AE2 D + DH IH1 + 
-+ IH0 + EH1 P ER0 D + 
-+ AA0 NG S UW2 SH R + 
-+ K EY2 JH AA1 F R + 
-+ D AE1 SH EY2 V UW0 + 
-+ T AH1 + JH IY1 S + 
-+ AO1 F S T S EY1 + 
-+ IH2 SH UH1 D OW1 N + 
-+ N EY2 F AH1 G R + 
-+ B IH0 P AA1 T EY1 + 
-+ HH UH2 T ER0 B OY0 + 
-+ IH1 S + IY1 + M + 
-+ ER1 D EY1 + DH EY2 + 
-+ ZH AY2 SH K AO2 F + 
-+ D AE0 T AW1 K N + 
-+ IH0 N TH EY1 Z UW2 + 
-+ AY1 V EY1 F EH0 R + 
-+ ER0 B EH1 P ER0 T + 
-+ EH1 + AO0 T AH1 B + 
-+ S T AO2 SH AH0 T + 
-+ EY1 F IY0 R L F + 
-+ ER2 V AE0 K S R + 
-+ AY1 R SH IH1 SH EH0 + 
-+ IY1 L B AE2 K AW0 + 
-+ N S OW2 F IH1 V + 
-+ UH1 D AY1 F EY2 G + 
-+ W IH2 B IH2 SH UH0 + 
-+ IH2 Z L F AO2 D + 
-+ W EY1 + B Z OW1 + 
-+ S IH0 G ER0 T AH0 + 
-+ AA0 NG K Y IY2 Z + 
-+ G AH1 T AW0 + P + 
-+ T UW2 SH UW2 F EY2 + 
-+ SH N ER0 B AY0 M + 
-+ ZH AE1 T AY1 Z AE1 + 
-+ P AO0 P L IY2 G + 
-+ ZH AY2 P IH2 B AE2 + 
-+ AY2 T L IY2 B AW0 + 
-+ Z OW2 SH R L P + 
-+ L AO0 + TH AO2 TH + 
-+ EY1 G EH2 TH W AE0 + 
-+ ZH ER2 Z EY1 Z IH0 + 
-+ AY1 B + B EY0 L + 
-+ AO1 T UW2 Z EY0 R + 
-+ EH2 K AY2 R G AY1 + 
-+ AO2 G R P AH1 NG + 
-+ AY2 D Z Y ER1 F + 
-+ AO0 N T AW0 S OY2 + 
-+ AA1 B IH0 K AY1 K + 
-+ ZH Y EY1 NG + EH1 + 
-+ AE2 S AE0 F EH2 TH + 
-+ SH + EH2 TH IY2 P + 
-+ AH0 + F + SH EH1 + 
-+ HH AH2 B AE0 SH AA2 + 
-+ AH1 P EH2 R SH M + 
-+ AW2 R + DH IH0 V + 
-+ AE0 Z AH2 D IH0 T + 
-+ DH + V EY2 R N + 
-+ N UH0 L V AO0 M + 
-+ CH AY1 SH R D OW2 + 
-+ T OW1 + JH AY1 K + 
-+ AE2 Z IH1 + S OY1 + 
-+ IY2 K AW1 + L IY0 + 
-+ M EH2 S UW1 P OW1 + 
-+ AW2 SH AW0 S + AY2 + 
-+ AH1 F IY2 P AO0 V + 
-+ V EH2 T UH1 SH UH2 + 
-+ S ER1 G AE2 V IH0 + 
-+ UW2 JH AA0 G OY2 L + 
-+ OW2 D AY1 T AW0 R + 
-+ T + R AA1 JH IH1 + 
-+ F Y IY1 Z HH AO2 + 
-+ N EY1 T W UH2 T + 
-+ EY2 NG + SH AE1 G + 
-+ UW2 TH IY0 + V AH2 + 
-+ B AE2 B IH2 T UH2 + 
-+ ZH UH2 D AO0 S IH0 + 
-+ F AW1 Z Y UW0 S + 
-+ AY0 D ER1 SH IY1 NG + 
-+ EY1 S AO0 S N AW2 + 
-+ L P OY1 T ER1 L + 
-+ Y IY2 T IH0 JH UH0 + 
-+ K Y AH2 + JH UH0 + 
-+ UW1 NG TH AO0 D AO1 + 
-+ EH1 P AO2 SH T AW1 + 
-+ ER0 N F AO1 T AH2 + 
-+ V + AY2 M D OY2 + 
-+ AA1 S IY2 B AE1 R + 
-+ EH0 + T UH2 D AY0 + 
-+ AY2 + R + N AE2 + 
-+ EH0 F IH0 G AH0 T + 
-+ Z AA0 G ER2 P ER2 + 
-+ Y UW1 SH EH2 Z L + 
-+ D + AH1 + EH0 R + 
-+ G AO2 G AO0 G D + 
-+ ER1 TH UW1 K AE1 S + 
-+ JH + M S M AY2 + 
-+ AW1 TH EY1 D AE2 S + 
-+ AH2 Z + AE2 P UW0 + 
-+ AO1 SH EY1 S IY0 N + 
-+ OY2 T ER2 V AO2 Z + 
-+ AE1 T ER2 F OY1 D + 
-+ AH0 V IH1 B IH0 M + 
-+ W IH1 G UW1 G OW1 + 
-+ EY2 R L M L OW2 + 
-+ AA1 B AH1 T AH0 P + 
-+ EY1 Z AH1 F S UH2 + 
-+ AO0 Z EH0 M B OW2 + 
-+ UW2 JH IY1 G R G + 
-+ AE0 K IY2 V + AH2 + 
-+ AY1 S UW2 M S ER2 + 
-+ UW2 G EH1 SH AE1 D + 
-+ AY2 + AO0 + JH AO2 + 
-+ AE2 P L AW0 D OY2 + 
-+ AE0 D OY2 + T R + 
-+ V AE1 B L D OW0 + 
-+ M Y AA2 SH + EH0 + 
-+ OW0 + SH UW2 G AO1 + 
-+ IY0 Z AO0 P OW2 V + 
-+ SH K S AA2 Z UW1 + 
-+ T ER1 + AW1 D AO0 + 
-+ AO1 SH K L Y IH2 + 
-+ UW0 TH ER2 F T OY2 + 
-+ B L AH1 CH IH2 M + 
-+ JH ER2 + K AA1 ZH + 
-+ EY0 T AH2 B UW0 Z + 
-+ F OW0 + AH1 B ER0 + 
-+ ER1 P F AA1 Z ER1 + 
-+ V EH1 CH + AA2 Z + 
-+ D V R AH0 K IH2 + 
-+ R TH + AE1 SH IH2 + 
-+ L K UW2 Z OW1 F + 
-+ F EY2 P AE1 TH OW2 + 
-+ AA0 P S R AY1 N + 
-+ ER1 P AA2 G AH1 N + 
-+ TH ER0 R F EY0 R + 
-+ N AA2 B AY0 + Z + 
-+ W ER2 F AA1 ZH IH2 + 
-+ M F IH2 V EH0 S + 
-+ W OY2 S IH2 B UH1 + 
-+ JH AO2 SH L AH0 R + 
-+ AE0 CH EY0 S AW1 K + 
-+ EH1 B AA0 T AO0 NG + 
-+ B AE0 K N AE1 TH + 
-+ P AO0 S EH0 G EH0 + 
-+ AY2 M + DH Z AO1 + 
-+ G AW2 SH EH2 G EY2 + 
-+ EH1 V AO2 M D AH1 + 
-+ IH2 NG + IH2 P IY0 + 
-+ TH AA0 R D UH2 R + 
-+ UW1 F EY2 G IH0 F + 
-+ B IY0 D Y AE1 S + 
-+ IH0 T AE1 S L EY2 + 
-+ AE0 T IY2 L SH AO0 + 
-+ S Y UH1 + G AW1 + 
-+ S AA1 B IY1 G AE2 + 
-+ DH AE1 G AA0 R SH + 
-+ AE2 L SH K AO1 D + 
-+ N K AA2 B Y AY1 + 
-+ K L UW1 + T R + 
-+ W IH1 S AO0 G AW0 + 
-+ R G AE1 K R AO2 + 
-+ AY2 M L W AH0 S + 
-+ V EY2 Z UW1 T EY2 + 
-+ S AO2 R S K T + 
-+ EH1 V EH2 Z EH0 NG + 
-+ IY0 T R AA0 F OY2 + 
-+ TH OW1 L D + G + 
-+ HH OY2 N Z UW2 N + 
-+ F EH0 S OW2 D R + 
-+ V AY0 + OW0 D UH0 + 
-+ AE0 B OW2 F W AY1 + 
-+ JH AA1 V ER1 N JH + 
-+ IH1 T Y OW0 D ER1 + 
-+ AE2 T ER1 V IY2 M + 
-+ Y AW0 N Z EY2 S + 
-+ DH ER0 + T AH2 D + 
-+ D AA2 ZH UW2 K T + 
-+ AH0 R G L JH IH2 + 
-+ IY2 K AE1 G D AW0 + 
-+ Y UW1 B OW2 P AW2 + 
-+ V EH1 P AA1 Z OW1 + 
-+ UW2 L K UW0 + M + 
-+ N AO1 F UW1 G OY2 + 
-+ D V AY1 K S IY0 + 
-+ UH1 + L B OY2 T + 
-+ B AO0 G AW0 + ER2 + 
-+ IY2 + AA1 D AO0 K + 
-+ B IH0 G IH2 B OY2 + 
-+ IY0 Z IY2 B R IH1 + 
-+ AO1 F IY2 SH L AE2 + 
-+ Z D AY2 S IH0 D + 
-+ B IH0 S V IY2 G + 
-+ AA0 D Y AH1 S AH2 + 
-+ EY2 TH OW1 P OW1 TH + 
-+ N K R OW0 K AO2 + 
-+ G ER2 JH EH0 S L + 
-+ ER1 V AO1 B AH1 B + 
-+ JH D AH1 D AO2 V + 
-+ L AO0 P + W ER0 + 
-+ AW0 S IY1 S R EH0 + 
-+ EY1 K OW0 M T EH2 + 
-+ EH0 TH AY1 S IH0 DH + 
-+ T OW1 P UH1 SH M + 
-+ IH2 V EY1 + AW0 Z + 
-+ B AA1 B EH1 B OY2 + 
-+ F IH1 S EY2 JH EY1 + 
-+ S OY1 + EH2 Z UW0 + 
-+ G IY2 TH IY2 NG G + 
-+ V OY0 L JH AY1 B + 
-+ UW1 S AE2 + D IY0 + 
-+ UW1 S N IH2 D UH2 + 
-+ T IY1 T EY0 D UH0 + 
-+ F K AH2 + JH EY2 + 
-+ ER2 V EY1 N F AY1 + 
-+ F AH2 F AH1 SH OW1 + 
-+ M AA1 P S R ER0 + 
-+ N IY1 TH R P EH2 + 
-+ DH ER0 K EH0 P IH2 + 
-+ L ER2 F AA1 R F + 
-+ EH2 B F IH0 B AO2 + 
-+ SH EH1 T EY2 NG G + 
-+ IY0 S EY1 Z UH1 D + 
-+ IY0 T IY0 S IY1 V + 
-+ R V R IH2 G EY2 + 
-+ EH0 R T UW0 N K + 
-+ T OW2 Z EH2 Z AE2 + 
-+ L AA1 L Z UW1 TH + 
-+ V EH2 Z L V R + 
-+ AE2 TH AH2 P T UH2 + 
-+ TH EH1 G IY1 P AW0 + 
-+ AE0 S IH0 JH W AA0 + 
-+ AE2 L K ER0 B EY1 + 
-+ Z UW1 K N F EH2 + 
-+ N G AH1 JH OW1 K + 
-+ F EY0 S HH EH2 L + 
-+ R OW0 K N W AW2 + 
-+ OW1 V UH0 + AO1 L + 
-+ ER2 SH L UW0 Z AW1 + 
-+ AY2 L JH EH0 G IH2 + 
-+ T R AA0 K AY1 S + 
-+ IY2 Z AH1 D AE0 M + 
-+ AY2 K OW0 L M B + 
-+ N IH0 DH AH2 G ER1 + 
-+ T AE1 F L EY1 NG + 
-+ AW2 Z OW2 V AH0 CH + 
-+ OW2 CH ER2 SH OY1 M + 
-+ V AO2 B UW2 D EY0 + 
-+ Y AH2 K T IY0 Z + 
-+ D IY2 D ER2 S IH2 + 
-+ AA2 S OY2 + IH0 N + 
-+ OW1 Z AA1 F ER0 K + 
-+ AY2 M + AW2 Z UW1 + 
-+ AW1 D EY0 T ER0 B + 
-+ AY2 N JH IY1 CH ER1 + 
-+ F + EH2 Z Y AY2 + 
-+ AA2 SH IH1 + V UW2 + 
-+ IH1 Z EH0 G AA1 S + 
-+ DH EY2 T UW1 D ER1 + 
-+ IY1 T Y AH2 D IH2 + 
-+ T R D AW2 N TH + 
-+ Y AO1 + EH2 F S + 
-+ K IY0 N SH L EH0 + 
-+ K IH1 JH UW2 V IH2 + 
-+ EY2 S AH1 N F OW1 + 
-+ JH + UW1 B OW2 NG + 
-+ S M EY1 JH EH1 SH + 
-+ M AO2 Z AE1 D OW1 + 
-+ ER0 Z AO0 G EY1 R + 
-+ ER0 D W IH1 SH M + 
-+ Y AA0 L Z L EY1 + 
-+ W AW1 R V OY2 N + 
-+ OW2 K IY0 L Z AE2 + 
-+ SH OW1 Z V R V + 
-+ AH0 K IH0 S F OY1 + 
-+ AH2 + EH1 JH AW2 M + 
-+ AH1 D R EY0 D AW1 + 
-+ EY2 K ER2 K EY2 M + 
-+ EH2 TH AA1 + L AA2 + 
-+ N K IY0 K AW1 L + 
-+ AE1 TH S W AY0 T + 
-+ L SH EH1 N S OW0 + 
-+ OY2 + M EY0 + EY2 + 
-+ SH AY1 SH AY2 L K + 
-+ AE0 TH AE1 D AH0 S + 
-+ IY1 S R Z AY1 D + 
-+ AO2 N + P + UH1 + 
-+ D R UH0 SH AH2 NG + 
-+ N JH UW2 N T R + 
-+ IH0 M S AO2 V IH1 + 
-+ N AO1 B L K AA1 + 
-+ S EY2 D OY2 N SH + 
-+ EY1 Z + UW2 CH AY2 + 
-+ EH2 Z OW1 SH T AY1 + 
-+ AA1 G AE1 Z L AO2 + 
-+ T S AA2 + AH0 D + 
-+ TH AE2 G AE2 CH AY1 + 
-+ AA1 + ER0 B W EY1 + 
-+ OW2 SH ER1 P AY1 D + 
-+ AO2 D AA1 SH AE1 S + 
-+ EH1 F S AW0 Z AY2 + 
-+ EH2 L Z W OY2 D + 
-+ ER0 TH ER0 P AY0 S + 
-+ F R + AO0 TH IH1 + 
-+ JH UH1 K AO1 S P + 
-+ IY1 T L Y AO0 NG + 
-+ R AW2 SH EH1 B AO0 + 
-+ B OW2 G ER1 Z AE1 + 
-+ F AA2 SH AO0 V ER2 + 
-+ M AE2 N Z AE0 G + 
-+ TH EY0 + IY1 F AA0 + 
-+ T AE0 B Z EY2 V + 
-+ M IY0 G AW2 Z OW0 + 
-+ HH IY1 SH + B ER1 + 
-+ S UW1 D AH1 S T + 
-+ UH2 K AH0 TH W AH1 + 
-+ P AO2 T + G AY0 + 
-+ V IY2 P AW2 + AO1 + 
-+ OW1 Z V EH2 D AH1 + 
-+ R AA2 P OW1 B EH0 + 
-+ ZH IH2 Z IY2 V OY0 + 
-+ AE2 G IH2 Z AW1 D + 
-+ P S W EH2 G AH0 + 
-+ IY0 + N G Y UW1 + 
-+ F OW1 T AH1 JH ER2 + 
-+ EH2 P + IY0 D Z + 
-+ R ER2 B + P UH0 + 
-+ F AO1 S AE2 P EH0 + 
-+ ZH UW1 P OY2 + G + 
-+ AO1 K EY1 + SH IH1 + 
-+ AW0 M S IY1 + L + 
-+ UH1 T AE2 TH AO2 L + 
-+ AW2 K T + R V + 
-+ AE2 TH AE0 B AH2 Z + 
-+ AH0 Z Y EH2 D IY2 + 
-+ EH1 + DH AH2 V UW1 + 
-+ AO2 Z AA0 NG S AA1 + 
-+ UW2 L SH EH1 K ER2 + 
-+ ZH AW2 S V W AW2 + 
-+ ER0 Z IY1 B IY2 D + 
-+ P Y AW1 K S M + 
-+ AY2 F + AH2 V EY0 + 
-+ L AO2 R L Z ER1 + 
-+ ZH AE0 K OY2 + AH0 + 
-+ DH D + OW1 Z AE2 + 
-+ L T AE2 R S K + 
-+ P IY2 G D IY2 DH + 
-+ K S W EH1 SH UW0 + 
-+ M IY0 S OW1 S EH1 + 
-+ OY1 S W IY1 ZH UH1 + 
-+ S + ER2 B AE0 L + 
-+ P AA2 M D EH2 D + 
-+ AW1 N D AO0 Z EH2 + 
-+ F OY1 Z AH0 G ER1 + 
-+ B IY0 S AO2 TH AW1 + 
-+ K IY1 CH IY0 D AW1 + 
-+ AE0 SH AE0 + AO1 T + 
-+ EH2 SH N TH R T + 
-+ T IY1 SH AO1 K AW0 + 
-+ UW0 D + R OY0 Z + 
-+ F AE0 D ER0 D ER2 + 
-+ K Y IH2 K N AE0 + 
-+ AH2 M B ER0 S AW2 + 
-+ AO0 K IH0 P R OY1 + 
-+ V AE2 R B AA2 D + 
-+ JH AY2 S OW1 P AW2 + 
-+ D AE1 SH IH2 L Z + 
-+ EY0 T V IH1 P OW2 + 
-+ AW2 Z OW2 D AY1 S + 
-+ Z + N OW0 S R + 
-+ N D AA1 V AE0 T + 
-+ M IY0 + R AA1 L + 
-+ EH1 + AH1 + L AA0 + 
-+ AW1 TH UW2 TH W AA1 + 
-+ R K AW0 Z EH0 N + 
-+ D + UH2 L G Z + 
-+ AH1 D R Z L AO2 + 
-+ HH AE0 B EY2 D Z + 
-+ SH IY2 T AW0 Z AO2 + 
-+ IH1 JH IY1 B OY2 L + 
-+ AH1 G AH1 JH + EY1 + 
-+ EY0 T V ER2 JH EY0 + 
-+ AH2 L S L AE2 NG + 
-+ IY0 D W AE2 S AY1 + 
-+ IY1 B Y ER2 CH AH1 + 
-+ R IY1 P UH2 D AH0 + 
-+ V AH1 JH ER1 S OW0 + 
-+ IY2 JH AO2 V EH0 M + 
-+ SH IY1 + IY1 V OW1 + 
-+ Y UW1 K V ER0 TH + 
-+ AO0 L + S + R + 
-+ IH0 S V + DH AW2 + 
-+ ZH AY2 + AA0 NG D + 
-+ P AE1 S AA1 + ER2 + 
-+ AW2 SH UW0 Z AH1 SH + 
-+ IH0 L Z AH0 V AH2 + 
-+ TH AY1 G Y IH2 + 
-+ OW0 Z AA0 + EH2 + 
-+ V Y OW0 N D + 
-+ ER1 S AW0 + UH2 + 
-+ EH1 F UW1 K AH1 + 
-+ G IH0 K ER1 D + 
-+ IH1 JH OW1 SH UH2 + 
-+ EY2 G AA1 D AH1 + 
-+ AW0 D AY1 P AO1 + 
-+ K W AH2 F IH0 + 
-+ R EY0 R G UW0 + 
-+ EY0 T AA2 S F + 
-+ L + F + EY0 + 
-+ UH2 K S V AO1 + 
-+ UW2 TH UW1 P ER1 + 
-+ AO2 R + OY2 CH + 
-+ JH IH1 NG D EY2 + 
-+ TH IY2 T L T + 
-+ D ER0 P ER2 S + 
-+ K V EH2 TH AH1 + 
-+ Y IH2 NG G OW2 + 
-+ UW1 TH AH2 SH AY2 + 
-+ HH IH0 SH AE2 Z + 
-+ AY1 B AY1 K AW0 + 
-+ B OY1 Z AO0 NG + 
-+ N IH2 SH R OW0 + 
-+ N JH EY2 DH EY0 + 
-+ OW0 Z AO0 T AW0 + 
-+ P AY1 G OW2 SH + 
-+ IY1 Z B W OY1 + 
-+ D AY0 Z W IH2 + 
-+ S AE1 V D AY2 + 
-+ M D AY1 + R + 
-+ F OW0 + F AA1 + 
-+ JH AE2 F IY2 G + 
-+ G AY1 T IY1 NG + 
-+ AH0 T IY2 + IY2 + 
-+ N AA0 P UW1 D + 
-+ UW1 SH EY2 JH EH2 + 
-+ EH1 TH ER1 T EH2 + 
-+ IY0 R B ER1 B + 
-+ ER0 Z UW2 SH EY1 + 
-+ AY2 T EH1 V EH1 + 
-+ AO2 T L IY2 D + 
-+ ER2 K AW1 + B + 
-+ IH0 T IH1 TH ER0 + 
-+ AH0 L D UW2 B + 
-+ S UW1 + P UW1 + 
-+ M S R OW1 T + 
-+ EH0 G IH1 + AO1 + 
-+ Z AO0 M Z AE0 + 
-+ HH AE2 M P AW2 + 
-+ Z EY1 CH EY1 TH + 
-+ P AA1 Z ER2 L + 
-+ ER1 JH D AW1 L + 
-+ AA2 M S IY1 R + 
-+ HH AW1 S IH0 Z + 
-+ IY2 F L D UW0 + 
-+ G EH1 D IH0 F + 
-+ K N AE2 SH UW2 + 
-+ S IH2 M D EH2 + 
-+ T AH2 SH AO1 V + 
-+ AA2 S AH2 JH ER1 + 
-+ ER0 Z OW2 P UH2 + 
-+ EH2 N K AO2 TH + 
-+ ER1 + P L AO1 + 
-+ ER0 F AY1 SH AE1 + 
-+ W AW0 + AO1 S + 
-+ EH0 TH IH0 S M + 
-+ JH IH2 + SH N + 
-+ K IY2 + EH0 K + 
-+ R IH0 Z AE2 M + 
-+ EY2 K AH0 TH IH2 + 
-+ S UW1 D IH2 DH + 
-+ R EH1 K N EH0 + 
-+ ER0 S OW2 JH EY1 + 
-+ JH EY2 F UW2 K + 
-+ V + AA1 R M + 
-+ AO0 TH AH1 + AA2 + 
-+ Z ER0 TH AA0 L + 
-+ ZH AE1 + AA2 B + 
-+ AE1 D AW2 Z AO0 + 
-+ TH AA0 T IY2 T + 
-+ N OW1 + W EY2 + 
-+ EH1 SH L W AW0 + 
-+ M + AA0 Z EH2 + 
-+ AW2 + K T V + 
-+ ER1 S OW2 L G + 
-+ UW1 G UH0 + ER2 + 
-+ JH EY2 G ER1 N + 
-+ R ER2 N G UW1 + 
-+ UH1 D R + OY1 + 
-+ EY2 D AY2 V EH1 + 
-+ R AH2 + W AH0 + 
-+ Y EH1 G Y AO1 + 
-+ V AA0 Z Y AH0 + 
-+ R K + V AA0 + 
-+ N AY2 F ER2 P + 
-+ TH ER0 S ER2 D + 
-+ EY2 TH AA1 F EY0 + 
-+ AO1 + S EY1 D + 
-+ V AY1 V UW0 M + 
-+ N TH ER1 G ER2 + 
-+ M + AY2 Z UW1 + 
-+ B AW0 L JH AA1 + 
-+ UW1 TH OW2 P ER0 + 
-+ R IY1 R F AO1 + 
-+ UW1 SH UH0 N F + 
-+ V + S + AH0 + 
-+ IH2 R N K EH2 + 
-+ AO1 K IY2 Z ER0 + 
-+ UW1 S N IY2 M + 
-+ AA2 F AO0 K OY1 + 
-+ UW0 + AE1 S AH1 + 
-+ AO1 K OW1 B EH2 + 
-+ UW2 V UW1 + V + 
-+ ER1 T AA1 JH ER0 + 
-+ T ER1 SH EY2 K + 
-+ AW2 CH UH0 K OY2 + 
-+ AO0 F T R OW0 + 
-+ AO1 K S ER2 G + 
-+ ZH UW0 S P UW1 + 
-+ AE0 M S K OW1 + 
-+ M L UW1 D AE2 + 
-+ OW1 S AO1 L G + 
-+ AY1 Z AA2 S IY2 + 
-+ ER2 CH W UH2 D + 
-+ AA0 P T AY2 M + 
-+ UW2 S R + EY0 + 
-+ EY1 G OY2 D OY1 + 
-+ TH ER0 T ER0 TH + 
-+ Y AE2 F AE1 B + 
-+ UW2 L M T AE0 + 
-+ D UW1 + R B + 
-+ SH + OW2 TH AH1 + 
-+ L AH0 V AH0 N + 
-+ OY2 Z OW2 D AO0 + 
-+ IY1 T ER2 JH OW0 + 
-+ IY1 F AY1 V OY1 + 
-+ IY2 P AA0 B AW0 + 
-+ AE1 G OW2 + AO1 + 
-+ Y AE0 F EH1 S + 
-+ R G IH2 CH AW0 + 
-+ UW1 V W EY0 Z + 
-+ G AE1 D V EH1 + 
-+ IY2 Z + P F + 
-+ W AE0 SH AO1 D + 
-+ G L IH1 L SH + 
-+ EY1 L G L UH1 + 
-+ N SH IH0 B ER1 + 
-+ IH2 V OW0 T AW1 + 
-+ T ER0 F OW2 M + 
-+ ER0 S UW1 G UW0 + 
-+ L UW0 N G EY0 + 
-+ P UH1 D AO0 TH + 
-+ AY2 V AH2 JH IH1 + 
-+ Z AA0 G ER0 M + 
-+ S F AA2 D EY1 + 
-+ D UW1 P IY2 G + 
-+ AH2 F EH0 L S + 
-+ AA2 JH IH2 + AE0 + 
-+ AA0 K UW0 + AO2 + 
-+ EH2 + AA2 D UW2 + 
-+ AO0 + T AO1 K + 
-+ K L AO0 T EY0 + 
-+ HH EY2 G EH2 M + 
-+ B AA2 M B AH2 + 
-+ AY1 F L AA2 V + 
-+ EH1 JH AA2 V OY1 + 
-+ IY1 B AY1 D UH0 + 
-+ EH0 Z EY1 D OW1 + 
-+ OW2 K AE0 D EY2 + 
-+ AW2 SH ER0 F AY2 + 
-+ ER0 S EH1 G AH2 + 
-+ AW1 K UH0 + P + 
-+ N Z D IY2 B + 
-+ EH2 S F L AO1 + 
-+ IY2 + UW2 L Z + 
-+ S M AW1 S AA2 + 
-+ K OW1 N Z OY1 + 
-+ IY1 JH AH1 P EY1 + 
-+ IH0 V OW2 NG S + 
-+ HH EH0 V ER0 P + 
-+ AE0 F AA2 JH AE0 + 
-+ M Y AW1 D EH2 + 
-+ AW1 R SH W ER0 + 
-+ AE0 P UW2 R Z + 
-+ IY1 B D Y AE0 + 
-+ AY1 + AH1 T AH2 + 
-+ Z OW1 F AE1 T + 
-+ AO1 D IY0 Z UW1 + 
-+ AO1 R G Y UH0 + 
-+ UW2 CH EH2 CH IH2 + 
-+ EH0 T EY2 G AO1 + 
-+ W EY2 V AO1 K + 
-+ R + AW0 Z EY1 + 
-+ EH2 TH OW1 P UW2 + 
-+ AO1 S AA0 T AH0 + 
-+ K V EY2 N S + 
-+ M AW2 S + HH + 
-+ EH2 TH R G UW2 + 
-+ AH2 F OW2 D ER1 + 
-+ N Y IY0 K IY0 + 
-+ AO1 G EY2 P OW0 + 
-+ SH K AO2 R Z + 
-+ IH2 G AW1 + AW2 + 
-+ ER2 P S ER2 B + 
-+ T ER2 F W EH2 + 
-+ N AA1 M Z AE1 + 
-+ R S OW0 D EY0 + 
-+ N K OY2 T L + 
-+ Y AW2 SH + AY0 + 
-+ L T OW1 P AE1 + 
-+ OW1 JH AY1 Z EH2 + 
-+ AW0 Z OW2 S UW1 + 
-+ IY2 F + V UW2 + 
-+ AA0 F AH0 SH AW1 + 
-+ AY1 P AO1 B OY1 + 
-+ JH IH1 G R IH2 + 
-+ SH UW1 T + EH0 + 
-+ K IY1 Z AH2 N + 
-+ S HH UH1 SH EH1 + 
-+ Z IH1 Z AA0 S + 
-+ P IH2 Z D ER0 + 
-+ G IH0 G D EH0 + 
-+ B L AH1 K IY0 + 
-+ UW0 K AW2 + F + 
-+ AH2 T + SH UH0 + 
-+ AE0 TH AH0 T AH1 + 
-+ B + AY2 P AW2 + 
-+ JH AE0 + T OW0 + 
-+ Z Y AY2 P OW0 + 
-+ ER0 TH AE1 V ER2 + 
-+ M F L AY2 N + 
-+ AE1 SH EY2 JH AO2 + 
-+ K V OW2 D EH2 + 
-+ OW2 P AE2 D UW1 + 
-+ P + ZH AA0 F + 
-+ N UW1 SH W AA2 + 
-+ IY1 M D Y EY0 + 
-+ IY1 DH IY1 T IH2 + 
-+ EY2 DH EY1 G OY1 + 
-+ AA2 K EY1 S AO1 + 
-+ AY2 CH IH0 DH ER1 + 
-+ AW0 R N Y AE1 + 
-+ DH + IH2 Z AY0 + 
-+ F AE0 G W UH0 + 
-+ ER0 K AA1 B EH2 + 
-+ L K S F UH2 + 
-+ EH0 K AO0 K OW2 + 
-+ AA2 NG + R N + 
-+ P IH2 CH Y ER2 + 
-+ EH1 K N EH1 CH + 
-+ AH1 B ER1 G AW2 + 
-+ K L W EH2 G + 
-+ B Y AY1 G EH1 + 
-+ R N W UW1 G + 
-+ S AY1 P OW1 TH + 
-+ P AH1 V AA1 SH + 
-+ IY2 P EH0 G D + 
-+ SH AY0 T Y IY2 + 
-+ P S AE2 S AE2 + 
-+ P OW1 Z AO1 M + 
-+ V R B R T + 
-+ UW1 D ER1 F AY0 + 
-+ IH1 N D IY1 L + 
-+ IY2 Z UH1 D UW1 + 
-+ EY1 JH OW1 K AW1 + 
-+ R ER2 V AY1 K + 
-+ S AO1 V AY1 SH + 
-+ HH Y AE1 D AA1 + 
-+ AA1 P IY1 TH AW1 + 
-+ AH1 F EH2 K EY0 + 
-+ Z L Z EH0 D + 
-+ IY2 B + AH0 N + 
-+ AH1 N Z + UH2 + 
-+ S R V W AH0 + 
-+ B IY0 L Z OW1 + 
-+ SH IH2 T UW2 M + 
-+ AO2 M B UH1 K + 
-+ EH2 SH AO2 D EY1 + 
-+ Y OW0 K N AY0 + 
-+ EH1 S UH0 K AO2 + 
-+ K IY0 + ER2 K + 
-+ UW2 R + DH AA1 + 
-+ UH1 K ER0 P EH0 + 
-+ L K + CH EY0 + 
-+ Y IY0 R G ER0 + 
-+ ER1 D AO0 K AH0 + 
-+ F IY1 S AY2 F + 
-+ ER2 P UH0 K OW1 + 
-+ ZH EH1 T W EH2 + 
-+ W EY2 D Y IY2 + 
-+ AW2 + AW1 + AW1 + 
-+ AE2 B OY1 T S + 
-+ EH0 S AO0 K AO1 + 
-+ EH2 Z W EH0 S + 
-+ EH2 F AE0 + EY0 + 
-+ EH0 T Y ER2 D + 
-+ K EH0 L T AA2 + 
-+ S Y AY2 T L + 
-+ AH0 TH AA2 P EY0 + 
-+ EH0 Z EH2 Z AY0 + 
-+ IY1 B AA1 Z AH0 + 
-+ TH AH2 L + L + 
-+ AO1 TH AO0 R K + 
-+ AH2 F AH1 + G + 
-+ OY2 T IH0 K EH0 + 
-+ V IH0 G AO2 P + 
-+ UH2 + IY2 B AE0 + 
-+ EY2 M + D AW2 + 
-+ M S + IH2 F + 
-+ IY1 SH AE2 K L + 
-+ IY2 Z OW1 B R + 
-+ OY2 + EY1 D IH2 + 
-+ Y OW0 D R UH2 + 
-+ T S OY1 D AO2 + 
-+ UH1 G L AE0 NG + 
-+ EY2 T OY2 + AA1 + 
-+ G IY1 F OY2 L + 
-+ D V AO1 S P + 
-+ HH OW1 B EH1 Z + 
-+ S AH2 K V Z + 
-+ K W AO2 F AH0 + 
-+ R EH2 JH AH1 G + 
-+ M AO1 SH R IH2 + 
-+ AH0 V IH1 TH S + 
-+ IY1 + IY1 S ER2 + 
-+ G R Z + OY1 + 
-+ G EH1 V OW2 SH + 
-+ P AW0 R S IH1 + 
-+ IH1 R B Y EH0 + 
-+ AO0 F AY1 M B + 
-+ G OW2 T AO2 V + 
-+ SH M OY2 + OW2 + 
-+ EH0 F AH0 T AW2 + 
-+ AE2 K AW2 K OY2 + 
-+ AA1 F OW1 S HH + 
-+ S L EH1 SH ER2 + 
-+ N UH2 D ER2 B + 
-+ UW1 SH T IH0 D + 
-+ OW1 + R SH AA0 + 
-+ G IY2 K EH1 P + 
-+ ZH + N AY2 SH + 
-+ EH0 M F S AA2 + 
-+ IY0 + T EH1 T + 
-+ N F AA1 CH T + 
-+ V EY1 V + K + 
-+ B IH0 JH AA2 JH + 
-+ Z AE2 + OW1 JH + 
-+ P UW2 S W UH2 + 
-+ EH0 D ER1 CH AA1 + 
-+ AO1 TH AY1 B AE1 + 
-+ UW0 S W AA0 V + 
-+ D UW2 + EY0 + 
-+ UW2 G Z EY1 + 
-+ OW1 P AY0 D + 
-+ B AW0 D IH2 + 
-+ S M P AW2 + 
-+ M B AE0 S + 
-+ ER2 Z + AA1 + 
-+ S T AO0 D + 
-+ UW2 D AA2 T + 
-+ Y AA2 B EH2 + 
-+ IY1 L SH AW1 + 
-+ Z EH1 P UW0 + 
-+ EH1 B EY0 Z + 
-+ AA2 + V IY1 + 
-+ AO2 B AO2 R + 
-+ Z AE2 TH AY0 + 
-+ IH0 R V AA0 + 
-+ V IH0 P EY0 + 
-+ OY1 S Y ER2 + 
-+ R AE1 CH UH0 + 
-+ AO2 Z AO0 TH + 
-+ L UW0 S EY1 + 
-+ JH EY2 D EH2 + 
-+ G + N G + 
-+ IH0 V IH0 Z + 
-+ OW2 V D IY0 + 
-+ Z AW2 + AH2 + 
-+ V + TH AE1 + 
-+ Z AE2 JH AE0 + 
-+ EH0 S L OW0 + 
-+ IH0 V R AH2 + 
-+ F UW0 M S + 
-+ K EY0 Z EY2 + 
-+ OY1 Z OW2 N + 
-+ AE1 F AE0 D + 
-+ AA0 T AY2 V + 
-+ IY1 F ER2 S + 
-+ K N AH0 JH + 
-+ AE0 TH AA1 M + 
-+ AY1 B OY1 S + 
-+ AA0 F Y EH0 + 
-+ N AO1 T R + 
-+ V AA0 K OY0 + 
-+ D AA1 TH AE2 + 
-+ AO2 K EH0 F + 
-+ L UW1 Z EY1 + 
-+ DH AW1 T V + 
-+ Y AO1 K AA0 + 
-+ EH1 D V AE1 + 
-+ JH EY1 T AH1 + 
-+ SH Y AW0 M + 
-+ S AO0 + AA0 + 
-+ T S Y AW0 + 
-+ G R AO1 NG + 
-+ S AH1 T AH1 + 
-+ F AW2 T IY0 + 
-+ N AE1 K AH1 + 
-+ UW2 TH + AE2 + 
-+ R AW0 + S + 
-+ D AE2 SH IY2 + 
-+ AA1 F AH0 CH + 
-+ N EH0 D UW2 + 
-+ UH1 D AO2 D + 
-+ ER2 F Y AH0 + 
-+ ZH AO1 + IY1 + 
-+ T ER1 K N + 
-+ UW2 K R Z + 
-+ W IY1 T OW0 + 
-+ AE1 T EH0 P + 
-+ ZH AO2 L SH + 
-+ K T AE0 SH + 
-+ TH IY1 B UW2 + 
-+ T AE0 + OW2 + 
-+ L AE1 G UW2 + 
-+ Y UH2 T ER1 + 
-+ S T Y EY2 + 
-+ EY0 R T AY1 + 
-+ S AY2 K IY1 + 
-+ ER1 TH AE0 B + 
-+ AY2 P AE1 SH + 
-+ OW0 Z IY0 N + 
-+ AE0 SH AW1 S + 
-+ AY2 SH Y OW2 + 
-+ V Y AY2 B + 
-+ UW2 L S ER1 + 
-+ TH EH0 S K + 
-+ HH AA0 F AH2 + 
-+ N IY2 P AY2 + 
-+ G R OW1 G + 
-+ IH0 K Y AW0 + 
-+ DH AH2 S IY0 + 
-+ Z AW1 TH ER0 + 
-+ EH0 D AO2 G + 
-+ B AO2 S UH1 + 
-+ AE0 T ER1 M + 
-+ JH D V AY2 + 
-+ AE0 P L IH1 + 
-+ R AH0 D AY1 + 
-+ AH0 + IY1 M + 
-+ OY2 L SH AO2 + 
-+ AY2 N + OW2 + 
-+ AA2 T AY2 F + 
-+ JH AY1 SH AE2 + 
-+ EY1 S IH0 T + 
-+ AH2 N Z ER1 + 
-+ K EH0 V AH0 + 
-+ AW1 S F AA1 + 
-+ F IY1 D EH1 + 
-+ W OY2 D EH2 + 
-+ G EY0 T EH2 + 
-+ AA1 ZH IH0 F + 
-+ UH2 K AY1 L + 
-+ AO1 F L OY0 + 
-+ P AY1 R JH + 
-+ HH IH1 F T + 
-+ V AO1 D AH2 + 
-+ K IH0 D UH1 + 
-+ V AA0 G AY0 + 
-+ ER0 + Z ER0 + 
-+ EH0 S R OW2 + 
-+ IH2 F IY2 Z + 
-+ AY2 R G IY2 + 
-+ V AW1 N G + 
-+ G UW1 P IY0 + 
-+ L AE0 SH AO2 + 
-+ V AO2 G OY2 + 
-+ Z EH1 T IH1 + 
-+ Z AY2 V OW1 + 
-+ EH0 + AO1 R + 
-+ AO2 CH UW1 R + 
-+ P IY2 B AH0 + 
-+ IY0 D UH2 L + 
-+ OY1 T AY2 T + 
-+ AY0 N F IH2 + 
-+ OY1 Z V OW0 + 
-+ T AH1 D AH2 + 
-+ D AA2 N TH + 
-+ TH EH1 G EH1 + 
-+ DH ER2 N CH + 
-+ OW2 + AO2 S + 
-+ L G IY0 G + 
-+ F IH2 SH IY1 + 
-+ V UH2 D AH1 + 
-+ AO2 L F UW0 + 
-+ F AO1 B OW2 + 
-+ Z + K OY1 + 
-+ OW2 L K UW2 + 
-+ ZH AH2 CH R + 
-+ AE2 + AA1 NG + 
-+ AY2 B Y UW0 + 
-+ T AY0 + AA1 + 
-+ ER0 D V OY0 + 
-+ SH IH2 K UH0 + 
-+ OY1 Z AO0 V + 
-+ K T AE1 R + 
-+ EY1 + AE0 D + 
-+ HH L EH2 N + 
-+ IY2 T EH0 R + 
-+ TH IY0 + TH + 
-+ B + R P + 
-+ N EY2 TH AO1 + 
-+ S AA0 G AH2 + 
-+ UH1 D + AH1 + 
-+ R JH IH2 B + 
-+ G ER0 D IY2 + 
-+ CH IH2 F IH0 + 
-+ AH1 B + AA1 + 
-+ EY2 L S EH0 + 
-+ EH0 G AH1 N + 
-+ ZH UH0 R TH + 
-+ DH AH1 P AA0 + 
-+ IH2 L V AA1 + 
-+ AO0 D R OW2 + 
-+ AH2 NG D OW2 + 
-+ N F EH0 V + 
-+ IH2 G W ER2 + 
-+ AA0 NG TH AW2 + 
-+ EY1 K UW0 D + 
-+ K + SH UW2 + 
-+ EY1 T EH0 F + 
-+ N EY2 Z AA0 + 
-+ ER1 S ER2 B + 
-+ S OW2 T AW1 + 
-+ TH W IH0 K + 
-+ AH0 S V EH0 + 
-+ IY1 D AY0 Z + 
-+ M F ER1 L + 
-+ AA1 T OW1 JH + 
-+ OW1 D ER2 SH + 
-+ L K S UH0 + 
-+ P IY2 + L + 
-+ AH1 NG + M + 
-+ AW0 + G AA1 + 
-+ L Z + AY0 + 
-+ AW1 M D AA2 + 
-+ AA2 R T IY2 + 
-+ R OW2 SH OW2 + 
-+ EY2 T AH0 Z + 
-+ S IY0 T AO0 + 
-+ N EH2 SH EH2 + 
-+ AH2 + DH AH2 + 
-+ SH UW0 L T + 
-+ AY1 K AY1 D + 
-+ UW0 + IY2 S + 
-+ ER1 SH R ER0 + 
-+ IY2 JH EH1 B + 
-+ ZH UW0 Z UW0 + 
-+ AH0 K L OY1 + 
-+ AH1 G Y AO1 + 
-+ IY0 D IY2 R + 
-+ OW0 N F UH1 + 
-+ R IY1 JH AA1 + 
-+ D AO0 S EY1 + 
-+ CH EH1 S UH2 + 
-+ S AH1 S AA2 + 
-+ EY2 D AO2 R + 
-+ JH W UW2 JH + 
-+ D Z EH1 D + 
-+ M AY0 + AW2 + 
-+ AY1 + Y AH1 + 
-+ Y IH1 K OY0 + 
-+ K R UW1 N + 
-+ EY2 L TH AH2 + 
-+ S Y IY1 K + 
-+ AA0 T Y AA1 + 
-+ IH2 TH AE0 F + 
-+ F AO0 F OY1 + 
-+ TH S OW2 S + 
-+ P + D AA0 + 
-+ EH2 L D AH1 + 
-+ EY1 F AW2 N + 
-+ AO0 P AH2 + 
-+ G R OY2 + 
-+ AO2 B AH0 + 
-+ ER1 V AE2 + 
-+ V AO2 S + 
-+ D + EY1 + 
-+ IH2 G IH2 + 
-+ N W AH0 + 
-+ OW1 V AW2 + 
-+ AO0 TH ER0 + 
-+ TH AH0 N + 
-+ AW1 Z OW0 + 
-+ HH IH1 L + 
-+ ER2 CH AA2 + 
-+ K EH1 P + 
-+ R EH0 Z + 
-+ D Z IH2 + 
-+ S AA1 D + 
-+ AA2 T AY2 + 
-+ AH1 D Z + 
-+ UH1 K AW1 + 
-+ AY1 L T + 
-+ T AW1 T + 
-+ ER1 T EH2 + 
-+ L ER0 G + 
-+ Y ER1 K + 
-+ AA1 V OW2 + 
-+ AO0 T IH1 + 
-+ V Y ER2 + 
-+ Z L AA1 + 
-+ R Z AH1 + 
-+ TH R EY2 + 
-+ G IY1 Z + 
-+ OW2 F UH2 + 
-+ JH AE2 V + 
-+ OW0 D AW1 + 
-+ UW0 Z IY2 + 
-+ AO2 TH OW0 + 
-+ AE2 G IH0 + 
-+ AA1 P AY2 + 
-+ AY1 D AA0 + 
-+ T AW1 L + 
-+ TH W UH0 + 
-+ OW0 K ER2 + 
-+ AW0 Z AE0 + 
-+ AE2 + P + 
-+ IY2 P OY1 + 
-+ IY2 M Z + 
-+ S AY2 K + 
-+ DH AH0 M + 
-+ G AW2 TH + 
-+ AH1 Z V + 
-+ S AW2 D + 
-+ EY1 Z EH2 + 
-+ S + AO1 + 
-+ R OW0 L + 
-+ K UH0 T + 
-+ EY2 T IH2 + 
-+ ZH D AY2 + 
-+ B Y IH1 + 
-+ CH EH1 G + 
-+ D AW1 R + 
-+ B AE1 F + 
-+ AO1 P OW2 + 
-+ AO0 F R + 
-+ V EH2 TH + 
-+ EH1 B ER2 + 
-+ IH1 S ER1 + 
-+ IY1 SH IH0 + 
-+ AE0 Z ER2 + 
-+ B EY2 V + 
-+ R SH IY1 + 
-+ Y UH0 JH + 
-+ AO0 S AW0 + 
-+ Z AA0 Z + 
-+ G OW1 F + 
-+ F S OW0 + 
-+ AW1 SH AO1 + 
-+ S OW1 L + 
-+ DH OW2 K + 
-+ AE0 TH AO0 + 
-+ R IH0 DH + 
-+ AW1 K AW1 + 
-+ R + HH + 
-+ UW1 D ER1 + 
-+ T AE1 M + 
-+ EH2 T OY2 + 
-+ IH0 F IY0 + 
-+ EY0 + G + 
-+ AE1 G IY0 + 
-+ AO1 B OW2 + 
-+ HH + AW2 + 
-+ AA0 S EH2 + 
-+ AO1 V UH0 + 
-+ B L AH2 + 
-+ AO2 F EY0 + 
-+ AA1 K IH1 + 
-+ IH0 Z B + 
-+ M AA1 L + 
-+ AA2 + OY2 + 
-+ ER2 SH ER0 + 
-+ IH2 P AY2 + 
-+ OW0 D EY2 + 
-+ UH2 K R + 
-+ AA2 Z EY2 + 
-+ IY2 B OY2 + 
-+ OW2 F AE2 + 
-+ B OW1 TH + 
-+ D IH2 P + 
-+ JH AH1 L + 
-+ T AA0 V + 
-+ R AA2 M + 
-+ CH Y ER1 + 
-+ N SH IH2 + 
-+ OY1 + EY1 + 
-+ OW1 Z AA1 + 
-+ M EY2 S + 
-+ R B OW2 + 
-+ ER1 S AY2 + 
-+ AH1 T EH2 + 
-+ ZH AA1 N + 
-+ L UW0 K + 
-+ IH0 DH AH1 + 
-+ UW2 TH UW2 + 
-+ R Z AA0 + 
-+ SH AO2 D + 
-+ EH0 V AA0 + 
-+ AH1 P L + 
-+ K AE1 D + 
-+ T S L + 
-+ UW2 F AO1 + 
-+ R SH K + 
-+ HH EY1 M + 
-+ IH1 N TH + 
-+ HH L UW0 + 
-+ TH IH1 NG + 
-+ HH OW2 P + 
-+ L TH AW2 + 
-+ HH N EH1 + 
-+ AA1 S EY1 + 
-+ AO2 F AA2 + 
-+ UH1 D AO1 + 
-+ L EH2 SH + 
-+ AY0 D UW0 + 
-+ L P T + 
-+ Z L CH + 
-+ B W IY2 + 
-+ M R TH + 
-+ Y AH0 G + 
-+ IH0 K T + 
-+ M Y EY1 + 
-+ AW1 S AY2 + 
-+ EY2 B AO2 + 
-+ UW1 SH UH0 + 
-+ AO1 T IH0 + 
-+ EH1 N G + 
-+ IY0 + ER0 + 
-+ D + R + 
-+ AW1 CH OW2 + 
-+ AY1 V UW2 + 
-+ AH2 JH ER1 + 
-+ V + AY0 + 
-+ ZH Y AW2 + 
-+ ZH AO1 L + 
-+ G AO2 T + 
-+ K EY0 L + 
-+ EH1 P EH0 + 
-+ B L IH0 + 
-+ AY1 S EH2 + 
-+ L M OW2 + 
-+ G AE0 SH + 
-+ L Y AE1 + 
-+ AE0 S AH1 + 
-+ N UW1 SH + 
-+ AA2 F AA2 + 
-+ SH T + 
-+ HH IY0 + 
-+ G AH0 + 
-+ Y UW2 + 
-+ Y IH1 + 
-+ HH AW1 + 
-+ HH AO2 + 
-+ Z AO2 + 
-+ SH AY1 + 
-+ Z EY1 + 
-+ S IH1 + 
-+ M EH0 + 
-+ G AH2 + 
-+ ZH AO1 + 
-+ Y ER2 + 
-+ IH1 DH + 
-+ IH1 G + 
-+ Z AO1 + 
-+ F OW2 + 
-+ EY2 T + 
-+ S OW1 + 
-+ AE0 NG + 
-+ Z D + 
-+ TH AE2 + 
-+ Y AA1 + 
-+ IH2 L + 
-+ B EY0 + 
-+ S EY2 + 
-+ B UH0 + 
-+ UH2 + 
-+ AA1 + 
++ S IH1 TH AH2 JH AA1 + 
++ AO0 V ER1 SH IY0 L + 
++ S L Y AO0 F IH1 + 
++ SH EY1 JH AO1 G AH1 + 
++ AY1 SH AO1 Z B EY1 + 
++ B OW1 G L ER0 F + 
++ AE1 P R IH0 D AA2 + 
++ CH T AH2 N Z AY0 + 
++ HH EH2 S AH0 B AY0 + 
++ ER2 T EH1 T UW2 G + 
++ S AO1 P UW1 D OW2 + 
++ AA2 S OW2 P UW2 T + 
++ DH ER0 B UW1 + AY2 + 
++ IY1 S K AW1 TH AA2 + 
++ L AA1 ZH D R Z + 
++ B W ER2 B IY2 TH + 
++ DH IY2 Z B D UH2 + 
++ ZH D OY1 N S AE1 + 
++ D EH1 S IY2 SH OW0 + 
++ M AA2 ZH IY1 D ER1 + 
++ IY0 + IY1 NG D AO2 + 
++ P K + DH IY2 JH + 
++ AE1 G Z EH0 F OW2 + 
++ Z EY2 S AO1 B AO1 + 
++ AH0 + ZH UW1 B UW1 + 
++ AA1 P AW2 TH + OW1 + 
++ AH2 P + AE2 B IH0 + 
++ OW1 P AH1 S P IY1 + 
++ IH0 SH AO1 Z V AY1 + 
++ P T + P S UH1 + 
++ HH EY2 DH AA2 CH UW2 + 
++ AW2 + P OW2 SH OY1 + 
++ T EY0 + B L EH1 + 
++ IH0 B UH0 + N EY1 + 
++ ZH + W IY1 G L + 
++ EH0 + AH2 JH AA0 B + 
++ AY1 B AE0 M T OW2 + 
++ AH2 + N Z EY1 L + 
++ S M T AY1 K ER2 + 
++ M AE1 G R IH0 L + 
++ IH2 + AO1 G W AY1 + 
++ AA1 ZH AO1 CH R EH1 + 
++ HH R OW2 + EH0 G + 
++ UW2 F W AO1 + EH2 + 
++ UW1 T Y AO0 V AH2 + 
++ M S UW1 S F OY0 + 
++ EH2 + SH EH0 Z AH1 + 
++ IH1 P R + Z EH1 + 
++ AE1 P S M CH AH0 + 
++ AO2 F UW0 + V EH0 + 
++ AH0 B IH1 Z IH1 P + 
++ IH1 + Y AA1 TH IY2 + 
++ L AO2 R N Y AE0 + 
++ IH0 S IY1 + UW1 SH + 
++ T IY2 V IH2 Z EH1 + 
++ AO0 D + M R JH + 
++ P ER0 B ER1 Z OW1 + 
++ AH0 B AO1 SH IY1 G + 
++ M B Z B AA2 V + 
++ UW1 S + OY2 S ER1 + 
++ R OW2 G EY2 + UH2 + 
++ K EH0 G EH1 K AH0 + 
++ B D + S AO0 S + 
++ EY0 R N F AA1 P + 
++ D AH1 P AH0 G AY2 + 
++ AO0 Z L EY0 K T + 
++ D AH2 F + V OW2 + 
++ Z UH2 + F IH0 L + 
++ JH AO2 G UW2 R M + 
++ SH R AO0 + Y EY0 + 
++ F UH2 SH OW2 V UW0 + 
++ AO1 F AH1 Z B AA1 + 
++ OW0 Z AO1 P S AY1 + 
++ D EY1 + EY2 T IY0 + 
++ AY0 + K R TH AW1 + 
++ UW1 G + T W OY0 + 
++ L + AY1 D IH0 Z + 
++ AW0 R TH AE1 T AW1 + 
++ Y OW2 T AE1 G IY2 + 
++ K AY2 S R TH EY1 + 
++ R V L B L EY2 + 
++ AY0 M P AO0 K AE2 + 
++ N AY1 V OW1 + AY1 + 
++ HH AY1 B AO2 D UH0 + 
++ Z AH0 G OW1 S UW2 + 
++ IH0 B W UW2 CH AE1 + 
++ Y OW2 CH AO2 SH IH1 + 
++ UW2 + TH IY0 D AE0 + 
++ G R AO0 + TH EY2 + 
++ EY2 B L SH UW2 M + 
++ AY0 Z AY1 P AY2 CH + 
++ EY0 T EH2 P UW2 L + 
++ P EY1 TH UW1 L TH + 
++ TH IH2 G AA1 S OY2 + 
++ ZH UW1 D AE1 T OY0 + 
++ OW0 K UW2 K AH0 N + 
++ CH AE2 S UW2 T UW1 + 
++ Z + N TH EH1 L + 
++ S UW1 SH AO1 M B + 
++ B ER1 TH IH0 P AW0 + 
++ SH AW1 TH AE2 B UW1 + 
++ AE1 G AE1 F IH1 D + 
++ OW0 S OW2 L V AH0 + 
++ AH1 K R EH1 + OY2 + 
++ UH1 + UH2 R D UW1 + 
++ UW0 B UW0 N K T + 
++ ER1 CH AA1 P ER2 L + 
++ AA0 L TH AE1 L TH + 
++ AE2 + AO0 N G IY1 + 
++ R AE2 + S EH2 S + 
++ AE2 F S IH0 JH IY1 + 
++ AO2 T W OW2 TH UW1 + 
++ AA2 F S EH2 D AO0 + 
++ Y IY0 + AE2 SH EH0 + 
++ V IH1 D V AE2 K + 
++ V AY1 B OY0 + G + 
++ ZH IH1 G AH0 S EH1 + 
++ N S P IY1 V ER0 + 
++ UH2 K IY1 R V AH2 + 
++ Y UH0 SH UW0 Z AH2 + 
++ IY2 SH N T AE0 NG + 
++ T ER0 T AY2 + UH2 + 
++ S AH0 Z ER0 M S + 
++ HH IH2 TH R B UH1 + 
++ EY1 S Y AW1 TH EY1 + 
++ IY1 F AA1 P EY2 JH + 
++ F AE2 N TH R AE0 + 
++ AE1 TH OW2 TH AA2 D + 
++ OW0 D IH0 SH + M + 
++ JH AE0 K UW1 + AH2 + 
++ AH2 Z EY0 M + CH + 
++ EH0 T S AW1 T AH1 + 
++ B IY2 JH AA0 Z EH1 + 
++ ER2 SH M + AH0 S + 
++ M EY1 Z + P AA0 + 
++ EH1 SH OW2 T L IY1 + 
++ Z ER2 M L AE1 M + 
++ Z EH0 V OW2 JH IH1 + 
++ EH0 L M W AE0 F + 
++ R AE1 P OW1 SH IY2 + 
++ EY0 R SH OW0 S AW1 + 
++ M AE1 B AA0 D IH0 + 
++ L D AE0 NG + AH0 + 
++ R UH2 K OW2 T L + 
++ AH1 S OW1 S L OW2 + 
++ Y OW1 Z + S EY0 + 
++ IY0 D OY1 CH AO2 T + 
++ AY1 F W AA1 D V + 
++ G UW0 S T AO2 D + 
++ EH2 T AW1 S Y IY0 + 
++ S IY2 S ER1 TH ER1 + 
++ IY1 + L IY2 D AY2 + 
++ SH + V AO0 T AW0 + 
++ JH AO2 S F AW2 SH + 
++ UW2 G R EY0 T OW0 + 
++ AE2 P UH1 + Z ER0 + 
++ K AA0 D ER1 G AO2 + 
++ UW0 M P UW2 G IH1 + 
++ AA0 + JH AH0 F AY2 + 
++ AE1 V OY1 S D UH2 + 
++ IY0 + K T + AH1 + 
++ IY1 JH UW1 G IH1 D + 
++ V ER0 Z D R EY0 + 
++ EH2 D Y IH2 T AY2 + 
++ CH W AA2 F AO0 P + 
++ AA1 R S T OW2 G + 
++ G AA0 NG S T EH1 + 
++ G + F T EY1 R + 
++ W UW1 SH R Z OW2 + 
++ JH EY2 K AH2 F ER0 + 
++ T IH0 S AA0 TH IY0 + 
++ B EY2 G AA2 G OY1 + 
++ HH ER2 T AE1 D UH0 + 
++ AE0 T IY1 TH AH1 P + 
++ AA1 ZH Y AO1 V AE0 + 
++ AW1 + N IH0 P IH1 + 
++ UH1 + K EY0 Z AE1 + 
++ IY0 S EY2 + W AY1 + 
++ UW2 K N AH2 SH AH1 + 
++ AH0 JH AA0 TH R AW2 + 
++ R IH1 TH W AY2 N + 
++ ER2 G AE0 CH AO0 TH + 
++ Y OW1 N Z AA1 NG + 
++ ZH UW1 CH + HH OW0 + 
++ Z AE2 Z EH2 V AY2 + 
++ OW2 Z EH0 S EY1 P + 
++ R JH EY1 K N IH2 + 
++ AH0 S AY1 V W AE2 + 
++ EH1 + T IY2 + V + 
++ L AE0 G AW1 D IY2 + 
++ B AH0 B AY1 Z AW1 + 
++ EH1 L TH AA2 D AO2 + 
++ AA1 S + D OW2 NG + 
++ OW0 K UW2 F AA2 ZH + 
++ AH2 B Y IH0 CH AW1 + 
++ IY0 + G L S IY0 + 
++ EY2 D AH1 D AE1 Z + 
++ AA0 B Y OW1 SH IH2 + 
++ P OW1 N F AH2 T + 
++ IH2 TH S IY1 G UW1 + 
++ W EY0 T AE1 T OW2 + 
++ F S AO2 K AH0 SH + 
++ ER1 + IH1 B W AY2 + 
++ EH1 F IH0 K OY1 Z + 
++ AO0 R G OW1 V IY0 + 
++ IY0 N TH AE0 G OW0 + 
++ ER1 D AO1 D V AH0 + 
++ Z AE2 P R V IH2 + 
++ P OW0 Z AE0 K AW0 + 
++ AO2 K OW2 T UH0 L + 
++ P K L UW2 JH AW2 + 
++ AO2 NG D AE2 G L + 
++ UW2 SH IY1 JH UH1 N + 
++ AA1 F L AH2 G EY1 + 
++ EY0 + ER2 + OW2 JH + 
++ UW0 TH EY2 DH OW1 P + 
++ HH IY2 Z OW0 Z AW1 + 
++ AY2 + ER1 M S IY1 + 
++ AH1 K + IY2 K OY0 + 
++ EH0 TH + G AO2 TH + 
++ ER1 SH T + IH2 M + 
++ Y AE2 + UW1 G IH1 + 
++ EH1 T UH0 SH EY2 T + 
++ EY1 + AH0 + UW1 P + 
++ AO1 + P AO0 F EH0 + 
++ AY1 V AO2 V AA1 L + 
++ R UH1 K AA2 N SH + 
++ AY2 G AY2 V EY2 T + 
++ K N AW1 D AO0 S + 
++ F AH1 F AY0 + AO2 + 
++ AH1 T UW0 K W AY1 + 
++ IH0 V ER1 L JH OW0 + 
++ Z AH1 T EY2 K UW2 + 
++ Y ER1 K AY2 K AY2 + 
++ UW2 S IH2 K UW1 D + 
++ K S UW1 T AH2 SH + 
++ EH2 TH AH2 B L TH + 
++ AW1 SH ER1 Z IH2 L + 
++ AA1 K T UW0 K EH1 + 
++ N AW1 Z AA2 M Z + 
++ G R D OW0 S AY2 + 
++ TH IH2 DH ER2 F AO1 + 
++ AE0 + M OY0 + OY2 + 
++ UW1 CH AE2 + AE2 V + 
++ K IH2 D AA1 SH UW0 + 
++ T UW2 D AO2 B OY1 + 
++ V AE1 Z D AA0 B + 
++ IY2 S P IH2 P OY1 + 
++ V AO1 P L Z ER1 + 
++ IY2 JH ER0 P S OW1 + 
++ SH L EY2 G D AO1 + 
++ T W AH1 K + JH + 
++ AH2 B IH1 F AH1 G + 
++ AA2 D AE2 JH AY1 K + 
++ AH0 G D R F OW0 + 
++ IY2 TH AO0 Z UW1 F + 
++ F IH1 B + D IY0 + 
++ EH1 K EH2 K OW1 F + 
++ IY1 D EH0 R F OY0 + 
++ OW2 Z AH1 JH AE2 N + 
++ IH1 G W EY1 F AE2 + 
++ SH EH1 V EH2 Z IH2 + 
++ M OW1 V D AH0 JH + 
++ M UH0 SH AE0 Z AW1 + 
++ JH AA1 ZH + L AE1 + 
++ S + AE1 V AY2 Z + 
++ EH0 K AY0 Z AO0 M + 
++ AH2 N K Y EH2 P + 
++ M AA2 + W IY2 G + 
++ S ER0 B OW2 V AY0 + 
++ AW2 S AE1 Z OW0 L + 
++ HH W IY1 Z OW2 D + 
++ P OY1 + JH + AE2 + 
++ AO1 TH AO1 TH AH2 NG + 
++ DH AA2 JH AY1 S UW0 + 
++ AO1 SH IY1 T AY1 M + 
++ IY2 G + IY0 R Z + 
++ IY1 S R IY0 S K + 
++ EH1 + P S R TH + 
++ L OW0 + P EH1 SH + 
++ UH1 L S IH2 B EH2 + 
++ M ER1 K AH2 + AY2 + 
++ IY0 K UH0 N D AH1 + 
++ K AY1 V W AE1 TH + 
++ L Y AO1 F IH2 T + 
++ T R AW2 + G UW0 + 
++ V IH2 G AE1 SH AW1 + 
++ AE1 + V AO1 B AH0 + 
++ SH EH2 V EH1 G OY2 + 
++ SH AH1 TH AY2 SH UW2 + 
++ R AW2 + AE1 V AY1 + 
++ UH2 R V AA0 S AH1 + 
++ SH R + ER2 + Z + 
++ IH1 Z AH0 K AE1 V + 
++ HH ER1 JH AH0 JH AO1 + 
++ EY1 D ER0 M F ER2 + 
++ DH Z AO2 V W AE2 + 
++ AO1 F L Z AO0 TH + 
++ AO0 P L ER0 B OY0 + 
++ IH1 V UW0 K UW0 M + 
++ UW2 B AH1 F S F + 
++ UW2 Z + JH AW2 TH + 
++ OW2 SH + S ER0 B + 
++ EY1 P W AY2 Z UW2 + 
++ EH1 T AH2 TH S HH + 
++ IY1 SH OW0 NG K OW1 + 
++ AO2 V ER2 K IY1 B + 
++ IY2 B OY1 N S IY1 + 
++ M AA0 P AA0 TH UW2 + 
++ OY1 L V ER2 L T + 
++ UW2 JH Y ER1 L SH + 
++ TH AH1 F EH1 G AE0 + 
++ OW1 B UW1 F IH2 D + 
++ EY2 JH AY0 N D AE0 + 
++ AY2 P R UH2 T R + 
++ IH2 S F AA1 + P + 
++ Y AW2 TH IH0 K IH0 + 
++ AY1 SH EH2 F T L + 
++ M AH2 Z L IY2 NG + 
++ ZH + CH AH0 F EY2 + 
++ P IH2 N SH AA0 T + 
++ B AE2 R F IY2 JH + 
++ M EH1 + EH2 TH AO0 + 
++ OW1 Z B Z + AO2 + 
++ F OW1 B L K UH0 + 
++ EH2 CH IH0 + D IY2 + 
++ M AE0 T IH0 K OW0 + 
++ ER1 L P EH2 D AA1 + 
++ N EH1 SH EH1 F OW1 + 
++ IY2 Z IH2 + AO1 F + 
++ M S AA2 M F AE0 + 
++ AE1 D AW0 + OY2 L + 
++ ER2 G IY2 DH EY2 L + 
++ OW1 B IH1 DH IH1 F + 
++ HH AO2 B AW2 SH OY2 + 
++ HH R EH2 S IH1 TH + 
++ Y AH0 G AA1 V UH2 + 
++ L Z L AE1 SH T + 
++ CH AE1 P UH0 K IH2 + 
++ IY2 CH W AE1 D AW2 + 
++ UW1 M + ZH AA2 TH + 
++ F AY1 + AE2 F R + 
++ OW2 B AA0 K N T + 
++ CH AE0 B IH2 Z ER1 + 
++ N S UH0 L P IY2 + 
++ ZH IY0 T AE1 T EH1 + 
++ AO2 G ER0 K R IY1 + 
++ N IH0 R G AA1 M + 
++ AH1 JH D EY0 Z UW0 + 
++ N EH0 + AY2 K OW0 + 
++ L AY2 Z D IH2 TH + 
++ IY1 N K IY1 DH ER1 + 
++ AA1 F + DH ER1 P + 
++ ZH AA2 SH UW1 JH AA1 + 
++ ER0 P K AW0 R JH + 
++ IY2 M Z AE0 F OY0 + 
++ ER2 D W AO2 + S + 
++ UW1 T AO1 S R IH0 + 
++ P ER0 + AA0 M F + 
++ AO2 + M OY0 + ZH + 
++ V IY2 + AY2 D IY1 + 
++ AA1 T EH2 G W UW1 + 
++ TH AH1 G EY1 S ER0 + 
++ ER1 Z AH1 SH L IY0 + 
++ TH S + D + IH0 + 
++ HH AH2 T EY0 D V + 
++ TH AE0 SH AY1 + G + 
++ IY0 L M AH0 + S + 
++ G R IY2 G AY1 NG + 
++ ER1 B Z UW2 + V + 
++ OW1 + AE0 G Z ER1 + 
++ AO2 SH AA2 B AO1 B + 
++ B Z OW2 + ZH IH1 + 
++ EY2 S + UH2 SH AA1 + 
++ AA0 NG D AW0 L SH + 
++ CH OW1 NG TH AE2 D + 
++ AH2 D UW2 S IH2 V + 
++ AA0 + IH2 F AA0 M + 
++ ER2 L S OY1 Z AE1 + 
++ AE0 S AO2 + K AH0 + 
++ R AH1 G ER0 D IY2 + 
++ Z + AH2 JH AO0 G + 
++ L OY2 CH AE1 SH OW2 + 
++ AH0 B AH0 + AE2 CH + 
++ IY1 F EY1 + DH AE2 + 
++ D EY1 K IH2 V ER0 + 
++ B AY2 SH EH1 + IH0 + 
++ S AW0 + AO0 P ER2 + 
++ JH AY2 D AO2 V OY2 + 
++ N Z L K L IY0 + 
++ P AA0 Z OW0 D EY0 + 
++ OW2 SH AA1 R + AY1 + 
++ AO0 + IY2 P S EH1 + 
++ EY2 G EH2 V EY2 DH + 
++ V IH2 R B AY0 L + 
++ AE1 + AW1 R + L + 
++ L Z AO1 V UW1 SH + 
++ Z AH0 P AA1 JH AH1 + 
++ L D R AH2 V UW2 + 
++ ZH OW2 TH UW2 NG K + 
++ AW1 CH IH2 B Z UW0 + 
++ N AH1 Z IY1 Z EH2 + 
++ EH2 V D Y UW0 K + 
++ AO1 Z IY1 M + ZH + 
++ UW2 V D AO1 N K + 
++ Y AE2 + CH UW2 B + 
++ JH EH2 + OY1 D AH0 + 
++ Z IH2 + OY2 + IH2 + 
++ F AO0 + JH OW0 S + 
++ F S Y UW2 R G + 
++ AY2 NG G AH1 S EH0 + 
++ D EY2 L P + EH2 + 
++ AH0 N Z IY1 T AH0 + 
++ AE1 P S T L S + 
++ N EY1 F AE1 TH IH2 + 
++ R AH1 TH R D AH1 + 
++ P R JH EH0 P ER1 + 
++ EY1 TH R AH2 T EH1 + 
++ K IH2 + IH0 S EY2 + 
++ L B UW0 B OW0 L + 
++ M AH2 T AA1 G EY0 + 
++ OY2 L S IH0 JH IH2 + 
++ L AO1 S + F ER2 + 
++ T AA1 T OW0 D ER0 + 
++ AW1 + Y ER0 F ER1 + 
++ B Y OW1 Z EH2 S + 
++ HH IH1 M P L AW1 + 
++ K UH0 D EY2 F UW2 + 
++ OW2 T AY1 NG TH IY0 + 
++ N IH2 T UW0 S ER0 + 
++ AE0 NG + S AE1 SH + 
++ D EY2 G AE2 B EY2 + 
++ ER2 + Y EY1 B IY2 + 
++ IY1 JH AE2 SH UW1 T + 
++ OY1 T Y AA0 S EY0 + 
++ JH AY0 + EY2 K AA0 + 
++ JH OY1 N + ZH IY2 + 
++ Z V Z IY2 + P + 
++ R UW2 K AO0 F EY2 + 
++ AA1 T AY1 V AE1 M + 
++ B IH2 M Z D OY2 + 
++ F EH2 V R AY2 V + 
++ AH1 M D AY0 T AE2 + 
++ IH0 Z AA1 P W AE2 + 
++ M ER1 JH Y EH2 CH + 
++ N EH1 N SH M EH0 + 
++ AY2 D ER1 + R K + 
++ AA0 V ER2 G IY2 D + 
++ Z L K ER2 + S + 
++ EY0 + TH AW1 + R + 
++ JH IH0 S AH1 L CH + 
++ Y EY0 + AH0 V AO2 + 
++ OW1 P W UW0 B AH0 + 
++ S AA0 S IY1 Z UW1 + 
++ AE1 JH AE2 K T OY0 + 
++ B IH1 Z Y AA1 D + 
++ IH1 F AO1 + DH AH0 + 
++ N D Y AO2 S AY1 + 
++ ZH AW1 D AW0 + V + 
++ R TH AW2 SH AY2 T + 
++ AO2 F Y AO2 NG Z + 
++ EH1 NG Z AH1 + AY2 + 
++ DH Z ER0 Z EY0 M + 
++ AO1 CH AY1 + EH1 NG + 
++ K OW1 M D Y IH0 + 
++ V AA1 Z EH1 G ER2 + 
++ UW2 G UH1 T AW2 M + 
++ W OW2 SH Y OW2 JH + 
++ IH2 F AE2 Z AH1 L + 
++ K IH1 T AO0 T ER0 + 
++ OW1 L B AE2 G Z + 
++ Y IY1 L TH AH1 N + 
++ Z EH0 D IH0 Z AO2 + 
++ EY1 S UW2 N JH IH1 + 
++ OY2 D UW0 + AO1 D + 
++ SH EY1 P ER2 P EH1 + 
++ EH0 + S AO2 SH AE2 + 
++ M IH2 V AW1 Z OW2 + 
++ AO1 + JH AO0 K OY2 + 
++ IH1 NG D V IH0 F + 
++ AH0 M T AO2 K T + 
++ T AW2 SH IH0 S ER0 + 
++ L B Z IH1 D AY2 + 
++ N SH ER0 + W IY2 + 
++ AA0 D IY1 V EH1 L + 
++ W AY2 SH K T AW1 + 
++ R AY2 R JH AY1 N + 
++ AO2 TH EH2 Z AY1 V + 
++ L TH AY0 S IY2 N + 
++ AE1 SH L IY0 Z AA1 + 
++ UW2 NG TH ER2 Z AO2 + 
++ S + R IY2 B D + 
++ UW2 Z ER0 T R AA2 + 
++ R IH1 SH AA2 F OW2 + 
++ UW0 S EY2 K W AE1 + 
++ DH AH1 P OY1 S ER1 + 
++ K + M AH1 P AW1 + 
++ SH M Y AY2 T AA1 + 
++ G UW1 L TH EY2 D + 
++ AA1 TH AE0 B Y ER1 + 
++ R IH1 D IH2 Z AH0 + 
++ V UW1 JH AO2 CH AY2 + 
++ IH0 S F AA2 B EH2 + 
++ JH AA0 Z AE1 + T + 
++ IY2 DH IH1 M T IH1 + 
++ EY2 R D AO1 TH AE2 + 
++ OW0 + ER0 T OW1 T + 
++ AW2 T AW0 + T EH1 + 
++ K N EH1 JH AO0 K + 
++ G AH2 B Z EY0 K + 
++ AH1 K AE1 K T UH0 + 
++ Y AW2 K AO0 G AO1 + 
++ S EH0 K AW1 D IH1 + 
++ Y IY2 TH EY1 JH AO0 + 
++ D AA1 S AY2 T IH2 + 
++ IH0 + IH2 JH + EH0 + 
++ ER2 + ER0 K + UH1 + 
++ V AE1 T IH2 K OY1 + 
++ AH0 S IH1 NG + V + 
++ UW0 T AW1 R CH UH1 + 
++ AH1 D IH0 V ER2 Z + 
++ HH UW2 + UW0 S AE1 + 
++ EY2 S M AW2 + EY1 + 
++ IH1 SH OW1 JH AO0 Z + 
++ P R IY1 TH AO1 TH + 
++ SH EH2 V ER1 D IY0 + 
++ AO2 B IY0 L D AW2 + 
++ B EH1 K + UH1 D + 
++ P AE1 K UH0 K AO2 + 
++ AH1 SH M IY1 G UH2 + 
++ JH OY2 T R Z AW2 + 
++ AW0 T S OW1 G Z + 
++ AO1 TH AY0 + V EY0 + 
++ S AE2 T IY2 D ER1 + 
++ IH2 G + R P IH1 + 
++ P T Y ER1 CH AA2 + 
++ EY0 S IH2 K AA0 TH + 
++ SH AE1 + F AE1 G + 
++ D V + ER2 K UH1 + 
++ P K ER0 T R L + 
++ TH AH1 T + UH1 T + 
++ F AO2 M T R EY2 + 
++ S AA2 + AY2 B OW1 + 
++ W UW2 + AA0 Z AA0 + 
++ SH ER0 P L Y IH1 + 
++ OW0 NG G AO1 G OY1 + 
++ L IY1 SH OW2 P IH1 + 
++ AA2 G AH2 M Z AE2 + 
++ EH1 B D IH1 P AO0 + 
++ R Z AH0 SH N AH0 + 
++ AH2 L JH UH2 SH OW0 + 
++ S AO2 M L JH UH0 + 
++ T AO0 + AW2 N S + 
++ G UW1 S EY2 B AO2 + 
++ IY2 TH EY0 K OW1 NG + 
++ S K UH2 T AA2 K + 
++ HH EH1 S AO0 Z L + 
++ AE0 SH IY1 N Z UW0 + 
++ B UW1 B Z EY0 K + 
++ UW2 S AY2 D IY2 S + 
++ R OY2 S T ER0 L + 
++ R EH0 F L JH AO0 + 
++ K AA1 S AY1 D AE0 + 
++ AA0 Z + OW2 B AE0 + 
++ S T IY2 S N AA0 + 
++ AY1 Z UW0 K N OY2 + 
++ W IH0 + EY0 K N + 
++ UW2 TH AE1 P W OW2 + 
++ P EH0 Z AO2 + AW0 + 
++ IH2 T AY1 S IY2 K + 
++ OW1 P ER0 G AH1 S + 
++ V L F EH2 K AA2 + 
++ EH2 F R B W OW0 + 
++ B AA0 TH ER2 Z AE2 + 
++ AE1 G AY1 V R UW1 + 
++ N + AA2 TH AA2 S + 
++ SH ER2 TH ER2 D AA1 + 
++ AW2 + EY2 B EH2 D + 
++ Y IY2 K Y EH1 F + 
++ UH1 N Z AO1 F OW0 + 
++ AO0 + AO1 + SH OW1 + 
++ Z AA0 V AA2 S AA1 + 
++ ER1 Z IY0 + V AW2 + 
++ SH IH2 + AY2 P AH2 + 
++ M EY2 Z D AA1 TH + 
++ ER0 G Y AY1 + T + 
++ IH2 D IH1 R SH AY1 + 
++ EH1 P AY0 D OW1 JH + 
++ HH OW1 B AO2 SH AW2 + 
++ W AA2 F W IH1 P + 
++ AA2 SH + M EH2 R + 
++ HH EY1 TH AE2 D UH1 + 
++ UW1 F IY1 CH IH1 NG + 
++ OW2 JH IY0 R G AE2 + 
++ UH2 L T IH0 G OY2 + 
++ EH1 V L SH AE1 N + 
++ HH W IH0 D UH2 T + 
++ D AE2 G R Z EY1 + 
++ W AE2 L F EY2 G + 
++ ER1 G UW2 K EH0 S + 
++ AH0 + ER0 M UW2 JH + 
++ D AY1 G ER2 G ER2 + 
++ HH R EY1 Z IY2 N + 
++ S IY0 L V AY1 N + 
++ AE1 P + AY2 S EH2 + 
++ AY0 + W IH1 TH EY0 + 
++ TH OW2 P W EH0 F + 
++ L Y AY1 Z AY1 SH + 
++ UH1 + IH1 L SH UH2 + 
++ T IH2 + R UH0 L + 
++ IH1 K + IH0 F AY2 + 
++ V EH2 K AY2 P EH0 + 
++ G AY1 + AO2 K OY0 + 
++ OW1 K ER0 + EH1 T + 
++ V Z AO2 T L UW1 + 
++ AH2 S F ER1 K AY2 + 
++ AE2 TH UW2 L SH OW0 + 
++ TH + Z IH0 CH IH2 + 
++ K S AY2 Z L AH0 + 
++ AO1 SH AE1 F ER1 K + 
++ AO1 K AY2 G UW1 T + 
++ Z B UW1 V W AO2 + 
++ AY2 P OW0 N T ER2 + 
++ CH ER2 SH IY0 T AW2 + 
++ M AE2 K IY1 + T + 
++ EY0 M Z UW2 F AH0 + 
++ EH1 T EH0 L T ER2 + 
++ R IH2 TH ER0 + UW1 + 
++ V EH0 D AH1 M F + 
++ R AE2 G AA2 V AA2 + 
++ DH IY2 R K N EH2 + 
++ OW2 B D EY1 R Z + 
++ OW2 CH AH0 K + G + 
++ IY1 JH + AA0 G D + 
++ R B UW2 K IY0 K + 
++ AA0 B AY1 Z EH2 NG + 
++ AH0 T OW0 D EY1 T + 
++ AA2 P Y AH2 P IH2 + 
++ V EY1 P AE1 S + 
++ UW2 R K EH1 NG + 
++ S R OW0 Z AY2 + 
++ OY1 T AA0 G AA0 + 
++ IY1 Z L UW0 L + 
++ Z IY1 K + T + 
++ AO1 P EY0 D IY0 + 
++ EY2 S + JH OW2 + 
++ EY2 F OY0 T UH2 + 
++ AH2 T AH0 + ER1 + 
++ T IY1 T S ER0 + 
++ M Z IH2 SH M + 
++ M IH0 SH T R + 
++ K AH1 K S AY1 + 
++ AE2 N F S ER1 + 
++ N ER2 P W AW2 + 
++ AH2 K Y AH1 V + 
++ AH1 Z EY2 R L + 
++ IH1 V IY0 D IH2 + 
++ S ER0 Z Y UW1 + 
++ AO1 G OY2 D IY1 + 
++ AY1 K L IY1 M + 
++ ER1 JH IH2 F AO0 + 
++ EH0 + AO0 P EY2 + 
++ UW0 + D R ER2 + 
++ AA1 K IH0 + V + 
++ Z AE2 R D R + 
++ AA2 D UW2 SH AW0 + 
++ N UW1 + G OY2 + 
++ K ER1 F S AE2 + 
++ ER1 T EY2 P ER1 + 
++ AH0 P OW0 D AE0 + 
++ M EH1 TH AH2 T + 
++ AA2 S R + TH + 
++ EH0 + R F R + 
++ R EY0 + S AO2 + 
++ AE1 B AA1 P ER2 + 
++ AE2 Z AA2 + AA2 + 
++ SH UH0 R F EH2 + 
++ S EH2 + AA2 V + 
++ N TH R Z ER2 + 
++ JH AW1 SH AA2 T + 
++ OY1 + UW2 B ER0 + 
++ IY0 + AH2 T ER1 + 
++ AO2 + P Y UH2 + 
++ ER1 V AA2 T IY2 + 
++ F AW2 S R AA1 + 
++ L K S AY2 T + 
++ Y AW2 L T IH2 + 
++ L AW1 L K AW1 + 
++ P AA0 P Y ER2 + 
++ B + V + AW0 + 
++ ER2 S L + AE0 + 
++ W AE1 T AH1 S + 
++ HH R T AE1 SH + 
++ N S EH1 TH AY1 + 
++ Y IH1 D + V + 
++ UW2 D V AY1 M + 
++ B L EY0 S IY2 + 
++ AA2 ZH EY2 TH OW1 + 
++ B D UH1 CH EY0 + 
++ B ER1 + V AH2 + 
++ W AY1 + AE0 D + 
++ G AW1 TH UW1 B + 
++ EH0 TH EY0 + OW2 + 
++ AY1 + OW0 Z AE2 + 
++ T IH2 TH EH1 F + 
++ AA1 + EH1 P AO0 + 
++ AO2 G EY0 K UW2 + 
++ EH1 D IH2 R D + 
++ P K AE0 B AE0 + 
++ N OW1 + V R + 
++ EH1 SH AA2 + N + 
++ P K UH1 K IH0 + 
++ UH2 T OW2 CH EY1 + 
++ AO1 SH N Z ER1 + 
++ DH IH0 K AE2 D + 
++ M R K OW0 L + 
++ OW2 P IY2 JH EH2 + 
++ EH2 D AA1 K UH0 + 
++ B AO2 S AH0 TH + 
++ DH ER1 S K AA1 + 
++ L M ER0 B EY2 + 
++ D EY1 F EH2 S + 
++ ZH + OY2 S EY2 + 
++ IY1 V ER2 + IY0 + 
++ T AA1 SH R EH0 + 
++ UW0 S IH1 + AY2 + 
++ W UW2 B AW1 S + 
++ Z ER0 F R AY0 + 
++ N K + S EY1 + 
++ AA1 + M AH1 V + 
++ AA2 + B IH0 TH + 
++ AY0 Z EY0 S AW0 + 
++ AA2 G OW0 + K + 
++ L W IH2 G EY1 + 
++ T UW1 F W IY1 + 
++ V ER2 B D Z + 
++ G EH2 P AE2 G + 
++ AO1 K IH2 ZH UW2 + 
++ SH IY2 SH IH1 JH + 
++ ZH AA2 P IH2 JH + 
++ V IH1 N T IY2 + 
++ SH UH1 R CH AH0 + 
++ AY1 CH IY2 SH AH0 + 
++ D AO1 F IY2 T + 
++ DH AH1 + M AA2 + 
++ UH1 D AH1 D ER2 + 
++ ER1 D IH1 G AE0 + 
++ AH2 SH + AE2 P + 
++ AH2 NG D AE1 L + 
++ B AH1 G OW0 D + 
++ EH2 S R G AY0 + 
++ S IH0 F + OY2 + 
++ B + DH AA2 M + 
++ UW0 S IH2 K AE2 + 
++ AH2 K N OY0 L + 
++ EY1 DH AH2 V AO2 + 
++ P AY2 SH AA1 B + 
++ ZH IH0 T EH2 D + 
++ V OW2 + P AO1 + 
++ Z EH2 Z IY1 T + 
++ HH AH0 S W AH1 + 
++ HH IH1 L Z IH2 + 
++ AA1 + IH2 TH IY0 + 
++ OW2 JH IH0 T AW2 + 
++ AO1 F AH2 Z OW1 + 
++ AW0 S IH1 DH AE1 + 
++ P L M AA1 Z + 
++ AO1 Z EY0 S EH2 + 
++ L F EY1 G EY2 + 
++ AO2 SH AO1 D IY2 + 
++ OY1 S EH1 K IY2 + 
++ B OY1 D AH0 B + 
++ N CH AE1 D IY1 + 
++ G AH0 D Y UH2 + 
++ F AO1 P UW1 NG + 
++ OW1 T EY2 DH AE1 + 
++ B OY2 DH OW1 NG + 
++ AH1 + UW1 P AW0 + 
++ AE0 T AH2 B EH2 + 
++ OY2 Z Y ER2 F + 
++ DH EH1 V ER0 D + 
++ N AW2 T AH0 T + 
++ AE2 T + L SH + 
++ R JH OW1 B ER0 + 
++ AO0 T UW0 T EY2 + 
++ AW2 D IY1 + AW0 + 
++ AA1 K AA2 Z EY0 + 
++ IH0 G L TH IY2 + 
++ P R B D AO0 + 
++ UW2 TH UW2 P UW2 + 
++ UH1 K R K AY2 + 
++ UW1 + AY1 S AO1 + 
++ AY2 SH ER1 P IY0 + 
++ ER2 SH EY1 TH OW1 + 
++ OY2 L V ER1 G + 
++ HH UH1 T + S + 
++ K EH1 K AW1 S + 
++ IH0 N S UW2 M + 
++ M AA1 T AO1 P + 
++ Y AY2 CH UH2 SH + 
++ TH OW2 Z L AH2 + 
++ IY1 SH IH1 T IH0 + 
++ AA1 B AO2 F UH1 + 
++ Y EH2 K L OW2 + 
++ W EY0 + HH UW2 + 
++ JH AY0 L B UH1 + 
++ SH AY0 M D AE0 + 
++ IY1 V AH0 F AO0 + 
++ K + K OW2 G + 
++ EH2 TH + G EY0 + 
++ K S IH2 T AH0 + 
++ N IH0 R + OW0 + 
++ IY2 T ER1 S EY2 + 
++ DH AH1 + JH IH0 + 
++ B L AO0 R G + 
++ V AH2 K AA0 S + 
++ ER0 D AW1 + AA0 + 
++ F OW1 S EY0 N + 
++ EH1 + AO0 D R + 
++ SH T AH1 Z ER2 + 
++ OW1 L B Z AH1 + 
++ OW1 S EH0 G OW0 + 
++ OW1 B AA0 K AH2 + 
++ DH IH1 JH EY2 JH + 
++ AA1 G AO0 P ER0 + 
++ AA1 K IH1 Z EY0 + 
++ IH0 B IY2 S IH1 + 
++ UH2 T + TH AH2 + 
++ ER1 K ER1 T AY2 + 
++ AO1 NG G AY1 S + 
++ AE2 R CH Y UW2 + 
++ AO0 TH ER0 TH R + 
++ IY1 SH N AW2 TH + 
++ AW0 T EY1 F AO2 + 
++ AH1 T + OW1 S + 
++ S EY2 F AY2 G + 
++ AE2 + AY1 SH AE2 + 
++ AH1 G Z V IY2 + 
++ OY2 T EH2 N TH + 
++ EH0 R F ER1 JH + 
++ M AW0 T IY1 L + 
++ K IH0 DH IH1 DH + 
++ HH AO0 TH AO2 S + 
++ ER2 G D OW2 B + 
++ IY2 V UW2 V IH1 + 
++ AW1 Z UW2 NG G + 
++ EH1 S IH1 B AY0 + 
++ IH1 TH UH1 + N + 
++ EH2 SH ER2 D EY2 + 
++ SH IY1 K IY2 S + 
++ L IH2 M P AY0 + 
++ HH AE0 S P AO2 + 
++ T W AY2 CH AO0 + 
++ W EY1 K N AO0 + 
++ V R AH2 K ER0 + 
++ P + W ER0 F + 
++ K N ER2 + EY0 + 
++ SH AA1 P T IH2 + 
++ K AE2 SH W UW1 + 
++ G AA2 D Z AW1 + 
++ AH0 D AE1 D AA1 + 
++ W AE1 V + AA2 + 
++ L T + SH ER2 + 
++ AH0 + IH0 F T + 
++ AH1 F EH1 V EH2 + 
++ ZH EH1 S IY2 T + 
++ EH0 N D AH2 M + 
++ AA0 D AW2 T AW2 + 
++ OW2 T AA1 K OW1 + 
++ F AO1 TH AO1 NG + 
++ G IY1 T Y AO2 + 
++ IH2 S OW1 Z EY1 + 
++ N UH1 + AO0 F + 
++ V EY1 V W EY1 + 
++ IH2 D AO1 P AA0 + 
++ S AH0 K AW1 S + 
++ ER1 L SH + DH + 
++ AY1 F AH2 Z AA0 + 
++ W UW2 SH AO1 M + 
++ R T AE1 P T + 
++ AO1 B EH1 + AW0 + 
++ Z AO2 TH EH0 L + 
++ EY1 P K EH0 NG + 
++ AA1 P AE1 + AA1 + 
++ W AH2 D R IH1 + 
++ L ER1 B IY1 R + 
++ F UW2 B + EY0 + 
++ UW1 N TH EH2 T + 
++ UW1 R S P AO2 + 
++ IH0 T AA2 + AE1 + 
++ AW2 N + Z AY2 + 
++ IY0 D AE0 K AA2 + 
++ IH1 T + AH0 M + 
++ S HH IH0 + EY1 + 
++ T AA1 F S AE1 + 
++ OW0 N CH R ER0 + 
++ AH2 + IH1 SH L + 
++ JH ER0 F IY2 D + 
++ IY1 JH ER2 + ZH + 
++ D V AO1 G OW0 + 
++ G AE1 S AE1 R + 
++ S AH1 B ER0 K + 
++ M AW1 TH S EH0 + 
++ ER1 S N SH AE1 + 
++ AH2 L Z AY1 B + 
++ AW0 T L S ER1 + 
++ AO0 D IH0 JH AA1 + 
++ AY2 D R P OW0 + 
++ AO1 SH OY2 CH IH1 + 
++ HH IH2 V ER1 Z + 
++ OY1 N T W OY1 + 
++ AW2 + B R EH1 + 
++ R K IY1 L K + 
++ T UW1 R F EY1 + 
++ AH2 L T AH0 N + 
++ AO0 Z IH0 S UW2 + 
++ N IH2 V AA2 JH + 
++ K AE0 P ER2 P + 
++ R EY0 + SH AA2 + 
++ DH EH1 D UH2 T + 
++ D ER2 T IH1 CH + 
++ M AO2 R V UH2 + 
++ B UW2 K AA2 Z + 
++ K EH2 D OW1 F + 
++ G EH2 B + IH2 + 
++ B Y OW1 V AO1 + 
++ AH1 TH EY2 D IY2 + 
++ IY2 JH IY2 DH EH1 + 
++ Z AH0 T EY2 G + 
++ B IH0 DH EH1 K + 
++ V AH1 K R T + 
++ EH2 G AA1 P EY1 + 
++ AH0 K ER2 TH AH1 + 
++ TH IY2 R S T + 
++ AO1 + ER1 + AO2 + 
++ T R AA0 T IY1 + 
++ OW2 CH EH2 Z AW1 + 
++ ZH IH0 V IY1 TH + 
++ AH0 R T OY0 D + 
++ P AA2 K R AO1 + 
++ M IH1 R K ER2 + 
++ W OW0 + TH AA0 + 
++ AA1 V AY2 Z EH2 + 
++ B AH1 + G ER2 + 
++ IH0 Z AH0 F IY0 + 
++ G IY1 T UH1 K + 
++ ZH AO0 N SH AE0 + 
++ G EH0 + R AW2 + 
++ T AE1 + AH2 T + 
++ ZH OW2 G ER1 CH + 
++ N UW2 P EH1 F + 
++ SH ER1 TH OW2 B + 
++ M S UW0 + AW1 + 
++ OW1 F OW1 SH AH1 + 
++ B IH0 K T UW2 + 
++ AH0 S AA0 V Z + 
++ AH2 M F AH0 L + 
++ IH0 + V ER1 K + 
++ F W AO1 L Z + 
++ SH UW0 + N IY0 + 
++ IH2 SH EH0 D Z + 
++ AE0 N Z Y AO1 + 
++ TH R P AW1 N + 
++ AW2 N D W OW2 + 
++ G L V Z AO1 + 
++ IH0 F AA0 B AY0 + 
++ AH1 F T L AW1 + 
++ JH + AW1 + T + 
++ JH EH2 B + S + 
++ AO0 F T L AY1 + 
++ R IH1 V D AH2 + 
++ AA1 SH AO2 + DH + 
++ EH1 M L W IH0 + 
++ G OW1 CH Y AO0 + 
++ K N AE0 T OW1 + 
++ JH EY2 K W IY2 + 
++ AW2 SH L M IY0 + 
++ AA0 TH S F IH0 + 
++ R AH2 SH IY1 D + 
++ OY1 S N AA0 D + 
++ S UW1 D AH2 F + 
++ UW2 Z UH2 SH AW0 + 
++ ZH + UW2 S AW1 + 
++ B IH0 N D AH1 + 
++ N D ER1 + D + 
++ AA2 P AY0 + Z + 
++ Y AO2 R T EH0 + 
++ AY2 G Z + UH2 + 
++ V D AH0 JH AY1 + 
++ EH2 + IH1 CH ER0 + 
++ N F UW2 S OW0 + 
++ W AE2 N JH AE1 + 
++ V AE2 R P + 
++ AY1 B IH0 TH + 
++ EY2 T R AO0 + 
++ ZH AH2 + TH + 
++ Z ER2 B AW2 + 
++ UW1 G D AA0 + 
++ N D + IY2 + 
++ SH W AH2 M + 
++ T AA0 F AA2 + 
++ EY0 + M EH1 + 
++ EY0 + L AE0 + 
++ L D AW1 L + 
++ AO1 Z AH2 G + 
++ DH EH2 NG TH + 
++ AE1 R TH AE0 + 
++ Z AY1 V UH0 + 
++ SH IY1 T IY1 + 
++ N EY1 Z AW1 + 
++ AE2 D + IH1 + 
++ SH OW2 SH OW2 + 
++ AA1 B AA0 G + 
++ AE0 + K AY2 + 
++ L P Y ER2 + 
++ JH AA2 R G + 
++ W AA0 G EH1 + 
++ Y AH0 K EY2 + 
++ W AA2 B ER1 + 
++ AA2 T OY2 N + 
++ S IH2 L T + 
++ JH AE1 N D + 
++ JH AH1 L B + 
++ B AE1 T IY1 + 
++ UW2 R V EY0 + 
++ M EH0 P UW2 + 
++ AY0 L P IY2 + 
++ Z UW2 + AA0 + 
++ L ER2 P AH1 + 
++ ZH AO2 B EY2 + 
++ AA0 V Y EY0 + 
++ M AE0 S EH2 + 
++ IY0 G AH1 M + 
++ R SH IY2 G + 
++ AA2 B AE2 JH + 
++ EH1 D EY1 N + 
++ ER1 N S AA2 + 
++ OW1 SH UW1 NG + 
++ L AW0 L K + 
++ IH1 S + ZH + 
++ EH0 K AY2 S + 
++ IH1 G EY2 TH + 
++ M EY2 CH AH1 + 
++ UH1 D AO1 G + 
++ Z Y EY0 L + 
++ D AH0 V AA0 + 
++ AE0 Z Y AE2 + 
++ F AE2 S UH1 + 
++ ZH IH2 NG Z + 
++ EY2 K R P + 
++ B AO1 G OW1 + 
++ IY1 + JH AA2 + 
++ AY2 SH L Z + 
++ N EY1 F AO0 + 
++ UH2 K T ER2 + 
++ UW2 + AW1 SH + 
++ OW2 K Y ER2 + 
++ SH AW1 CH UH1 + 
++ ER2 L S T + 
++ EH2 TH OW1 T + 
++ EH1 SH K UH0 + 
++ D AO1 CH AO2 + 
++ EH0 Z OW2 T + 
++ TH AW1 T UH1 + 
++ IY2 S AO0 R + 
++ EH2 TH AH0 S + 
++ AA2 F W EH0 + 
++ IY1 NG D AH0 + 
++ R AY2 T UH1 + 
++ ZH UH1 SH IY0 + 
++ Z IH0 TH AY2 + 
++ EY2 V AH0 NG + 
++ R UW1 P ER0 + 
++ V UW0 K EY1 + 
++ AH1 N + EH2 + 
++ Y AH2 JH AH2 + 
++ TH AE2 T IH2 + 
++ AA2 V IY1 V + 
++ G IY1 D AA2 + 
++ HH AY1 + TH + 
++ IH1 V IH1 D + 
++ K W EH2 R + 
++ N AE1 R JH + 
++ W IY1 P AY1 + 
++ N IY2 P IH1 + 
++ IH2 S P T + 
++ UW0 + AA2 NG + 
++ IH1 K Y AE2 + 
++ AY1 S F OY0 + 
++ R S L IH2 + 
++ M AO1 F IH1 + 
++ ZH EY1 B UH1 + 
++ K AH2 TH UH1 + 
++ OW0 + T AW2 + 
++ V W ER1 SH + 
++ EY1 DH AE2 P + 
++ B UW0 TH AH1 + 
++ HH IY0 G AA1 + 
++ AO2 P W EY1 + 
++ AY2 B EY0 K + 
++ AA1 S IY2 SH + 
++ B AA1 F AY1 + 
++ IH2 L TH UW1 + 
++ B OY1 Z UW2 + 
++ ZH UH2 SH K + 
++ L AE2 + Z + 
++ Y IH1 F T + 
++ EH1 P IH1 NG + 
++ AO0 P AE1 SH + 
++ S K W IY0 + 
++ DH AW2 M D + 
++ UW0 T OW1 G + 
++ AW1 D V AA1 + 
++ AA2 ZH D UW0 + 
++ R EH2 R N + 
++ AO0 TH AW1 T + 
++ JH AA1 SH UW2 + 
++ Z UH2 SH AO1 + 
++ V AO1 F IH0 + 
++ IY2 TH IY2 M + 
++ AA1 + DH AH2 + 
++ HH IH2 G IH0 + 
++ B IY2 F EY1 + 
++ AE1 S AY2 M + 
++ AE0 G ER0 K + 
++ AA0 Z UW2 S + 
++ S M EY2 S + 
++ SH ER2 JH ER2 + 
++ ER2 TH AE0 N + 
++ EY2 L D R + 
++ EH2 SH OW2 NG + 
++ AE2 G OW1 M + 
++ G AE2 P K + 
++ L OW1 G AO2 + 
++ AH0 SH AA1 T + 
++ G + M AO2 + 
++ EH2 TH + AO1 + 
++ IY1 JH IH1 B + 
++ AH1 B AO2 TH + 
++ AE1 SH K T + 
++ HH AE2 JH UH0 + 
++ AO0 + ER0 Z + 
++ K IH2 + OY1 + 
++ IY0 G AY0 M + 
++ SH AY1 G EH2 + 
++ L IH2 T OY2 + 
++ JH AO2 P OW0 + 
++ JH IH0 + AE0 + 
++ F IY2 F UH1 + 
++ Y AE1 S EH2 + 
++ ZH ER1 TH ER2 + 
++ AW1 Z AW2 K + 
++ V UW2 F AH0 + 
++ Z IY1 Z AY2 + 
++ B R K AE1 + 
++ W OW2 B R + 
++ JH AE0 P UW0 + 
++ EH1 JH EY2 M + 
++ P AH2 K OW1 + 
++ S AY1 D ER1 + 
++ EY1 B AH0 L + 
++ UW2 T ER1 JH + 
++ R IY1 K AA2 + 
++ G AE0 D OW0 + 
++ AA0 + S AO0 + 
++ V AH2 L Z + 
++ F S L UH2 + 
++ V EY1 JH UW1 + 
++ D AO1 S K + 
++ B OY0 Z AA1 + 
++ V AY1 F S + 
++ AO0 TH S ER2 + 
++ EY2 Z D EY2 + 
++ JH IY2 D UH1 + 
++ ZH OW2 G R + 
++ AE1 B + AA2 + 
++ EH1 P EH2 M + 
++ F OW1 S OW0 + 
++ P AO2 N S + 
++ UW2 V IH0 L + 
++ ER0 G AY1 D + 
++ K N F ER1 + 
++ D AA1 S AE0 + 
++ M AH2 T OW1 + 
++ JH W AW1 S + 
++ OW0 + Z OW1 + 
++ M AE0 G OW1 + 
++ AA1 ZH AA1 F + 
++ UW2 N JH AH1 + 
++ F IH1 NG Z + 
++ N + S ER2 + 
++ B OW2 + B + 
++ AA2 P + IH1 + 
++ AH1 SH R IY2 + 
++ S M OY2 CH + 
++ AE0 L T AW2 + 
++ AW2 T UW1 K + 
++ M T EH1 K + 
++ AH2 F AA0 N + 
++ AA0 T OW1 M + 
++ ER2 P AW1 SH + 
++ ER0 S AY2 NG + 
++ R AE0 D OY2 + 
++ Z EH0 R D + 
++ TH IH2 P IH0 + 
++ AH0 P AO0 L + 
++ DH IH1 JH IH0 + 
++ P UW2 CH IY2 + 
++ OW1 T ER1 Z + 
++ AH0 + JH OW1 + 
++ AH0 P W AO0 + 
++ AO0 L B UW2 + 
++ IY2 R K AE0 + 
++ DH EH2 B ER1 + 
++ K IH0 T AE1 + 
++ IH0 B UW1 D + 
++ HH IY1 SH ER1 + 
++ IY1 K N OW0 + 
++ P AO0 TH AA0 + 
++ AO1 K S AH0 + 
++ ER1 S ER0 G + 
++ R K UW1 N + 
++ OY1 Z AA0 T + 
++ S OY1 Z + 
++ JH + EY1 + 
++ L TH IH2 + 
++ P OY2 N + 
++ T N AE1 + 
++ SH IH2 M + 
++ ER2 M T + 
++ TH R OY0 + 
++ ER2 + AW1 + 
++ B AY2 D + 
++ ER2 TH EH1 + 
++ AH0 + OY1 + 
++ AH0 K UH0 + 
++ IY1 DH OW1 + 
++ AH2 S AW2 + 
++ ER1 G IH2 + 
++ L D EY2 + 
++ L + AW2 + 
++ AA2 R M + 
++ ZH AY1 D + 
++ AW0 + Z + 
++ SH AO0 G + 
++ IY1 K UH0 + 
++ S W IY0 + 
++ JH IY2 D + 
++ EH2 K IH0 + 
++ D R EY2 + 
++ AO1 D AW0 + 
++ N ER0 T + 
++ P EY1 JH + 
++ ZH AY1 T + 
++ B R AO2 + 
++ IH2 K ER0 + 
++ Y AW2 S + 
++ AA1 K ER2 + 
++ ER0 F IY1 + 
++ T R D + 
++ UW1 V IY2 + 
++ AW0 T EY0 + 
++ IH0 JH AW2 + 
++ AY1 SH AW2 + 
++ EH2 K R + 
++ ER0 K AO2 + 
++ AO2 NG Z + 
++ ZH OW2 P + 
++ AH1 V OW0 + 
++ M Y EH1 + 
++ EH2 M L + 
++ B IY0 S + 
++ UW0 B ER0 + 
++ AE2 CH AH1 + 
++ OW2 Z IY2 + 
++ JH OW2 TH + 
++ AA1 + AH0 + 
++ UH1 SH AH1 + 
++ IY0 S T + 
++ AH0 S OW2 + 
++ K IH0 V + 
++ EH0 S IY1 + 
++ AW1 K AA2 + 
++ L AE1 TH + 
++ OY2 CH OY1 + 
++ UW1 B AW0 + 
++ UW1 Z IH2 + 
++ K AH2 K + 
++ ER2 B OY2 + 
++ B AH0 D + 
++ P AA1 K + 
++ B ER1 D + 
++ ER2 K OY0 + 
++ P OW1 TH + 
++ T R AE2 + 
++ ZH ER2 P + 
++ P UW2 L + 
++ ER2 P AW1 + 
++ IH0 TH AA0 + 
++ AO0 TH UH2 + 
++ OW2 V OW2 + 
++ EY1 TH EY0 + 
++ K W AO0 + 
++ AA0 Z AW2 + 
++ ZH D EY1 + 
++ IH2 JH AE1 + 
++ AO2 G IH0 + 
++ AH2 SH AY2 + 
++ EH1 P AW0 + 
++ AE1 D AY1 + 
++ R SH IH2 + 
++ EH1 V AH2 + 
++ AO0 S ER1 + 
++ JH AO0 S + 
++ AA0 B AW1 + 
++ Y IY2 R + 
++ EH1 S F + 
++ T AH0 JH + 
++ Z AA2 B + 
++ TH R EH2 + 
++ JH AE2 T + 
++ R AY1 R + 
++ ER0 D UW1 + 
++ AY1 D Z + 
++ R SH EH1 + 
++ ER1 JH AO1 + 
++ N AY2 B + 
++ AH2 + HH + 
++ IH0 T EY0 + 
++ AW0 N Z + 
++ EH2 F T + 
++ UW0 K L + 
++ AO1 G AY1 + 
++ T IY2 F + 
++ AH0 Z UW1 + 
++ IY1 SH AY1 + 
++ AH2 B EY0 + 
++ IY1 T EH2 + 
++ F AE2 G + 
++ AE0 F EH2 + 
++ OW2 + AY2 + 
++ L JH AO2 + 
++ AE2 G EH0 + 
++ AA2 SH OW1 + 
++ TH AO1 B + 
++ AO1 + AH2 + 
++ Y AW1 M + 
++ L F ER0 + 
++ EH1 TH AW1 + 
++ P OW1 JH + 
++ SH IH0 T + 
++ IH2 T ER2 + 
++ AY0 T AO1 + 
++ K R IY0 + 
++ AH1 B UW2 + 
++ L OW1 NG + 
++ IH1 M P + 
++ UH2 D ER0 + 
++ TH R IH1 + 
++ N W AY1 + 
++ AH2 G AE2 + 
++ IH0 V OY0 + 
++ AO2 D IH1 + 
++ Y AY0 S + 
++ EH2 SH EH0 + 
++ ZH UW0 Z + 
++ EY2 Z AA2 + 
++ EH2 Z UW0 + 
++ EH0 V AY1 + 
++ AY1 P OW2 + 
++ IH0 TH EH0 + 
++ UW1 SH UW1 + 
++ D EY1 S + 
++ OW0 + P + 
++ AH2 V IH0 + 
++ Z ER1 JH + 
++ S + HH + 
++ EY2 K UW0 + 
++ AA2 SH UH0 + 
++ R OW0 NG + 
++ P K EH1 + 
++ JH AW1 D + 
++ EY2 B AA1 + 
++ IY1 K IH0 + 
++ G W UW1 + 
++ F R P + 
++ ER2 B EY2 + 
++ G AW2 SH + 
++ EY1 + AA1 + 
++ M UW1 SH + 
++ AA2 SH UH1 + 
++ R IH0 M + 
++ AA0 S ER1 + 
++ L D ER1 + 
++ ER2 F OW1 + 
++ DH IH1 M + 
++ AH2 + UH2 + 
++ P IY2 T + 
++ Z UW2 + 
++ UH1 T + 
++ S M + 
++ ZH EH2 + 
++ EH0 T + 
++ W ER1 + 
++ R AY2 + 
++ UW0 Z + 
++ JH AH1 + 
++ TH AY1 + 
++ L OW0 + 
++ HH OW2 + 
++ W OY0 + 
++ G D + 
++ EH0 NG + 
++ DH ER1 + 
++ W AA2 + 
++ P IY2 + 
++ ZH ER2 + 
++ S M + 
++ EH2 V + 
++ F OY1 + 
++ W AY0 + 
++ SH AE2 + 
++ V D + 
++ ZH AW2 + 
++ F ER1 + 
++ D ER1 + 
++ B IH2 + 
++ EY2 + 
++ AO2 + 

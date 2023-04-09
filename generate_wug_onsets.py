@@ -1,4 +1,4 @@
-import format_input
+import format_corpus
 import random
 random.seed(1)
 #consonants: list of string of ARPABET consonants
@@ -46,47 +46,55 @@ def classify_profile(sonorities):
         return "rise"
     elif fall:
         return "fall"
+    elif plateau:
+        return "plateau"
     elif nonmon_fall:
         return "nonmonotonic fall"
     elif nonmon_rise:
         return "nonmonotonic rise"
-    elif plateau:
-        return "plateau"
     else:
         return "other"
 
 
 if __name__ == "__main__":
+    unsyll_dir = "unsyllabified"
+    syll_dir = "syllabified"
+    onsets_dir = "just_onsets"
+    word_init_onsets_dir = "just_word_initial_onsets"
+    base_folder = "cleaned/"
     #Get English consonants and vowels
     phone_types, consonants = format_input.read_cmu_phone_file("cmudict-0.7b.phones.txt")
     vowels = [vowel+"2" for vowel in phone_types["vowel"]]
 
     #Make all possible 4-gram combinations of consonants (no geminate) crossed with each possible monophthong
     #(using recursive function)
-    possible_onsets = onset_possibilities(4, [], consonants)
-
+    possible_onsets = onset_possibilities(2, [], consonants)
+    possible_onsets.sort()
     #Combine each possible onset with each possible vowel
     #wugs = [onset + [vowel] for onset in possible_onsets for vowel in vowels]
     #Sample some of the onsets; all ~30,000 is too much
-    possible_onsets = random.sample(possible_onsets, 3000)
+    #possible_onsets = random.sample(possible_onsets, 3000)
     wugs = [onset + ["IY2"] for onset in possible_onsets]
 
     #Sample some of the wugs; all ~3million combinations is too much :(
     #wugs = random.sample(wugs, 3000)
 
     #Output wugs
-    wug_file = open("sonority_wugs.txt", "w+")
-    wug_file_syll = open("syll_sonority_wugs.txt", "w+")
+    wug_file = open(base_folder+unsyll_dir+"/sonority_wugs.txt", "w+")
+    wug_file_syll = open(base_folder+syll_dir+"/syll_sonority_wugs.txt", "w+")
     for wug in wugs:
         wug_file.write(" ".join(wug) + "\n")
         wug_file_syll.write("+ "+" ".join(wug) + " +" + "\n")
     #Output onset wugs
-    onset_only_wugs = open("onset_sonority_wugs.txt", "w+")
+    onset_only_wugs_i = open(base_folder+word_init_onsets_dir+"/onset_sonority_wugs.txt", "w+")
+    onset_only_wugs_m = open(base_folder+onsets_dir+"/onset_sonority_wugs.txt", "w+")
     for onset in possible_onsets:
-        onset_only_wugs.write(" ".join(onset) + "\n")
+        onset_only_wugs_i.write(" ".join(onset) + "\n")
+        onset_only_wugs_m.write(" ".join(onset) + "\n")
     wug_file.close()
     wug_file_syll.close()
-    onset_only_wugs.close()
+    onset_only_wugs_i.close()
+    onset_only_wugs_m.close()
 
     #Output wug to sonority mapping
     # Define sonority scale (use enums?)
