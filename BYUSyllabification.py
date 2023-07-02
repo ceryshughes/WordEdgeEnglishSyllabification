@@ -1,17 +1,26 @@
 from enum import Enum
 
 class MedialSyllabification:
-    def __init__(self, transcription, cluster, coda, onset, boundary, numResponses, propResponses):
+    def __init__(self, transcription, cluster, coda, onset, boundary,
+                 numResponses, propResponses, preceding_stress = None, stress_transcription = None, lax_vowel=None):
         self.transcription = transcription #List of string
         self.cluster = cluster #List of string
         self.coda = coda  # List of string  - coda of first syllable
         self.onset = onset #List of string - onset of second syllable
+        self.boundary = boundary  # BoundaryCode enum
+        self.numResponses = numResponses
+        self.propResponses = propResponses
         #self.vowel = vowel #String
         #self.syll1 = syll1
         #self.syll2 = syll2
-        self.boundary = boundary #BoundaryCode enum
-        self.numResponses = numResponses
-        self.propResponses = propResponses
+
+        #TODO: add preceding stress field, optional
+        self.preceding_stress = preceding_stress #Optional: None if undefined, True if the vowel preceding
+        #the medial cluster is stressed, False if it's unstressed
+        self.stress_transcription = stress_transcription #None if preceding_stress is None, a list of string otherwise
+        self.lax_vowel = lax_vowel #True iff the vowel preceding the syllable boundary is lax:
+        #AE, AH, AO, UH, EH, IH, AX
+
 
 #Data file codes for (replace . with X) syllable boundary location
 class BoundaryCode(Enum):

@@ -65,6 +65,7 @@ def read_cmu_phone_file(file_name):
 # if counts=True, returns a dictionary of word-initial onsets to their counts
 def get_legal_onsets(transcripts, vowels, remove_exotics = False, counts = False):
     onsets = defaultdict(lambda: 0)
+    example_words = {}
     for transcrip in transcripts:
         onset = []
         for phone in transcrip:
@@ -73,13 +74,23 @@ def get_legal_onsets(transcripts, vowels, remove_exotics = False, counts = False
             else:
                 onset.append(phone)
         onsets[(tuple(onset))] += 1
+        if len(onset) == 0:
+            print(transcrip)
+        if tuple(onset) not in example_words:
+            example_words[tuple(onset)] = transcrip
     if "" in onsets:
         onsets.remove("")
         print("Removed empty string")
     if remove_exotics:
         onsets = {onset: freq for onset, freq in onsets.items() if freq > 1}
     if counts:
+        # sorted_probs = sorted(onsets.items(),key=lambda pair: pair[1])
+        # for onset in sorted_probs:
+        #     print(onset[0],onset[1], example_words[onset[0]])
+        # exit()
+        exit()
         return onsets
+
     return onsets.keys()
 
 

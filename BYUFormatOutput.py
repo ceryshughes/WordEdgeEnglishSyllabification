@@ -75,9 +75,9 @@ def output_to_csv(byu_dict, predictions=None, separate_words = False,
 
 #byu_dict: (word string, cluster tuple of string) => list of MedialSyllabification objects
 #Also has an additional column for choice, in case onehot isn't wanted
-#Each row corresponds to a single individual's response
+#If split_rows, each row corresponds to a single individual's response
 def output_to_csv_onehot(byu_dict, predictions=None,
-                  fn = "eddington_prop_syllabifications_long_onehot.csv"):
+                  fn = "eddington_prop_syllabifications_long_onehot.csv", split_rows=True):
     fields = ["Cluster", "Word", "Response"] + [code.name for code in BoundaryCode]
     if predictions:
         fields += predictions.keys()
@@ -91,7 +91,7 @@ def output_to_csv_onehot(byu_dict, predictions=None,
         cluster = key[1]
         syllabifications = byu_dict[(word,cluster)]
         for syllabification in syllabifications:
-            print(syllabification, syllabification.coda, syllabification.onset)
+            #print(syllabification, syllabification.coda, syllabification.onset)
             if syllabification.coda != None and syllabification.onset != None:
                 numResponses = syllabification.numResponses
                 response = syllabification.boundary
@@ -113,10 +113,32 @@ def output_to_csv_onehot(byu_dict, predictions=None,
 
 #byu_dict: (word string, cluster tuple of string) => list of MedialSyllabification objects
 #Also has an additional column for choice, in case onehot isn't wanted
-#Each row corresponds to a single individual's response
-def output_to_csv_logmodel(byu_dict, stat_model, onset_max,
-                  fn = "eddington_prop_syllabifications_multinom_format.csv"):
+#If split_rows, each row corresponds to a single individual's response
+#Otherwise, each row has a Frequency column containing the number of responses
+#morphemes (optional): dictionary from (word, cluster) to dictionary from (coda, onset) to boolean identifying
+#whether there's a morpheme boundary there
+#if morphemes is defined, includes morpheme columns
+# if stress is True, then the MedialSyllabification objects in byu_dict must have a non-None preceding_stres
+#   field; an additional column is added to the csv for preceding stress and whether the preceding vowel is lax
+# if separate_probs, outputs additional columns for onset and coda probabilities; stat_model must have (coda, onset, joint)
+# probability tuple
+def output_to_csv_logmodel(byu_dict, stat_model, onset_max, morphemes = None,
+                  fn = "eddington_prop_syllabifications_multinom_format.csv", split_rows = True, stress=False,
+                           separate_probs=False):
     fields = ["Cluster", "Word", "Response"] + ["jP_"+code.name for code in BoundaryCode if code.name != 'X'] + ["OnsetMax"]
+    print("Outputting")
+    if morphemes:
+        print("Outputting morphemes")
+        fields = fields + ["Morph_"+code.name for code in BoundaryCode if code.name != 'X']
+    if not split_rows:
+        fields.append("Frequency")
+    if stress:
+        fields.append("P_stress")
+        fields.append("P_lax")
+    if separate_probs:
+        fields += ["codaP", "onsetP"]
+    #TODO: add coda and onset prob separate fields
+
 
     output_file = open(fn, "w+", newline='')
     output = csv.DictWriter(output_file, fieldnames=fields)
@@ -127,22 +149,56 @@ def output_to_csv_logmodel(byu_dict, stat_model, onset_max,
         cluster = key[1]
         syllabifications = byu_dict[(word,cluster)]
         for syllabification in syllabifications:
-            print(syllabification, syllabification.coda, syllabification.onset)
+            #print(syllabification, syllabification.coda, syllabification.onset)
             if syllabification.coda != None and syllabification.onset != None:
                 numResponses = syllabification.numResponses
                 response = syllabification.boundary
-                for i in range(int(numResponses)):
-                    row = { "Cluster": cluster,
+                row = { "Cluster": cluster,
                             "Word":word,
                             "Response":response}
-                    for code in [code.name for code in BoundaryCode]:
-                        if code != 'X':
-                            coda, onset = coda_onset(code, cluster)
-                            if len(code) <= len(cluster) + 1:
-                                row["jP_"+code] = stat_model[(word, cluster)][(coda, onset)]
+                if stress:
+                    row["P_stress"] = syllabification.preceding_stress
+                    row["P_lax"] = syllabification.lax_vowel
+                if separate_probs and response != "X":
+                    #print(response)
+                    syll_coda, syll_onset = tuple(syllabification.coda), tuple(syllabification.onset)
+                    coda_prob, onset_prob, joint_prob = stat_model[(word,cluster)][(syll_coda,syll_onset)]
+                    row["codaP"] = coda_prob
+                    row["onsetP"] = onset_prob
+
+                for code in [code.name for code in BoundaryCode]:
+                    if code != 'X':
+                        coda, onset = coda_onset(code, cluster)
+                        if morphemes:
+                            if (word, cluster) in morphemes:
+                                if word == 'whitish':
+                                    print(word, cluster, coda, onset, morphemes[(word, cluster)][
+                                    (coda, onset)])
+                                row["Morph_" + code] = morphemes[(word, cluster)][
+                                    (coda, onset)]  # Todo: fix this to make sense for different lengths
                             else:
-                                row["jP_"+code] = 0
-                            if onset_max[(word, cluster)][(coda, onset)] == 1:
-                                row["OnsetMax"] = code
+                                #print("Missing morpheme annotation", word)
+                                row["Morph_" + code] = 0.25
+
+                        if len(code) <= len(cluster) + 1:
+                            if separate_probs:
+                                row["jP_"+code] = stat_model[(word,cluster)][(coda,onset)][2]
+                            else:
+                                row["jP_"+code] = stat_model[(word, cluster)][(coda, onset)]
+
+                            # TODO: add separate onset and coda probability fields
+                        else:
+                            row["jP_"+code] = 0
+                            row["Morph_"+code] = 0
+                            # TODO: add separate onset and coda probability field
+
+
+                        if onset_max[(word, cluster)][(coda, onset)] == 1:
+                            row["OnsetMax"] = code
+                if split_rows:
+                    for i in range(int(numResponses)):
+                        output.writerow(row)
+                else:
+                    row["Frequency"] = numResponses
                     output.writerow(row)
     output_file.close()

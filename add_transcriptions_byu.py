@@ -51,6 +51,7 @@ def main():
     cmu_dict = read_cmu_file("cmudict-0.7b.txt")
     read_byu_add_transcriptions(cmu_dict)
 
-main()
+if __name__ == "__main__":
+    main()
 
 
