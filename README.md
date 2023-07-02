@@ -10,16 +10,16 @@ BYUSyllabification.py: Defines the class structure for MedialSyllabification obj
 add_transcriptions_byu.py: Reads in CMU pronunciation dictionary transcriptions and outputs the transcribed version of Eddington et al.'s syllabification data, which is originally in orthographic format
 
 
-read_byu_syllables.py: Provides functions for reading the transcribed version of Eddington et al.'s data format into MedialSyllabification objects.
+**read_byu_syllables.py**: Provides functions for reading the transcribed version of Eddington et al.'s data format into MedialSyllabification objects.
 
 
-format_corpus.py: Processes the CMU pronunciation dictionary and predicts syllabifications based on Onset Maximization. Also counts the occurrences of word-initial consonant sequences.
+**format_corpus.py**: Processes the CMU pronunciation dictionary and predicts syllabifications based on Onset Maximization. Also counts the occurrences of word-initial consonant sequences.
 
 
-count_word_edges.py: Counts the occurrences of word-final consonant sequences 
+**count_word_edges.py**: Counts the occurrences of word-final consonant sequences 
 
 
-BYUFormatOutput.py: Provides functions for outputting the predictions of various models for Eddington et al.'s data in a csv.
+**BYUFormatOutput.py**: Provides functions for outputting the predictions of various models for Eddington et al.'s data in a csv.
 
 
-predict_syllabification_judgements.py: Computes the predicted syllabifications of Eddington et al.'s data under various models (e.g. word edge statistics).
+**predict_syllabification_judgements.py**: Computes the predicted syllabifications of Eddington et al.'s data under various models (e.g. word edge statistics).
