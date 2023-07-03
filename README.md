@@ -21,10 +21,10 @@ Short description of code files:
 **count_word_edges.py**: Counts the occurrences of word-final consonant sequences 
 
 
-**maxent_analysis_stress_untrimmed_separateprobs.R**: script for running the multinomial regression analyses and constructing plots
-
-
 **BYUFormatOutput.py**: Provides functions for outputting the predictions of various models for Eddington et al.'s data in a csv.
 
 
 **predict_syllabification_judgements.py**: Computes the predicted syllabifications of Eddington et al.'s data under various models (e.g. word edge statistics).
+
+
+**maxent_analysis_stress_untrimmed_separateprobs.R**: script for running the multinomial regression analyses and constructing plots
