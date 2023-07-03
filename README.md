@@ -4,10 +4,12 @@ The code and data files are still being organized; check back soon for a more in
 A description of the functions, classes, and runtime behavior of each code file is available at https://docs.google.com/document/d/1wFm7EQCfVx9_8FLb1FjftBfLOzzWiXnnRrWk9TEDGNQ/edit?usp=sharing
 
 Short description of code files:
-BYUSyllabification.py: Defines the class structure for MedialSyllabification objects, which represent a single syllabification of a word and the Eddington et al. response data.
 
 
-add_transcriptions_byu.py: Reads in CMU pronunciation dictionary transcriptions and outputs the transcribed version of Eddington et al.'s syllabification data, which is originally in orthographic format
+**BYUSyllabification.py**: Defines the class structure for MedialSyllabification objects, which represent a single syllabification of a word and the Eddington et al. response data.
+
+
+**add_transcriptions_byu.py**: Reads in CMU pronunciation dictionary transcriptions and outputs the transcribed version of Eddington et al.'s syllabification data, which is originally in orthographic format
 
 
 **read_byu_syllables.py**: Provides functions for reading the transcribed version of Eddington et al.'s data format into MedialSyllabification objects.
